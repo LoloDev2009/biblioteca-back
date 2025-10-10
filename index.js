@@ -70,7 +70,7 @@ app.post("/api/libro", async (req, res) => {
 
 // Listar todos los libros
 app.get("/api/libros", (req, res) => {
-  db.all("SELECT * FROM libros", (err, rows) => {
+  db.all("SELECT * FROM libros ORDER BY titulo", (err, rows) => {
     if (err) return res.status(500).json({ error: err.message });
     res.json(rows);
   });

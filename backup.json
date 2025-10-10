@@ -9,7 +9,7 @@
     "portada_url": ""
   },
   {
-    "id": 4,
+    "id": 5,
     "isbn": "9788419266132",
     "titulo": "Los últimos frikis del mundo y la carretera de los esqueletos",
     "autor": "Desconocido",
@@ -18,7 +18,7 @@
     "portada_url": ""
   },
   {
-    "id": 7,
+    "id": 6,
     "isbn": "9788417390136",
     "titulo": "Los últimos frikis del mundo y el más allá cósmico",
     "autor": "Max Brallier",
@@ -27,7 +27,7 @@
     "portada_url": "http://books.google.com/books/content?id=ZABPwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 9,
+    "id": 7,
     "isbn": "9788415709794",
     "titulo": "Los Últimos Frikis del Mundo",
     "autor": "Max Brallier",
@@ -36,7 +36,7 @@
     "portada_url": "http://books.google.com/books/content?id=un7zDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 12,
+    "id": 8,
     "isbn": "9789877475180",
     "titulo": "Archi enemigos",
     "autor": "Marissa Meyer",
@@ -45,7 +45,7 @@
     "portada_url": ""
   },
   {
-    "id": 16,
+    "id": 9,
     "isbn": "9788418002755",
     "titulo": "Los últimos frikis del mundo y el el bate de medianoche",
     "autor": "Max Brallier",
@@ -54,7 +54,7 @@
     "portada_url": ""
   },
   {
-    "id": 23,
+    "id": 10,
     "isbn": "9788417390129",
     "titulo": "Los últimos frikis del mundo y el Rey de las Pesadillas",
     "autor": "Max Brallier",
@@ -63,7 +63,7 @@
     "portada_url": "http://books.google.com/books/content?id=iFEtuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 31,
+    "id": 11,
     "isbn": "9788416387953",
     "titulo": "Los ltimos frikis del mundo y la marcha zombi/ The last kids on earth and the zombie parade",
     "autor": "Max Brallier",
@@ -72,12 +72,111 @@
     "portada_url": "http://books.google.com/books/content?id=uc2DswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 40,
+    "id": 12,
     "isbn": "9789878000114",
     "titulo": "Harry Potter y la Camara Secreta",
     "autor": "J.K.Rowling",
     "editorial": "Salamandra Bolsillo",
     "año": "2020",
+    "portada_url": ""
+  },
+  {
+    "id": 13,
+    "isbn": "9789878120003",
+    "titulo": "Un Renacuajo",
+    "autor": "Jeff Kinney",
+    "editorial": "Molino",
+    "año": "2021",
+    "portada_url": ""
+  },
+  {
+    "id": 14,
+    "isbn": "9789874777744",
+    "titulo": "Una Educacion Mortal",
+    "autor": "Naomi Novik",
+    "editorial": "Umbriel",
+    "año": "2020",
+    "portada_url": ""
+  },
+  {
+    "id": 15,
+    "isbn": "9789877317763",
+    "titulo": "Puki, Un Perronauta",
+    "autor": "Margarita Maine",
+    "editorial": "SM",
+    "año": "2018",
+    "portada_url": ""
+  },
+  {
+    "id": 16,
+    "isbn": "9789875738560",
+    "titulo": "Puki, Un Perro Insoportable ",
+    "autor": "Margarita Mainé",
+    "editorial": "SM",
+    "año": "2016",
+    "portada_url": ""
+  },
+  {
+    "id": 17,
+    "isbn": "9789874404503",
+    "titulo": "Arrasa Con Todo",
+    "autor": "Jeff Kinney",
+    "editorial": "RBA",
+    "año": "2019",
+    "portada_url": ""
+  },
+  {
+    "id": 18,
+    "isbn": "9789504643241",
+    "titulo": "Diminuto Contra Los Fantasmas",
+    "autor": "Liliana Cinetto",
+    "editorial": "loqueleo",
+    "año": "2015",
+    "portada_url": ""
+  },
+  {
+    "id": 19,
+    "isbn": "9789878000190",
+    "titulo": "Harry Potter Y Las Reliquias De La Muertew",
+    "autor": "J.K.Rowling",
+    "editorial": "Salamandra",
+    "año": "2020",
+    "portada_url": ""
+  },
+  {
+    "id": 20,
+    "isbn": "9786075683423",
+    "titulo": "Amistoso Vecino Spiderman: Secretos y Rumores",
+    "autor": "Marvel",
+    "editorial": "Panini Comics",
+    "año": "2021",
+    "portada_url": ""
+  },
+  {
+    "id": 21,
+    "isbn": "9786075687810",
+    "titulo": "Amistoso Vecino Spiderman: Tomando El Control",
+    "autor": "Marvel",
+    "editorial": "Panini Comics",
+    "año": "2021",
+    "portada_url": ""
+  },
+  {
+    "id": 22,
+    "isbn": "9786075785356",
+    "titulo": "Capitan America Iron Man: La Armadura y El Escudo",
+    "autor": "Marvel",
+    "editorial": "Panini Comics",
+    "año": "2024",
+    "portada_url": ""
+  },
+  {
+    "id": 23,
+    "isbn": "9786075787251",
+    "titulo": "Non-Stop Spideman: Jugada Cerebral",
+    "autor": "Marvel",
+    "editorial": "Panini Comics",
+    "año": "2024",
     "portada_url": ""
   }
 ]
