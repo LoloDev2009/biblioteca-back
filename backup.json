@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "isbn": "9789878000183.0",
+    "titulo": "El ladrón del rayo",
+    "autor": "Rick Riordan",
+    "editorial": "Desconocido",
+    "año": "2021",
+    "portada_url": ""
+  },
+  {
+    "id": 4,
+    "isbn": "9788419266132",
+    "titulo": "Los últimos frikis del mundo y la carretera de los esqueletos",
+    "autor": "Desconocido",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 7,
+    "isbn": "9788417390136",
+    "titulo": "Los últimos frikis del mundo y el más allá cósmico",
+    "autor": "Max Brallier",
+    "editorial": "Desconocido",
+    "año": "2019",
+    "portada_url": "http://books.google.com/books/content?id=ZABPwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 9,
+    "isbn": "9788415709794",
+    "titulo": "Los Últimos Frikis del Mundo",
+    "autor": "Max Brallier",
+    "editorial": "Desconocido",
+    "año": "2016-05",
+    "portada_url": "http://books.google.com/books/content?id=un7zDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 12,
+    "isbn": "9789877475180",
+    "titulo": "Archi enemigos",
+    "autor": "Marissa Meyer",
+    "editorial": "Desconocido",
+    "año": "2021",
+    "portada_url": ""
+  },
+  {
+    "id": 16,
+    "isbn": "9788418002755",
+    "titulo": "Los últimos frikis del mundo y el el bate de medianoche",
+    "autor": "Max Brallier",
+    "editorial": "Desconocido",
+    "año": "2021",
+    "portada_url": ""
+  },
+  {
+    "id": 23,
+    "isbn": "9788417390129",
+    "titulo": "Los últimos frikis del mundo y el Rey de las Pesadillas",
+    "autor": "Max Brallier",
+    "editorial": "Desconocido",
+    "año": "2018",
+    "portada_url": "http://books.google.com/books/content?id=iFEtuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 31,
+    "isbn": "9788416387953",
+    "titulo": "Los ltimos frikis del mundo y la marcha zombi/ The last kids on earth and the zombie parade",
+    "autor": "Max Brallier",
+    "editorial": "Desconocido",
+    "año": "2017",
+    "portada_url": "http://books.google.com/books/content?id=uc2DswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 40,
+    "isbn": "9789878000114",
+    "titulo": "Harry Potter y la Camara Secreta",
+    "autor": "J.K.Rowling",
+    "editorial": "Salamandra Bolsillo",
+    "año": "2020",
+    "portada_url": ""
+  }
+]
