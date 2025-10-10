@@ -1,5 +1,185 @@
 [
   {
+    "id": 902,
+    "isbn": "4788506141804",
+    "titulo": "",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 726,
+    "isbn": "9789500765121",
+    "titulo": "17",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 114,
+    "isbn": "9789871208692",
+    "titulo": "A través de la ventana indiscreta",
+    "autor": "Michael Dahl",
+    "editorial": "Desconocido",
+    "año": "2014",
+    "portada_url": ""
+  },
+  {
+    "id": 48,
+    "isbn": "9786075683423",
+    "titulo": "Amistoso Vecino Spiderman: Secretos y Rumores",
+    "autor": "Marvel",
+    "editorial": "Panini Comics",
+    "año": "2021",
+    "portada_url": ""
+  },
+  {
+    "id": 49,
+    "isbn": "9786075687810",
+    "titulo": "Amistoso Vecino Spiderman: Tomando El Control",
+    "autor": "Marvel",
+    "editorial": "Panini Comics",
+    "año": "2021",
+    "portada_url": ""
+  },
+  {
+    "id": 77,
+    "isbn": "9788424661786",
+    "titulo": "Anita Garbo 1. Misión: Salvar la bahía",
+    "autor": "Desconocido",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 31,
+    "isbn": "9789877313598",
+    "titulo": "Aprendiz de dragón",
+    "autor": "Liliana Bodoc",
+    "editorial": "El Barco De Vapor",
+    "año": "-",
+    "portada_url": ""
+  },
+  {
+    "id": 8,
+    "isbn": "9789877475180",
+    "titulo": "Archi enemigos",
+    "autor": "Marissa Meyer",
+    "editorial": "Desconocido",
+    "año": "2021",
+    "portada_url": ""
+  },
+  {
+    "id": 45,
+    "isbn": "9789874404503",
+    "titulo": "Arrasa Con Todo",
+    "autor": "Jeff Kinney",
+    "editorial": "RBA",
+    "año": "2019",
+    "portada_url": ""
+  },
+  {
+    "id": 405,
+    "isbn": "9789875040236",
+    "titulo": "Asesinatos en la escuela del perro",
+    "autor": "Desconocido",
+    "editorial": "Desconocido",
+    "año": "2015",
+    "portada_url": ""
+  },
+  {
+    "id": 610,
+    "isbn": "9789870401827",
+    "titulo": "Canciones para mirar",
+    "autor": "María Elena Walsh",
+    "editorial": "Desconocido",
+    "año": "2011",
+    "portada_url": ""
+  },
+  {
+    "id": 50,
+    "isbn": "9786075785356",
+    "titulo": "Capitan America Iron Man: La Armadura y El Escudo",
+    "autor": "Marvel",
+    "editorial": "Panini Comics",
+    "año": "2024",
+    "portada_url": ""
+  },
+  {
+    "id": 338,
+    "isbn": "9789875040588",
+    "titulo": "Colegio maldito",
+    "autor": "Gabriel Korenfeld, Federico Combi",
+    "editorial": "Desconocido",
+    "año": "2011",
+    "portada_url": ""
+  },
+  {
+    "id": 356,
+    "isbn": "9789875040694",
+    "titulo": "Colegio maldito II",
+    "autor": "Gabriel Korenfeld",
+    "editorial": "Desconocido",
+    "año": "2015",
+    "portada_url": ""
+  },
+  {
+    "id": 383,
+    "isbn": "9789875041080",
+    "titulo": "Colegio maldito tres",
+    "autor": "Gabriel Korenfeld",
+    "editorial": "Desconocido",
+    "año": "2015",
+    "portada_url": ""
+  },
+  {
+    "id": 481,
+    "isbn": "9789870401810",
+    "titulo": "Cuentopos de Gulubú",
+    "autor": "María Elena Walsh",
+    "editorial": "Desconocido",
+    "año": "2010",
+    "portada_url": ""
+  },
+  {
+    "id": 46,
+    "isbn": "9789504643241",
+    "titulo": "Diminuto Contra Los Fantasmas",
+    "autor": "Liliana Cinetto",
+    "editorial": "loqueleo",
+    "año": "2015",
+    "portada_url": ""
+  },
+  {
+    "id": 573,
+    "isbn": "9789870415718",
+    "titulo": "Doña disparate y Bambuco",
+    "autor": "María Elena Walsh",
+    "editorial": "Desconocido",
+    "año": "2010",
+    "portada_url": ""
+  },
+  {
+    "id": 194,
+    "isbn": "9789871208708",
+    "titulo": "El Asistente Desaparece!",
+    "autor": "Michael Dahl",
+    "editorial": "Desconocido",
+    "año": "2013",
+    "portada_url": ""
+  },
+  {
+    "id": 507,
+    "isbn": "9789870401780",
+    "titulo": "El Reino del revés",
+    "autor": "María Elena Walsh",
+    "editorial": "Desconocido",
+    "año": "2010",
+    "portada_url": ""
+  },
+  {
     "id": 1,
     "isbn": "9789878000183.0",
     "titulo": "El ladrón del rayo",
@@ -9,12 +189,165 @@
     "portada_url": ""
   },
   {
-    "id": 5,
-    "isbn": "9788419266132",
-    "titulo": "Los últimos frikis del mundo y la carretera de los esqueletos",
-    "autor": "Desconocido",
+    "id": 150,
+    "isbn": "9789871208920",
+    "titulo": "El mago y el agujero de gusano",
+    "autor": "Michael Dahl",
     "editorial": "Desconocido",
-    "año": "Desconocido",
+    "año": "2016",
+    "portada_url": ""
+  },
+  {
+    "id": 47,
+    "isbn": "9789878000190",
+    "titulo": "Harry Potter Y Las Reliquias De La Muertew",
+    "autor": "J.K.Rowling",
+    "editorial": "Salamandra",
+    "año": "2020",
+    "portada_url": ""
+  },
+  {
+    "id": 12,
+    "isbn": "9789878000114",
+    "titulo": "Harry Potter y la Camara Secreta",
+    "autor": "J.K.Rowling",
+    "editorial": "Salamandra Bolsillo",
+    "año": "2020",
+    "portada_url": ""
+  },
+  {
+    "id": 614,
+    "isbn": "9789870401742",
+    "titulo": "Hotel Pioho's Palace",
+    "autor": "María Elena Walsh",
+    "editorial": "Desconocido",
+    "año": "2010",
+    "portada_url": ""
+  },
+  {
+    "id": 271,
+    "isbn": "9788449431098",
+    "titulo": "La Bruja Winnie",
+    "autor": "Korky Korky, Korky Paul, Valerie Thomas",
+    "editorial": "El Mundo de Winnie",
+    "año": "2006-06",
+    "portada_url": "http://books.google.com/books/content?id=8AABAgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 172,
+    "isbn": "9789871208722",
+    "titulo": "La Sombra de Un Mago",
+    "autor": "Michael Dahl",
+    "editorial": "Desconocido",
+    "año": "2013",
+    "portada_url": ""
+  },
+  {
+    "id": 302,
+    "isbn": "9788449431104",
+    "titulo": "La computadora nueva de Winnie",
+    "autor": "Korky Korky, Valerie Thomas, Korky Paul",
+    "editorial": "El Mundo de Winnie",
+    "año": "2006",
+    "portada_url": "http://books.google.com/books/content?id=yXVVPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 645,
+    "isbn": "9789870401711",
+    "titulo": "La nube traicionera",
+    "autor": "María Elena Walsh",
+    "editorial": "Desconocido",
+    "año": "2010",
+    "portada_url": ""
+  },
+  {
+    "id": 870,
+    "isbn": "9789500741804",
+    "titulo": "Las aventuras de Facu y Café con Leche",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "2014",
+    "portada_url": ""
+  },
+  {
+    "id": 903,
+    "isbn": "9789500737234",
+    "titulo": "Las aventuras de Facu y Café con Leche",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "2020",
+    "portada_url": ""
+  },
+  {
+    "id": 843,
+    "isbn": "9789500746991",
+    "titulo": "Las aventuras de facu y Café con leche",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "2014",
+    "portada_url": ""
+  },
+  {
+    "id": 56,
+    "isbn": "9788426142955",
+    "titulo": "Los Cinco En El Cerro del Contrabandista",
+    "autor": "Enid Blyton",
+    "editorial": "Juventud",
+    "año": "2016-03-10",
+    "portada_url": "http://books.google.com/books/content?id=tUyTjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 68,
+    "isbn": "9788426142924",
+    "titulo": "Los Cinco y El Tesoro de La Isla",
+    "autor": "Enid Blyton",
+    "editorial": "Juventud",
+    "año": "2016-03-10",
+    "portada_url": "http://books.google.com/books/content?id=bQ6IjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 11,
+    "isbn": "9788416387953",
+    "titulo": "Los ltimos frikis del mundo y la marcha zombi/ The last kids on earth and the zombie parade",
+    "autor": "Max Brallier",
+    "editorial": "Desconocido",
+    "año": "2017",
+    "portada_url": "http://books.google.com/books/content?id=uc2DswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 130,
+    "isbn": "9789871208937",
+    "titulo": "Los prisioneros del piso trece",
+    "autor": "Michael Dahl",
+    "editorial": "Desconocido",
+    "año": "2016",
+    "portada_url": ""
+  },
+  {
+    "id": 7,
+    "isbn": "9788415709794",
+    "titulo": "Los Últimos Frikis del Mundo",
+    "autor": "Max Brallier",
+    "editorial": "Desconocido",
+    "año": "2016-05",
+    "portada_url": "http://books.google.com/books/content?id=un7zDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 10,
+    "isbn": "9788417390129",
+    "titulo": "Los últimos frikis del mundo y el Rey de las Pesadillas",
+    "autor": "Max Brallier",
+    "editorial": "Desconocido",
+    "año": "2018",
+    "portada_url": "http://books.google.com/books/content?id=iFEtuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 9,
+    "isbn": "9788418002755",
+    "titulo": "Los últimos frikis del mundo y el el bate de medianoche",
+    "autor": "Max Brallier",
+    "editorial": "Desconocido",
+    "año": "2021",
     "portada_url": ""
   },
   {
@@ -27,88 +360,178 @@
     "portada_url": "http://books.google.com/books/content?id=ZABPwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 7,
-    "isbn": "9788415709794",
-    "titulo": "Los Últimos Frikis del Mundo",
-    "autor": "Max Brallier",
+    "id": 5,
+    "isbn": "9788419266132",
+    "titulo": "Los últimos frikis del mundo y la carretera de los esqueletos",
+    "autor": "Desconocido",
     "editorial": "Desconocido",
-    "año": "2016-05",
-    "portada_url": "http://books.google.com/books/content?id=un7zDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-  },
-  {
-    "id": 8,
-    "isbn": "9789877475180",
-    "titulo": "Archi enemigos",
-    "autor": "Marissa Meyer",
-    "editorial": "Desconocido",
-    "año": "2021",
+    "año": "Desconocido",
     "portada_url": ""
   },
   {
-    "id": 9,
-    "isbn": "9788418002755",
-    "titulo": "Los últimos frikis del mundo y el el bate de medianoche",
-    "autor": "Max Brallier",
+    "id": 699,
+    "isbn": "9789500730532",
+    "titulo": "MAYOR Y MENOR 2",
+    "autor": "CHANTI",
     "editorial": "Desconocido",
-    "año": "2021",
+    "año": "Desconocido",
     "portada_url": ""
   },
   {
-    "id": 10,
-    "isbn": "9788417390129",
-    "titulo": "Los últimos frikis del mundo y el Rey de las Pesadillas",
-    "autor": "Max Brallier",
+    "id": 433,
+    "isbn": "9789875041653",
+    "titulo": "Macumba",
+    "autor": "José Montero",
     "editorial": "Desconocido",
-    "año": "2018",
-    "portada_url": "http://books.google.com/books/content?id=iFEtuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "año": "2016",
+    "portada_url": ""
   },
   {
-    "id": 11,
-    "isbn": "9788416387953",
-    "titulo": "Los ltimos frikis del mundo y la marcha zombi/ The last kids on earth and the zombie parade",
-    "autor": "Max Brallier",
+    "id": 456,
+    "isbn": "9789870401797",
+    "titulo": "Manuelita ¿dónde vas?",
+    "autor": "María Elena Walsh",
+    "editorial": "Desconocido",
+    "año": "2011",
+    "portada_url": ""
+  },
+  {
+    "id": 743,
+    "isbn": "9789500733717",
+    "titulo": "Mayor Y Menor 4",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 727,
+    "isbn": "9789500732024",
+    "titulo": "Mayor y menor",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "2010",
+    "portada_url": ""
+  },
+  {
+    "id": 760,
+    "isbn": "9789500738934",
+    "titulo": "Mayor y menor",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "2015",
+    "portada_url": ""
+  },
+  {
+    "id": 778,
+    "isbn": "9789500743518",
+    "titulo": "Mayor y menor",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "2014",
+    "portada_url": ""
+  },
+  {
+    "id": 797,
+    "isbn": "9789500747943",
+    "titulo": "Mayor y menor",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "2014",
+    "portada_url": ""
+  },
+  {
+    "id": 817,
+    "isbn": "9789500752749",
+    "titulo": "Mayor y menor",
+    "autor": "Desconocido",
+    "editorial": "Desconocido",
+    "año": "2015",
+    "portada_url": ""
+  },
+  {
+    "id": 936,
+    "isbn": "9789500758215",
+    "titulo": "Mayor y menor",
+    "autor": "Chanti",
     "editorial": "Desconocido",
     "año": "2017",
-    "portada_url": "http://books.google.com/books/content?id=uc2DswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-  },
-  {
-    "id": 12,
-    "isbn": "9789878000114",
-    "titulo": "Harry Potter y la Camara Secreta",
-    "autor": "J.K.Rowling",
-    "editorial": "Salamandra Bolsillo",
-    "año": "2020",
     "portada_url": ""
   },
   {
-    "id": 13,
-    "isbn": "9789878120003",
-    "titulo": "Un Renacuajo",
-    "autor": "Jeff Kinney",
-    "editorial": "Molino",
-    "año": "2021",
+    "id": 974,
+    "isbn": "9789500759465",
+    "titulo": "Mayor y menor",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "2017",
     "portada_url": ""
   },
   {
-    "id": 14,
-    "isbn": "9789874777744",
-    "titulo": "Una Educacion Mortal",
-    "autor": "Naomi Novik",
-    "editorial": "Umbriel",
-    "año": "2020",
+    "id": 87,
+    "isbn": "9789507320491",
+    "titulo": "Mi Nombre Es Stilton, Geronimo Stilton",
+    "autor": "Geronimo Stilton",
+    "editorial": "Desconocido",
+    "año": "2004-04-01",
+    "portada_url": "http://books.google.com/books/content?id=BUQ7AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 674,
+    "isbn": "9789504643562",
+    "titulo": "Nadie te creería",
+    "autor": "Luis María Pescetti",
+    "editorial": "Desconocido",
+    "año": "2015",
     "portada_url": ""
   },
   {
-    "id": 15,
-    "isbn": "9789877317763",
-    "titulo": "Puki, Un Perronauta",
-    "autor": "Margarita Maine",
-    "editorial": "SM",
+    "id": 51,
+    "isbn": "9786075787251",
+    "titulo": "Non-Stop Spideman: Jugada Cerebral",
+    "autor": "Marvel",
+    "editorial": "Panini Comics",
+    "año": "2024",
+    "portada_url": ""
+  },
+  {
+    "id": 61,
+    "isbn": "9788426142931",
+    "titulo": "Otra Aventura de los Cinco",
+    "autor": "Enid Blyton",
+    "editorial": "Los Cinco",
+    "año": "2016-03-10",
+    "portada_url": "http://books.google.com/books/content?id=x0ubjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 619,
+    "isbn": "9789875041844",
+    "titulo": "PURO PELO MAS CONECTADOS MENOS COMUNICADOS",
+    "autor": "Desconocido",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 218,
+    "isbn": "9789871208715",
+    "titulo": "Para atrapar al fantasma",
+    "autor": "Michael Dahl",
+    "editorial": "Desconocido",
     "año": "2018",
     "portada_url": ""
   },
   {
-    "id": 16,
+    "id": 657,
+    "isbn": "9789870401803",
+    "titulo": "Pocopán",
+    "autor": "María Elena Walsh",
+    "editorial": "Desconocido",
+    "año": "2010",
+    "portada_url": ""
+  },
+  {
+    "id": 44,
     "isbn": "9789875738560",
     "titulo": "Puki, Un Perro Insoportable ",
     "autor": "Margarita Mainé",
@@ -117,66 +540,363 @@
     "portada_url": ""
   },
   {
-    "id": 17,
-    "isbn": "9789874404503",
-    "titulo": "Arrasa Con Todo",
+    "id": 43,
+    "isbn": "9789877317763",
+    "titulo": "Puki, Un Perronauta",
+    "autor": "Margarita Maine",
+    "editorial": "SM",
+    "año": "2018",
+    "portada_url": ""
+  },
+  {
+    "id": 626,
+    "isbn": "9789875041943",
+    "titulo": "Puro Pelo",
+    "autor": "Fabián Sevilla",
+    "editorial": "Desconocido",
+    "año": "2017",
+    "portada_url": ""
+  },
+  {
+    "id": 633,
+    "isbn": "9789875041929",
+    "titulo": "Puro Pelo",
+    "autor": "Fabián Sevilla",
+    "editorial": "Desconocido",
+    "año": "2017",
+    "portada_url": ""
+  },
+  {
+    "id": 52,
+    "isbn": "9789877473834",
+    "titulo": "Renegados",
+    "autor": "Marissa Meyer",
+    "editorial": "V&R Ediciones",
+    "año": "2018-02",
+    "portada_url": "http://books.google.com/books/content?id=smeWuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 53,
+    "isbn": "9789877476149",
+    "titulo": "Supernova",
+    "autor": "Marissa Meyer",
+    "editorial": "Desconocido",
+    "año": "2021",
+    "portada_url": ""
+  },
+  {
+    "id": 713,
+    "isbn": "9780110761121",
+    "titulo": "The Tayside and Fife Regions and Perth and Kinross District and Kirkcaldy District (Westfield) Boundaries Amendment Order 1987",
+    "autor": "Great Britain",
+    "editorial": "Desconocido",
+    "año": "1987-02-12",
+    "portada_url": ""
+  },
+  {
+    "id": 616,
+    "isbn": "9789870401766",
+    "titulo": "Tutú marambá",
+    "autor": "María Elena Walsh",
+    "editorial": "Desconocido",
+    "año": "2010",
+    "portada_url": ""
+  },
+  {
+    "id": 41,
+    "isbn": "9789878120003",
+    "titulo": "Un Renacuajo",
     "autor": "Jeff Kinney",
-    "editorial": "RBA",
-    "año": "2019",
+    "editorial": "Molino",
+    "año": "2021",
     "portada_url": ""
   },
   {
-    "id": 18,
-    "isbn": "9789504643241",
-    "titulo": "Diminuto Contra Los Fantasmas",
-    "autor": "Liliana Cinetto",
-    "editorial": "loqueleo",
-    "año": "2015",
-    "portada_url": ""
-  },
-  {
-    "id": 19,
-    "isbn": "9789878000190",
-    "titulo": "Harry Potter Y Las Reliquias De La Muertew",
-    "autor": "J.K.Rowling",
-    "editorial": "Salamandra",
+    "id": 42,
+    "isbn": "9789874777744",
+    "titulo": "Una Educacion Mortal",
+    "autor": "Naomi Novik",
+    "editorial": "Umbriel",
     "año": "2020",
     "portada_url": ""
   },
   {
-    "id": 20,
-    "isbn": "9786075683423",
-    "titulo": "Amistoso Vecino Spiderman: Secretos y Rumores",
-    "autor": "Marvel",
-    "editorial": "Panini Comics",
-    "año": "2021",
+    "id": 611,
+    "isbn": "9789870401704",
+    "titulo": "Versos tradicionales para cebollitas",
+    "autor": "María Elena Walsh",
+    "editorial": "Desconocido",
+    "año": "2010",
     "portada_url": ""
   },
   {
-    "id": 21,
-    "isbn": "9786075687810",
-    "titulo": "Amistoso Vecino Spiderman: Tomando El Control",
-    "autor": "Marvel",
-    "editorial": "Panini Comics",
-    "año": "2021",
+    "id": 241,
+    "isbn": "9786077354789",
+    "titulo": "Winnie Vuela Otra Vez",
+    "autor": "Korky Korky, Valerie Thomas",
+    "editorial": "El Mundo de Winnie",
+    "año": "2015-06",
+    "portada_url": "http://books.google.com/books/content?id=XvyGjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 231,
+    "isbn": "9786077354796",
+    "titulo": "Winnie Y El Robot",
+    "autor": "Korky Korky, Valerie Thomas",
+    "editorial": "El Mundo de Winnie",
+    "año": "2015-06",
+    "portada_url": "http://books.google.com/books/content?id=h_PqjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 234,
+    "isbn": "9786077357353",
+    "titulo": "Winnie Y La Calabaza Gigante",
+    "autor": "Korky Korky, Valerie Thomas",
+    "editorial": "El Mundo de Winnie",
+    "año": "2016-09",
+    "portada_url": "http://books.google.com/books/content?id=AAR5AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 321,
+    "isbn": "9786074008975",
+    "titulo": "Winnie Y Los Dinosaurios",
+    "autor": "Korky Paul, Valerie Thomas",
+    "editorial": "El Mundo de Winnie",
+    "año": "2013-08",
+    "portada_url": "http://books.google.com/books/content?id=lBfzoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 229,
+    "isbn": "9786077351931",
+    "titulo": "Winnie Y Los Piratas",
+    "autor": "Korky Korky, Valerie Thomas",
+    "editorial": "El Mundo de Winnie",
+    "año": "2013-09",
+    "portada_url": "http://books.google.com/books/content?id=UOh8AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 287,
+    "isbn": "9788449431081",
+    "titulo": "Winnie en invierno",
+    "autor": "Korky Paul, Valérie Thomas",
+    "editorial": "Oceano",
+    "año": "2006",
     "portada_url": ""
   },
   {
-    "id": 22,
-    "isbn": "9786075785356",
-    "titulo": "Capitan America Iron Man: La Armadura y El Escudo",
-    "autor": "Marvel",
-    "editorial": "Panini Comics",
-    "año": "2024",
+    "id": 259,
+    "isbn": "9788449434006",
+    "titulo": "Winnie y el dragón de medianoche",
+    "autor": "Valérie Thomas",
+    "editorial": "Desconocido",
+    "año": "2013",
     "portada_url": ""
   },
   {
-    "id": 23,
-    "isbn": "9786075787251",
-    "titulo": "Non-Stop Spideman: Jugada Cerebral",
-    "autor": "Marvel",
-    "editorial": "Panini Comics",
-    "año": "2024",
+    "id": 246,
+    "isbn": "9786074004366",
+    "titulo": "Winnie y la alfombra voladora",
+    "autor": "Valerie Thomas, Korky Paul",
+    "editorial": "Desconocido",
+    "año": "2010",
+    "portada_url": ""
+  },
+  {
+    "id": 703,
+    "isbn": "9789500770392",
+    "titulo": "Yrigoyen",
+    "autor": "Félix Luna",
+    "editorial": "Desconocido",
+    "año": "1985",
+    "portada_url": "http://books.google.com/books/content?id=s47sAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 537,
+    "isbn": "9789870401735",
+    "titulo": "Zoo loco",
+    "autor": "María Elena Walsh",
+    "editorial": "Desconocido",
+    "año": "2010",
+    "portada_url": ""
+  },
+  {
+    "id": 696,
+    "isbn": "9789873820793",
+    "titulo": "el aserradero lúgubre",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 697,
+    "isbn": "9789873820823",
+    "titulo": "el ventanal",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 841,
+    "isbn": "9789500755740",
+    "titulo": "facu y café con leche 5",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 840,
+    "isbn": "9789500758680",
+    "titulo": "facu y café con leche 6",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 839,
+    "isbn": "9789500763547",
+    "titulo": "facu y café con leche 7",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 842,
+    "isbn": "9789500751605",
+    "titulo": "ff con cafe ",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 698,
+    "isbn": "9789873820687",
+    "titulo": "la habitacion de los reptiles",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 935,
+    "isbn": "9789500756853",
+    "titulo": "m y m 10",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 934,
+    "isbn": "9789500764872",
+    "titulo": "m y m para dibuj y jugar",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 701,
+    "isbn": "9789500764049",
+    "titulo": "mayor y menor 16",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 712,
+    "isbn": "8782700766210",
+    "titulo": "mayor y menor 18",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 711,
+    "isbn": "9789500766944",
+    "titulo": "mayor y menor 19",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 710,
+    "isbn": "9789500768559",
+    "titulo": "mayor y menor 20",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 838,
+    "isbn": "9789500754750",
+    "titulo": "mayor y menor 9",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 702,
+    "isbn": "9789500768160",
+    "titulo": "mayor y menor monstruoso",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 1007,
+    "isbn": "9789500761284",
+    "titulo": "mym13",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 1008,
+    "isbn": "9789500761789",
+    "titulo": "mym14",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 1009,
+    "isbn": "9789500762724",
+    "titulo": "mymquince",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 236,
+    "isbn": "9789707773998",
+    "titulo": "¡Feliz cumpleaños, Winnie!",
+    "autor": "Valérie Thomas",
+    "editorial": "Desconocido",
+    "año": "2008",
+    "portada_url": ""
+  },
+  {
+    "id": 100,
+    "isbn": "9789507320705",
+    "titulo": "ŁQuita esas patas, caraqueso!",
+    "autor": "Desconocido",
+    "editorial": "Desconocido",
+    "año": "2011",
     "portada_url": ""
   }
 ]
