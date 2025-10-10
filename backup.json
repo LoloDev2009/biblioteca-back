@@ -1,6 +1,6 @@
 [
   {
-    "id": 902,
+    "id": 1185,
     "isbn": "4788506141804",
     "titulo": "",
     "autor": "",
@@ -9,16 +9,7 @@
     "portada_url": ""
   },
   {
-    "id": 726,
-    "isbn": "9789500765121",
-    "titulo": "17",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 114,
+    "id": 103,
     "isbn": "9789871208692",
     "titulo": "A través de la ventana indiscreta",
     "autor": "Michael Dahl",
@@ -81,7 +72,7 @@
     "portada_url": ""
   },
   {
-    "id": 405,
+    "id": 180,
     "isbn": "9789875040236",
     "titulo": "Asesinatos en la escuela del perro",
     "autor": "Desconocido",
@@ -90,7 +81,7 @@
     "portada_url": ""
   },
   {
-    "id": 610,
+    "id": 290,
     "isbn": "9789870401827",
     "titulo": "Canciones para mirar",
     "autor": "María Elena Walsh",
@@ -108,7 +99,7 @@
     "portada_url": ""
   },
   {
-    "id": 338,
+    "id": 182,
     "isbn": "9789875040588",
     "titulo": "Colegio maldito",
     "autor": "Gabriel Korenfeld, Federico Combi",
@@ -117,7 +108,7 @@
     "portada_url": ""
   },
   {
-    "id": 356,
+    "id": 183,
     "isbn": "9789875040694",
     "titulo": "Colegio maldito II",
     "autor": "Gabriel Korenfeld",
@@ -126,7 +117,7 @@
     "portada_url": ""
   },
   {
-    "id": 383,
+    "id": 184,
     "isbn": "9789875041080",
     "titulo": "Colegio maldito tres",
     "autor": "Gabriel Korenfeld",
@@ -135,7 +126,7 @@
     "portada_url": ""
   },
   {
-    "id": 481,
+    "id": 185,
     "isbn": "9789870401810",
     "titulo": "Cuentopos de Gulubú",
     "autor": "María Elena Walsh",
@@ -153,7 +144,7 @@
     "portada_url": ""
   },
   {
-    "id": 573,
+    "id": 240,
     "isbn": "9789870415718",
     "titulo": "Doña disparate y Bambuco",
     "autor": "María Elena Walsh",
@@ -162,7 +153,7 @@
     "portada_url": ""
   },
   {
-    "id": 194,
+    "id": 112,
     "isbn": "9789871208708",
     "titulo": "El Asistente Desaparece!",
     "autor": "Michael Dahl",
@@ -171,12 +162,21 @@
     "portada_url": ""
   },
   {
-    "id": 507,
+    "id": 242,
     "isbn": "9789870401780",
     "titulo": "El Reino del revés",
     "autor": "María Elena Walsh",
     "editorial": "Desconocido",
     "año": "2010",
+    "portada_url": ""
+  },
+  {
+    "id": 1775,
+    "isbn": "9789504646891",
+    "titulo": "El astronauta ",
+    "autor": "",
+    "editorial": "",
+    "año": "",
     "portada_url": ""
   },
   {
@@ -189,7 +189,7 @@
     "portada_url": ""
   },
   {
-    "id": 150,
+    "id": 114,
     "isbn": "9789871208920",
     "titulo": "El mago y el agujero de gusano",
     "autor": "Michael Dahl",
@@ -216,7 +216,7 @@
     "portada_url": ""
   },
   {
-    "id": 614,
+    "id": 304,
     "isbn": "9789870401742",
     "titulo": "Hotel Pioho's Palace",
     "autor": "María Elena Walsh",
@@ -225,7 +225,7 @@
     "portada_url": ""
   },
   {
-    "id": 271,
+    "id": 192,
     "isbn": "9788449431098",
     "titulo": "La Bruja Winnie",
     "autor": "Korky Korky, Korky Paul, Valerie Thomas",
@@ -234,7 +234,7 @@
     "portada_url": "http://books.google.com/books/content?id=8AABAgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 172,
+    "id": 117,
     "isbn": "9789871208722",
     "titulo": "La Sombra de Un Mago",
     "autor": "Michael Dahl",
@@ -243,7 +243,7 @@
     "portada_url": ""
   },
   {
-    "id": 302,
+    "id": 194,
     "isbn": "9788449431104",
     "titulo": "La computadora nueva de Winnie",
     "autor": "Korky Korky, Valerie Thomas, Korky Paul",
@@ -252,7 +252,7 @@
     "portada_url": "http://books.google.com/books/content?id=yXVVPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 645,
+    "id": 434,
     "isbn": "9789870401711",
     "titulo": "La nube traicionera",
     "autor": "María Elena Walsh",
@@ -261,34 +261,70 @@
     "portada_url": ""
   },
   {
-    "id": 870,
-    "isbn": "9789500741804",
-    "titulo": "Las aventuras de Facu y Café con Leche",
-    "autor": "Chanti",
-    "editorial": "Desconocido",
-    "año": "2014",
-    "portada_url": ""
-  },
-  {
-    "id": 903,
+    "id": 1215,
     "isbn": "9789500737234",
-    "titulo": "Las aventuras de Facu y Café con Leche",
+    "titulo": "Las Aventuras de Facu y Café con Leche 01",
     "autor": "Chanti",
     "editorial": "Desconocido",
     "año": "2020",
     "portada_url": ""
   },
   {
-    "id": 843,
-    "isbn": "9789500746991",
-    "titulo": "Las aventuras de facu y Café con leche",
+    "id": 1214,
+    "isbn": "9789500741804",
+    "titulo": "Las Aventuras de Facu y Café con Leche 02",
     "autor": "Chanti",
     "editorial": "Desconocido",
     "año": "2014",
     "portada_url": ""
   },
   {
-    "id": 56,
+    "id": 1123,
+    "isbn": "9789500746991",
+    "titulo": "Las Aventuras de Facu y Café con Leche 03",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "2014",
+    "portada_url": ""
+  },
+  {
+    "id": 1175,
+    "isbn": "9789500751605",
+    "titulo": "Las Aventuras de Facu y Café con Leche 04",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 1172,
+    "isbn": "9789500755740",
+    "titulo": "Las Aventuras de Facu y Café con Leche 05",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 1173,
+    "isbn": "9789500758680",
+    "titulo": "Las Aventuras de Facu y Café con Leche 06",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 1085,
+    "isbn": "9789500763547",
+    "titulo": "Las Aventuras de Facu y Café con Leche 07",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 86,
     "isbn": "9788426142955",
     "titulo": "Los Cinco En El Cerro del Contrabandista",
     "autor": "Enid Blyton",
@@ -297,7 +333,7 @@
     "portada_url": "http://books.google.com/books/content?id=tUyTjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 68,
+    "id": 87,
     "isbn": "9788426142924",
     "titulo": "Los Cinco y El Tesoro de La Isla",
     "autor": "Enid Blyton",
@@ -315,7 +351,7 @@
     "portada_url": "http://books.google.com/books/content?id=uc2DswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 130,
+    "id": 121,
     "isbn": "9789871208937",
     "titulo": "Los prisioneros del piso trece",
     "autor": "Michael Dahl",
@@ -369,16 +405,7 @@
     "portada_url": ""
   },
   {
-    "id": 699,
-    "isbn": "9789500730532",
-    "titulo": "MAYOR Y MENOR 2",
-    "autor": "CHANTI",
-    "editorial": "Desconocido",
-    "año": "Desconocido",
-    "portada_url": ""
-  },
-  {
-    "id": 433,
+    "id": 204,
     "isbn": "9789875041653",
     "titulo": "Macumba",
     "autor": "José Montero",
@@ -387,7 +414,7 @@
     "portada_url": ""
   },
   {
-    "id": 456,
+    "id": 205,
     "isbn": "9789870401797",
     "titulo": "Manuelita ¿dónde vas?",
     "autor": "María Elena Walsh",
@@ -396,7 +423,7 @@
     "portada_url": ""
   },
   {
-    "id": 743,
+    "id": 965,
     "isbn": "9789500733717",
     "titulo": "Mayor Y Menor 4",
     "autor": "Chanti",
@@ -405,70 +432,196 @@
     "portada_url": ""
   },
   {
-    "id": 727,
+    "id": 511,
+    "isbn": "9789500730532",
+    "titulo": "Mayor y Menor 02",
+    "autor": "CHANTI",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 966,
     "isbn": "9789500732024",
-    "titulo": "Mayor y menor",
+    "titulo": "Mayor y Menor 03",
     "autor": "Chanti",
     "editorial": "Desconocido",
     "año": "2010",
     "portada_url": ""
   },
   {
-    "id": 760,
+    "id": 967,
     "isbn": "9789500738934",
-    "titulo": "Mayor y menor",
+    "titulo": "Mayor y Menor 05",
     "autor": "Chanti",
     "editorial": "Desconocido",
     "año": "2015",
     "portada_url": ""
   },
   {
-    "id": 778,
+    "id": 968,
     "isbn": "9789500743518",
-    "titulo": "Mayor y menor",
+    "titulo": "Mayor y Menor 06",
     "autor": "Chanti",
     "editorial": "Desconocido",
     "año": "2014",
     "portada_url": ""
   },
   {
-    "id": 797,
+    "id": 969,
     "isbn": "9789500747943",
-    "titulo": "Mayor y menor",
+    "titulo": "Mayor y Menor 07",
     "autor": "Chanti",
     "editorial": "Desconocido",
     "año": "2014",
     "portada_url": ""
   },
   {
-    "id": 817,
+    "id": 970,
     "isbn": "9789500752749",
-    "titulo": "Mayor y menor",
-    "autor": "Desconocido",
+    "titulo": "Mayor y Menor 08",
+    "autor": "Chanti",
     "editorial": "Desconocido",
     "año": "2015",
     "portada_url": ""
   },
   {
-    "id": 936,
+    "id": 1091,
+    "isbn": "9789500754750",
+    "titulo": "Mayor y Menor 09",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 1366,
+    "isbn": "9789500756853",
+    "titulo": "Mayor y Menor 10",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 1329,
     "isbn": "9789500758215",
-    "titulo": "Mayor y menor",
+    "titulo": "Mayor y Menor 11",
     "autor": "Chanti",
     "editorial": "Desconocido",
     "año": "2017",
     "portada_url": ""
   },
   {
-    "id": 974,
+    "id": 1330,
     "isbn": "9789500759465",
-    "titulo": "Mayor y menor",
+    "titulo": "Mayor y Menor 12",
     "autor": "Chanti",
     "editorial": "Desconocido",
     "año": "2017",
     "portada_url": ""
   },
   {
-    "id": 87,
+    "id": 1374,
+    "isbn": "9789500761284",
+    "titulo": "Mayor y Menor 13",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 1473,
+    "isbn": "9789500761789",
+    "titulo": "Mayor y Menor 14",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 1672,
+    "isbn": "9789500762724",
+    "titulo": "Mayor y Menor 15",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 543,
+    "isbn": "9789500764049",
+    "titulo": "Mayor y Menor 16",
+    "autor": "CHANTI",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 847,
+    "isbn": "9789500765121",
+    "titulo": "Mayor y Menor 17",
+    "autor": "CHANTI",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 764,
+    "isbn": "8782700766210",
+    "titulo": "Mayor y Menor 18",
+    "autor": "CHANTI",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 689,
+    "isbn": "9789500766944",
+    "titulo": "Mayor y Menor 19",
+    "autor": "CHANTI",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 690,
+    "isbn": "9789500768559",
+    "titulo": "Mayor y Menor 20",
+    "autor": "CHANTI",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 610,
+    "isbn": "9789500770392",
+    "titulo": "Mayor y Menor 21",
+    "autor": "CHANTI",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 616,
+    "isbn": "9789500768160",
+    "titulo": "Mayor y Menor Monstruoso",
+    "autor": "CHANTI",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 1270,
+    "isbn": "9789500764872",
+    "titulo": "Mayor y Menor Para Dibujar",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 94,
     "isbn": "9789507320491",
     "titulo": "Mi Nombre Es Stilton, Geronimo Stilton",
     "autor": "Geronimo Stilton",
@@ -477,7 +630,7 @@
     "portada_url": "http://books.google.com/books/content?id=BUQ7AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 674,
+    "id": 447,
     "isbn": "9789504643562",
     "titulo": "Nadie te creería",
     "autor": "Luis María Pescetti",
@@ -495,7 +648,7 @@
     "portada_url": ""
   },
   {
-    "id": 61,
+    "id": 96,
     "isbn": "9788426142931",
     "titulo": "Otra Aventura de los Cinco",
     "autor": "Enid Blyton",
@@ -504,7 +657,7 @@
     "portada_url": "http://books.google.com/books/content?id=x0ubjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 619,
+    "id": 322,
     "isbn": "9789875041844",
     "titulo": "PURO PELO MAS CONECTADOS MENOS COMUNICADOS",
     "autor": "Desconocido",
@@ -513,7 +666,7 @@
     "portada_url": ""
   },
   {
-    "id": 218,
+    "id": 130,
     "isbn": "9789871208715",
     "titulo": "Para atrapar al fantasma",
     "autor": "Michael Dahl",
@@ -522,7 +675,7 @@
     "portada_url": ""
   },
   {
-    "id": 657,
+    "id": 452,
     "isbn": "9789870401803",
     "titulo": "Pocopán",
     "autor": "María Elena Walsh",
@@ -549,25 +702,25 @@
     "portada_url": ""
   },
   {
-    "id": 626,
-    "isbn": "9789875041943",
-    "titulo": "Puro Pelo",
-    "autor": "Fabián Sevilla",
-    "editorial": "Desconocido",
-    "año": "2017",
-    "portada_url": ""
-  },
-  {
-    "id": 633,
+    "id": 327,
     "isbn": "9789875041929",
-    "titulo": "Puro Pelo",
+    "titulo": "Puro Pelo: Familias De Todos Los Colores",
     "autor": "Fabián Sevilla",
     "editorial": "Desconocido",
     "año": "2017",
     "portada_url": ""
   },
   {
-    "id": 52,
+    "id": 326,
+    "isbn": "9789875041943",
+    "titulo": "Puro Pelo: Ni Principes Ni Princesas",
+    "autor": "Fabián Sevilla",
+    "editorial": "Desconocido",
+    "año": "2017",
+    "portada_url": ""
+  },
+  {
+    "id": 71,
     "isbn": "9789877473834",
     "titulo": "Renegados",
     "autor": "Marissa Meyer",
@@ -576,7 +729,7 @@
     "portada_url": "http://books.google.com/books/content?id=smeWuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 53,
+    "id": 72,
     "isbn": "9789877476149",
     "titulo": "Supernova",
     "autor": "Marissa Meyer",
@@ -585,7 +738,7 @@
     "portada_url": ""
   },
   {
-    "id": 713,
+    "id": 0,
     "isbn": "9780110761121",
     "titulo": "The Tayside and Fife Regions and Perth and Kinross District and Kirkcaldy District (Westfield) Boundaries Amendment Order 1987",
     "autor": "Great Britain",
@@ -594,7 +747,7 @@
     "portada_url": ""
   },
   {
-    "id": 616,
+    "id": 330,
     "isbn": "9789870401766",
     "titulo": "Tutú marambá",
     "autor": "María Elena Walsh",
@@ -621,7 +774,34 @@
     "portada_url": ""
   },
   {
-    "id": 611,
+    "id": 472,
+    "isbn": "9789873820793",
+    "titulo": "Una Serie de Catastróficas Desdichas: El Aserradero Lúgubre",
+    "autor": "Lemony Snicket",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 541,
+    "isbn": "9789873820823",
+    "titulo": "Una Serie de Catastróficas Desdichas: El Ventanal",
+    "autor": "Lemony Snicket",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 542,
+    "isbn": "9789873820687",
+    "titulo": "Una Serie de Catastróficas Desdichas: La Habitación de los Reptiles",
+    "autor": "Lemony Snicket",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 333,
     "isbn": "9789870401704",
     "titulo": "Versos tradicionales para cebollitas",
     "autor": "María Elena Walsh",
@@ -630,7 +810,7 @@
     "portada_url": ""
   },
   {
-    "id": 241,
+    "id": 216,
     "isbn": "9786077354789",
     "titulo": "Winnie Vuela Otra Vez",
     "autor": "Korky Korky, Valerie Thomas",
@@ -639,7 +819,7 @@
     "portada_url": "http://books.google.com/books/content?id=XvyGjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 231,
+    "id": 217,
     "isbn": "9786077354796",
     "titulo": "Winnie Y El Robot",
     "autor": "Korky Korky, Valerie Thomas",
@@ -648,7 +828,7 @@
     "portada_url": "http://books.google.com/books/content?id=h_PqjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 234,
+    "id": 218,
     "isbn": "9786077357353",
     "titulo": "Winnie Y La Calabaza Gigante",
     "autor": "Korky Korky, Valerie Thomas",
@@ -657,7 +837,7 @@
     "portada_url": "http://books.google.com/books/content?id=AAR5AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 321,
+    "id": 219,
     "isbn": "9786074008975",
     "titulo": "Winnie Y Los Dinosaurios",
     "autor": "Korky Paul, Valerie Thomas",
@@ -666,7 +846,7 @@
     "portada_url": "http://books.google.com/books/content?id=lBfzoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 229,
+    "id": 220,
     "isbn": "9786077351931",
     "titulo": "Winnie Y Los Piratas",
     "autor": "Korky Korky, Valerie Thomas",
@@ -675,7 +855,7 @@
     "portada_url": "http://books.google.com/books/content?id=UOh8AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 287,
+    "id": 221,
     "isbn": "9788449431081",
     "titulo": "Winnie en invierno",
     "autor": "Korky Paul, Valérie Thomas",
@@ -684,7 +864,7 @@
     "portada_url": ""
   },
   {
-    "id": 259,
+    "id": 222,
     "isbn": "9788449434006",
     "titulo": "Winnie y el dragón de medianoche",
     "autor": "Valérie Thomas",
@@ -693,7 +873,7 @@
     "portada_url": ""
   },
   {
-    "id": 246,
+    "id": 223,
     "isbn": "9786074004366",
     "titulo": "Winnie y la alfombra voladora",
     "autor": "Valerie Thomas, Korky Paul",
@@ -702,16 +882,7 @@
     "portada_url": ""
   },
   {
-    "id": 703,
-    "isbn": "9789500770392",
-    "titulo": "Yrigoyen",
-    "autor": "Félix Luna",
-    "editorial": "Desconocido",
-    "año": "1985",
-    "portada_url": "http://books.google.com/books/content?id=s47sAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-  },
-  {
-    "id": 537,
+    "id": 279,
     "isbn": "9789870401735",
     "titulo": "Zoo loco",
     "autor": "María Elena Walsh",
@@ -720,169 +891,16 @@
     "portada_url": ""
   },
   {
-    "id": 696,
-    "isbn": "9789873820793",
-    "titulo": "el aserradero lúgubre",
+    "id": 1776,
+    "isbn": "9789504643333",
+    "titulo": "el monte festeja",
     "autor": "",
     "editorial": "",
     "año": "",
     "portada_url": ""
   },
   {
-    "id": 697,
-    "isbn": "9789873820823",
-    "titulo": "el ventanal",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 841,
-    "isbn": "9789500755740",
-    "titulo": "facu y café con leche 5",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 840,
-    "isbn": "9789500758680",
-    "titulo": "facu y café con leche 6",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 839,
-    "isbn": "9789500763547",
-    "titulo": "facu y café con leche 7",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 842,
-    "isbn": "9789500751605",
-    "titulo": "ff con cafe ",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 698,
-    "isbn": "9789873820687",
-    "titulo": "la habitacion de los reptiles",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 935,
-    "isbn": "9789500756853",
-    "titulo": "m y m 10",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 934,
-    "isbn": "9789500764872",
-    "titulo": "m y m para dibuj y jugar",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 701,
-    "isbn": "9789500764049",
-    "titulo": "mayor y menor 16",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 712,
-    "isbn": "8782700766210",
-    "titulo": "mayor y menor 18",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 711,
-    "isbn": "9789500766944",
-    "titulo": "mayor y menor 19",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 710,
-    "isbn": "9789500768559",
-    "titulo": "mayor y menor 20",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 838,
-    "isbn": "9789500754750",
-    "titulo": "mayor y menor 9",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 702,
-    "isbn": "9789500768160",
-    "titulo": "mayor y menor monstruoso",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 1007,
-    "isbn": "9789500761284",
-    "titulo": "mym13",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 1008,
-    "isbn": "9789500761789",
-    "titulo": "mym14",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 1009,
-    "isbn": "9789500762724",
-    "titulo": "mymquince",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 236,
+    "id": 224,
     "isbn": "9789707773998",
     "titulo": "¡Feliz cumpleaños, Winnie!",
     "autor": "Valérie Thomas",
@@ -891,7 +909,7 @@
     "portada_url": ""
   },
   {
-    "id": 100,
+    "id": 137,
     "isbn": "9789507320705",
     "titulo": "ŁQuita esas patas, caraqueso!",
     "autor": "Desconocido",
