@@ -261,6 +261,42 @@
     "portada_url": "http://books.google.com/books/content?id=r3QBAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
+    "id": 4678,
+    "isbn": "9789878120034",
+    "titulo": "Dg días de perros",
+    "autor": "Jeff Kinney",
+    "editorial": "Molino",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 4679,
+    "isbn": "9789878120027",
+    "titulo": "Dg esto es el colmo!",
+    "autor": "Jeff Kinney",
+    "editorial": "Molino",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 4843,
+    "isbn": "9789878120041",
+    "titulo": "Dg la cruda realidad",
+    "autor": "Jeff Kinney",
+    "editorial": "Molino",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 4838,
+    "isbn": "9789878120119",
+    "titulo": "Dg sin pareja",
+    "autor": "Jeff Kinney",
+    "editorial": "Molino",
+    "año": "",
+    "portada_url": ""
+  },
+  {
     "id": 4137,
     "isbn": "9789878120010",
     "titulo": "Diario de Greg: La ley de Rodrick",
@@ -663,6 +699,15 @@
     "autor": "Michael Dahl",
     "editorial": "Desconocido",
     "año": "2013",
+    "portada_url": ""
+  },
+  {
+    "id": 4841,
+    "isbn": "9789871561247",
+    "titulo": "La casa de la risa",
+    "autor": "Franco Vaccarini, Iñaki Echeverría",
+    "editorial": "Desconocido",
+    "año": "2011",
     "portada_url": ""
   },
   {
@@ -1143,6 +1188,15 @@
     "portada_url": "http://books.google.com/books/content?id=BUQ7AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
+    "id": 4779,
+    "isbn": "9789508522771",
+    "titulo": "Minecraft la guia definitiva ",
+    "autor": "Stephen O'Brien",
+    "editorial": "Espasa",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
     "id": 2923,
     "isbn": "9780744079210",
     "titulo": "Mitos griegos",
@@ -1545,6 +1599,87 @@
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
     "año": "2010",
+    "portada_url": ""
+  },
+  {
+    "id": 4834,
+    "isbn": "9789878120164",
+    "titulo": "dg double o nada!",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 4832,
+    "isbn": "9789878120188",
+    "titulo": "dg frio fatal",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 4837,
+    "isbn": "9789878120126",
+    "titulo": "dg mala suerte",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 4839,
+    "isbn": "9789878120102",
+    "titulo": "dg sin salida!",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 4831,
+    "isbn": "9789878120058",
+    "titulo": "dg tocado y hundido",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 4836,
+    "isbn": "9789878120133",
+    "titulo": "dg un viaje de locos",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 4835,
+    "isbn": "9789878120140",
+    "titulo": "dg vieja escuela",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 4833,
+    "isbn": "9789878120171",
+    "titulo": "dg volando voy ",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 4840,
+    "isbn": "9789875224025",
+    "titulo": "inhles practico",
+    "autor": "",
+    "editorial": "",
+    "año": "",
     "portada_url": ""
   },
   {
