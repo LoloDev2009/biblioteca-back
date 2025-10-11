@@ -92,5 +92,5 @@ app.post("/api/libro/manual", (req, res) => {
 
 
 app.listen(port, () => {
-  console.log(`Servidor corriendo en http://localhost:${port}`);
+  console.log(`Servidor corriendo en https://localhost:${port}`);
 });
