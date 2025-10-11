@@ -9,7 +9,7 @@
     "portada_url": ""
   },
   {
-    "id": 2022,
+    "id": 2444,
     "isbn": "9789500728324",
     "titulo": "Ambrosio En La Prehistoria/ Ambrosio in Prehistory",
     "autor": "Liliana Cinetto",
@@ -36,12 +36,30 @@
     "portada_url": ""
   },
   {
-    "id": 2044,
+    "id": 2447,
     "isbn": "9789500825535",
     "titulo": "Anacleto el Esqueleto Inquieto (Anacleto the Restless Skeleton)",
     "autor": "Roberto Sotelo, Douglas Wright",
     "editorial": "Desconocido",
     "año": "2001",
+    "portada_url": ""
+  },
+  {
+    "id": 2081,
+    "isbn": "9789878001692",
+    "titulo": "Animales Fantásticos y Dónde Encontrarlos",
+    "autor": "J.K.Rowling",
+    "editorial": "Salamandra",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 2082,
+    "isbn": "9789878001708",
+    "titulo": "Animales Fantásticos y Dónde Encontrarlos: Guión original de la película",
+    "autor": "J.K.Rowling",
+    "editorial": "Salamandra Bolsillo",
+    "año": "Desconocido",
     "portada_url": ""
   },
   {
@@ -54,7 +72,7 @@
     "portada_url": ""
   },
   {
-    "id": 1877,
+    "id": 1881,
     "isbn": "9789681849139",
     "titulo": "Análisis y diseño de bases de datos",
     "autor": "I. T. Hawryszkiewycz",
@@ -68,7 +86,7 @@
     "titulo": "Aprendiz de dragón",
     "autor": "Liliana Bodoc",
     "editorial": "El Barco De Vapor",
-    "año": "-",
+    "año": "Desconocido",
     "portada_url": ""
   },
   {
@@ -99,7 +117,7 @@
     "portada_url": ""
   },
   {
-    "id": 1886,
+    "id": 1987,
     "isbn": "9788459912860",
     "titulo": "Bisa vuela",
     "autor": "María Elena Walsh",
@@ -112,7 +130,7 @@
     "isbn": "9789870401827",
     "titulo": "Canciones para mirar",
     "autor": "María Elena Walsh",
-    "editorial": "Desconocido",
+    "editorial": "Alfaguara",
     "año": "2011",
     "portada_url": ""
   },
@@ -126,12 +144,30 @@
     "portada_url": ""
   },
   {
-    "id": 1880,
+    "id": 2689,
+    "isbn": "9789500838627",
+    "titulo": "Castillo de Arena",
+    "autor": "R.A.Montgomery",
+    "editorial": "Atlantida",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 1990,
     "isbn": "9788459901260",
     "titulo": "Charlotte aux Fraises dans les ténèbres de la forêt",
     "autor": "Arthur S. Rosenblatt, Pat Sustendal",
     "editorial": "Desconocido",
     "año": "1984",
+    "portada_url": ""
+  },
+  {
+    "id": 3103,
+    "isbn": "9789870401759",
+    "titulo": "Chaucha Y Palito",
+    "autor": "María Elena Walsh",
+    "editorial": "Alfaguara",
+    "año": "Desconocido",
     "portada_url": ""
   },
   {
@@ -153,6 +189,24 @@
     "portada_url": ""
   },
   {
+    "id": 3395,
+    "isbn": "9789875041462",
+    "titulo": "Colegio maldito IV",
+    "autor": "Gabriel Korenfeld",
+    "editorial": "Quipu",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 3396,
+    "isbn": "9789875041783",
+    "titulo": "Colegio maldito V",
+    "autor": "Gabriel Korenfeld",
+    "editorial": "Quipu",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
     "id": 184,
     "isbn": "9789875041080",
     "titulo": "Colegio maldito tres",
@@ -162,16 +216,34 @@
     "portada_url": ""
   },
   {
+    "id": 3397,
+    "isbn": "9789876426183",
+    "titulo": "Crack",
+    "autor": "Ariela Kreimer",
+    "editorial": "Ala Delta",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
     "id": 185,
     "isbn": "9789870401810",
     "titulo": "Cuentopos de Gulubú",
     "autor": "María Elena Walsh",
-    "editorial": "Desconocido",
+    "editorial": "Alfaguara",
     "año": "2010",
     "portada_url": ""
   },
   {
-    "id": 2071,
+    "id": 3398,
+    "isbn": "9789504634157",
+    "titulo": "Cuentos a salto de canguro",
+    "autor": "Elsa Boenemann",
+    "editorial": "Alfaguara",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 2722,
     "isbn": "9789872425685",
     "titulo": "Cuentos de la selva",
     "autor": "Horacio Quiroga",
@@ -180,31 +252,31 @@
     "portada_url": ""
   },
   {
-    "id": 2162,
-    "isbn": "9789878120010",
-    "titulo": "DG La ley de Rodrick",
-    "autor": "Jeff Kinney",
-    "editorial": "Molino",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2163,
-    "isbn": "8782078120027",
-    "titulo": "DG ¡Esto es el colmo!",
-    "autor": "Jeff Kinney",
-    "editorial": "Molino",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 1927,
+    "id": 2219,
     "isbn": "9789505116294",
     "titulo": "Dailan Kifki",
     "autor": "María Elena Walsh",
     "editorial": "Santillana USA Publishing Company",
     "año": "2000",
     "portada_url": "http://books.google.com/books/content?id=r3QBAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 4137,
+    "isbn": "9789878120010",
+    "titulo": "Diario de Greg: La ley de Rodrick",
+    "autor": "Jeff Kinney",
+    "editorial": "Molino",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 41,
+    "isbn": "9789878120003",
+    "titulo": "Diario de Greg: Un Renacuajo",
+    "autor": "Jeff Kinney",
+    "editorial": "Molino",
+    "año": "2021",
+    "portada_url": ""
   },
   {
     "id": 46,
@@ -216,11 +288,38 @@
     "portada_url": ""
   },
   {
+    "id": 3401,
+    "isbn": "9789504649076",
+    "titulo": "Diminuto y El campamento Zombi",
+    "autor": "Liliana Cinetto",
+    "editorial": "Loqueleo",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 3399,
+    "isbn": "9789504637554",
+    "titulo": "Diminuto y El gol de oro",
+    "autor": "Liliana Cinetto",
+    "editorial": "Alfaguara",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 3400,
+    "isbn": "9789504634898",
+    "titulo": "Diminuto y el monstruo subterráneo",
+    "autor": "Liliana Cinetto",
+    "editorial": "Alfaguara",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
     "id": 240,
     "isbn": "9789870415718",
     "titulo": "Doña disparate y Bambuco",
     "autor": "María Elena Walsh",
-    "editorial": "Desconocido",
+    "editorial": "Alfaguara",
     "año": "2010",
     "portada_url": ""
   },
@@ -252,43 +351,70 @@
     "portada_url": ""
   },
   {
+    "id": 3414,
+    "isbn": "9789875711389",
+    "titulo": "El Principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "editorial": "Gradifco",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
     "id": 242,
     "isbn": "9789870401780",
     "titulo": "El Reino del revés",
     "autor": "María Elena Walsh",
-    "editorial": "Desconocido",
+    "editorial": "Alfaguara",
     "año": "2010",
     "portada_url": ""
   },
   {
-    "id": 1926,
+    "id": 3417,
+    "isbn": "9789504635925",
+    "titulo": "El Sapo Ruperto 2",
+    "autor": "Roy Berocay",
+    "editorial": "Alfaguara",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 2226,
     "isbn": "9789507324475",
-    "titulo": "El castillo miaumiau",
+    "titulo": "El castillo de Zampachicha MiauMiau",
     "autor": "Geronimo Stilton",
     "editorial": "Destino",
-    "año": "",
+    "año": "Desconocido",
     "portada_url": ""
   },
   {
-    "id": 1920,
+    "id": 3104,
+    "isbn": "9789870401728",
+    "titulo": "El diablo Inglés",
+    "autor": "María Elena Walsh",
+    "editorial": "Alfaguara",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 2227,
     "isbn": "9789507324192",
-    "titulo": "El fantasma del subte",
+    "titulo": "El fantasma del Subterraneo",
     "autor": "Geronimo Stilton",
     "editorial": "Destino",
-    "año": "",
+    "año": "Desconocido",
     "portada_url": ""
   },
   {
-    "id": 2078,
+    "id": 2732,
     "isbn": "9789873506529",
-    "titulo": "El gran libro di griego",
+    "titulo": "El gran libro de los Mitos Griegos",
     "autor": "Mónica Lopez",
-    "editorial": "Az",
-    "año": "",
+    "editorial": "AZ",
+    "año": "Desconocido",
     "portada_url": ""
   },
   {
-    "id": 1935,
+    "id": 2228,
     "isbn": "9789875041677",
     "titulo": "El ladron de sombras",
     "autor": "Veronica Cantero Burroni",
@@ -298,6 +424,15 @@
   },
   {
     "id": 1,
+    "isbn": "9789878000183",
+    "titulo": "El ladrón del rayo",
+    "autor": "Rick Riordan",
+    "editorial": "Desconocido",
+    "año": "2021",
+    "portada_url": ""
+  },
+  {
+    "id": 3298,
     "isbn": "9789878000183.0",
     "titulo": "El ladrón del rayo",
     "autor": "Rick Riordan",
@@ -315,7 +450,7 @@
     "portada_url": ""
   },
   {
-    "id": 1950,
+    "id": 2350,
     "isbn": "9789500719360",
     "titulo": "El monumento encantado",
     "autor": "Silvia Graciela Schujer",
@@ -324,7 +459,7 @@
     "portada_url": "http://books.google.com/books/content?id=cwINPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 2009,
+    "id": 2475,
     "isbn": "9789871374601",
     "titulo": "El pirata valiente",
     "autor": "Ricardo Alcántara",
@@ -333,39 +468,93 @@
     "portada_url": ""
   },
   {
-    "id": 2153,
-    "isbn": "9789878000107",
-    "titulo": "Harry Potter 1",
-    "autor": "J.K.Rowling",
-    "editorial": "Salamandra Bolsillo",
-    "año": "",
+    "id": 2827,
+    "isbn": "9789500758956",
+    "titulo": "Gaturro y la noche de los Vampiros",
+    "autor": "Nik",
+    "editorial": "Primera Sudamericana",
+    "año": "Desconocido",
     "portada_url": ""
   },
   {
-    "id": 2155,
-    "isbn": "9789878000138",
-    "titulo": "Harry Potter 4",
-    "autor": "J.K.Rowling",
-    "editorial": "Salamandra Bolsillo",
-    "año": "",
+    "id": 2198,
+    "isbn": "9789507324321",
+    "titulo": "Geronimo Stilton: Cuatro Ratones en la Serva Negra",
+    "autor": "Geronimo Stilton",
+    "editorial": "Destino",
+    "año": "Desconocido",
     "portada_url": ""
   },
   {
-    "id": 2160,
-    "isbn": "9789878000152",
-    "titulo": "Harry Potter 5",
-    "autor": "J.K.Rowling",
-    "editorial": "Salamandra Bolsillo",
-    "año": "",
+    "id": 2199,
+    "isbn": "9789507324185",
+    "titulo": "Geronimo Stilton: El Misterio del tesoro desaparecido",
+    "autor": "Geronimo Stilton",
+    "editorial": "Destino",
+    "año": "Desconocido",
     "portada_url": ""
   },
   {
-    "id": 2161,
-    "isbn": "9789878000145",
-    "titulo": "Harry Potter 5",
-    "autor": "J.K.Rowling",
-    "editorial": "Salamandra Bolsillo",
-    "año": "",
+    "id": 2191,
+    "isbn": "9789507324468",
+    "titulo": "Geronimo Stilton: El amor es como el queso",
+    "autor": "Geronimo Stilton",
+    "editorial": "Destino",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 2171,
+    "isbn": "9789507323638",
+    "titulo": "Geronimo Stilton: El castillo de roca tacaña",
+    "autor": "Geronimo Stilton",
+    "editorial": "Destino",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 2196,
+    "isbn": "9789507323430",
+    "titulo": "Geronimo Stilton: El misterioso manustcrito de Nostrarratus",
+    "autor": "Geronimo Stilton",
+    "editorial": "Destino",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 2083,
+    "isbn": "9789507323423",
+    "titulo": "Geronimo Stilton: En busca de la maravilla perdida",
+    "autor": "Geronimo Stilton",
+    "editorial": "Destino",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 2195,
+    "isbn": "9789507323850",
+    "titulo": "Geronimo Stilton: La sonrisa de Mona Ratisa",
+    "autor": "Geronimo Stilton",
+    "editorial": "Destino",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 2084,
+    "isbn": "9789507323645",
+    "titulo": "Geronimo Stilton: Un disparatado Viaje a Ratiskistán",
+    "autor": "Geronimo Stilton",
+    "editorial": "Destino",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 2568,
+    "isbn": "9786313031528",
+    "titulo": "Harry Potter Todo sobre las casas de Hogwarts",
+    "autor": "Wizarding World",
+    "editorial": "Vértice",
+    "año": "Desconocido",
     "portada_url": ""
   },
   {
@@ -378,6 +567,33 @@
     "portada_url": ""
   },
   {
+    "id": 3977,
+    "isbn": "9789878000138",
+    "titulo": "Harry Potter y el Cáliz de Fuego",
+    "autor": "J.K.Rowling",
+    "editorial": "Salamandra Bolsillo",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 3407,
+    "isbn": "9789878000299",
+    "titulo": "Harry Potter y el Legado Maldito",
+    "autor": "J.K.Rowling",
+    "editorial": "Salamandra",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 3978,
+    "isbn": "9789878000152",
+    "titulo": "Harry Potter y el Principe Mestizo",
+    "autor": "J.K.Rowling",
+    "editorial": "Salamandra Bolsillo",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
     "id": 12,
     "isbn": "9789878000114",
     "titulo": "Harry Potter y la Camara Secreta",
@@ -387,12 +603,30 @@
     "portada_url": ""
   },
   {
-    "id": 2154,
-    "isbn": "9789878000121",
-    "titulo": "Harry potter 2",
+    "id": 3803,
+    "isbn": "9789878000107",
+    "titulo": "Harry Potter y la Piedra Filosofal",
     "autor": "J.K.Rowling",
     "editorial": "Salamandra Bolsillo",
-    "año": "",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 3979,
+    "isbn": "9789878000145",
+    "titulo": "Harry Potter y la Órden del Fénix",
+    "autor": "J.K.Rowling",
+    "editorial": "Salamandra Bolsillo",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 3806,
+    "isbn": "9789878000121",
+    "titulo": "Harry potter y el Pricionero De Azkaban",
+    "autor": "J.K.Rowling",
+    "editorial": "Salamandra Bolsillo",
+    "año": "Desconocido",
     "portada_url": ""
   },
   {
@@ -400,7 +634,7 @@
     "isbn": "9789870401742",
     "titulo": "Hotel Pioho's Palace",
     "autor": "María Elena Walsh",
-    "editorial": "Desconocido",
+    "editorial": "Alfaguara",
     "año": "2010",
     "portada_url": ""
   },
@@ -412,6 +646,15 @@
     "editorial": "El Mundo de Winnie",
     "año": "2006-06",
     "portada_url": "http://books.google.com/books/content?id=8AABAgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 2691,
+    "isbn": "9789504952824",
+    "titulo": "La Fórmula Secreta",
+    "autor": "Dan Green",
+    "editorial": "Planeta Junior",
+    "año": "Desconocido",
+    "portada_url": ""
   },
   {
     "id": 117,
@@ -436,12 +679,12 @@
     "isbn": "9789870401711",
     "titulo": "La nube traicionera",
     "autor": "María Elena Walsh",
-    "editorial": "Desconocido",
+    "editorial": "Alfaguara",
     "año": "2010",
     "portada_url": ""
   },
   {
-    "id": 2125,
+    "id": 3309,
     "isbn": "9789502412610",
     "titulo": "La sirenita de la patagonia",
     "autor": "Roberta Iannamico",
@@ -450,7 +693,16 @@
     "portada_url": "http://books.google.com/books/content?id=4rrb8haxresC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": 2143,
+    "id": 2966,
+    "isbn": "9786077352327",
+    "titulo": "La varita mágica de Winnie",
+    "autor": "Valerie Thomas, Korky Paul",
+    "editorial": "Oceano Travesia",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 3640,
     "isbn": "9789500740234",
     "titulo": "La verdadera explicación",
     "autor": "Pablo Bernasconi",
@@ -522,6 +774,15 @@
     "portada_url": ""
   },
   {
+    "id": 3392,
+    "isbn": "9789504643166",
+    "titulo": "Las aventuras del Sapo Ruperto",
+    "autor": "Roy Berocay",
+    "editorial": "Loqueleo",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
     "id": 86,
     "isbn": "9788426142955",
     "titulo": "Los Cinco En El Cerro del Contrabandista",
@@ -538,6 +799,33 @@
     "editorial": "Juventud",
     "año": "2016-03-10",
     "portada_url": "http://books.google.com/books/content?id=bQ6IjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 3405,
+    "isbn": "9789877313482",
+    "titulo": "Los Futbolísimos: El misterio de los siete goles encontra",
+    "autor": "Roverto Santiago",
+    "editorial": "SM",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 3736,
+    "isbn": "9789877313406",
+    "titulo": "Los Futbolísimos: El misterio de los árbitros dormidos",
+    "autor": "Roberto Santiago",
+    "editorial": "SM",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 3738,
+    "isbn": "9789877313499",
+    "titulo": "Los Futbolísimos: El misterio del arquero fantasma",
+    "autor": "Roverto Santiago",
+    "editorial": "SM",
+    "año": "Desconocido",
+    "portada_url": ""
   },
   {
     "id": 11,
@@ -603,6 +891,24 @@
     "portada_url": ""
   },
   {
+    "id": 3742,
+    "isbn": "9789875040748",
+    "titulo": "López",
+    "autor": "Silvina Rocha",
+    "editorial": "Quipu",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 3409,
+    "isbn": "9789875042018",
+    "titulo": "López 2",
+    "autor": "Silvina Rocha",
+    "editorial": "Quipu",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
     "id": 204,
     "isbn": "9789875041653",
     "titulo": "Macumba",
@@ -616,14 +922,14 @@
     "isbn": "9789870401797",
     "titulo": "Manuelita ¿dónde vas?",
     "autor": "María Elena Walsh",
-    "editorial": "Desconocido",
+    "editorial": "Alfaguara",
     "año": "2011",
     "portada_url": ""
   },
   {
     "id": 965,
     "isbn": "9789500733717",
-    "titulo": "Mayor Y Menor 4",
+    "titulo": "Mayor Y Menor 04",
     "autor": "Chanti",
     "editorial": "Desconocido",
     "año": "Desconocido",
@@ -633,7 +939,7 @@
     "id": 511,
     "isbn": "9789500730532",
     "titulo": "Mayor y Menor 02",
-    "autor": "CHANTI",
+    "autor": "Chanti",
     "editorial": "Desconocido",
     "año": "Desconocido",
     "portada_url": ""
@@ -750,7 +1056,7 @@
     "id": 543,
     "isbn": "9789500764049",
     "titulo": "Mayor y Menor 16",
-    "autor": "CHANTI",
+    "autor": "Chanti",
     "editorial": "Desconocido",
     "año": "Desconocido",
     "portada_url": ""
@@ -759,7 +1065,7 @@
     "id": 847,
     "isbn": "9789500765121",
     "titulo": "Mayor y Menor 17",
-    "autor": "CHANTI",
+    "autor": "Chanti",
     "editorial": "Desconocido",
     "año": "Desconocido",
     "portada_url": ""
@@ -768,7 +1074,7 @@
     "id": 764,
     "isbn": "8782700766210",
     "titulo": "Mayor y Menor 18",
-    "autor": "CHANTI",
+    "autor": "Chanti",
     "editorial": "Desconocido",
     "año": "Desconocido",
     "portada_url": ""
@@ -777,7 +1083,7 @@
     "id": 689,
     "isbn": "9789500766944",
     "titulo": "Mayor y Menor 19",
-    "autor": "CHANTI",
+    "autor": "Chanti",
     "editorial": "Desconocido",
     "año": "Desconocido",
     "portada_url": ""
@@ -786,7 +1092,7 @@
     "id": 690,
     "isbn": "9789500768559",
     "titulo": "Mayor y Menor 20",
-    "autor": "CHANTI",
+    "autor": "Chanti",
     "editorial": "Desconocido",
     "año": "Desconocido",
     "portada_url": ""
@@ -795,7 +1101,7 @@
     "id": 610,
     "isbn": "9789500770392",
     "titulo": "Mayor y Menor 21",
-    "autor": "CHANTI",
+    "autor": "Chanti",
     "editorial": "Desconocido",
     "año": "Desconocido",
     "portada_url": ""
@@ -804,7 +1110,7 @@
     "id": 616,
     "isbn": "9789500768160",
     "titulo": "Mayor y Menor Monstruoso",
-    "autor": "CHANTI",
+    "autor": "Chanti",
     "editorial": "Desconocido",
     "año": "Desconocido",
     "portada_url": ""
@@ -819,9 +1125,9 @@
     "portada_url": ""
   },
   {
-    "id": 2060,
+    "id": 2651,
     "isbn": "9789500771184",
-    "titulo": "Mayor y menor de otro planeta",
+    "titulo": "Mayor y menor de otro Planeta",
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "2024",
@@ -837,7 +1143,7 @@
     "portada_url": "http://books.google.com/books/content?id=BUQ7AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 2095,
+    "id": 2923,
     "isbn": "9780744079210",
     "titulo": "Mitos griegos",
     "autor": "DK",
@@ -873,6 +1179,15 @@
     "portada_url": "http://books.google.com/books/content?id=x0ubjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
+    "id": 2694,
+    "isbn": "9788580761191",
+    "titulo": "PB3 and the Helping Hands",
+    "autor": "Jane Cadwallader",
+    "editorial": "HUB",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
     "id": 322,
     "isbn": "9789875041844",
     "titulo": "PURO PELO MAS CONECTADOS MENOS COMUNICADOS",
@@ -895,7 +1210,7 @@
     "isbn": "9789870401803",
     "titulo": "Pocopán",
     "autor": "María Elena Walsh",
-    "editorial": "Desconocido",
+    "editorial": "Alfaguara",
     "año": "2010",
     "portada_url": ""
   },
@@ -936,7 +1251,7 @@
     "portada_url": ""
   },
   {
-    "id": 1945,
+    "id": 2409,
     "isbn": "9789871561261",
     "titulo": "Quiero ser Pérez",
     "autor": "Margarita Mainé, Iñaki Echeverría",
@@ -954,12 +1269,48 @@
     "portada_url": "http://books.google.com/books/content?id=smeWuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 1917,
-    "isbn": "9789507323638",
-    "titulo": "Roca tacaña",
-    "autor": "Geronimo Stilton",
-    "editorial": "Destino",
-    "año": "",
+    "id": 3752,
+    "isbn": "9789870401438",
+    "titulo": "Ruperto Detective",
+    "autor": "Roy Berocay",
+    "editorial": "Alfaguara",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 3418,
+    "isbn": "9789504634201",
+    "titulo": "Ruperto de terror: La gran aventura",
+    "autor": "Roy Berocay",
+    "editorial": "Alfaguara",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 3753,
+    "isbn": "9789504638841",
+    "titulo": "Ruperto y los Extraterrestres",
+    "autor": "Roy Berocay",
+    "editorial": "Alfaguara",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 3413,
+    "isbn": "9789873687327",
+    "titulo": "Se me perdió un Dinosaurio",
+    "autor": "Diego Javier Rojas",
+    "editorial": "La Brujita de Papel",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 2566,
+    "isbn": "9789877310597",
+    "titulo": "Sin Rueditas",
+    "autor": "Paula Bombara",
+    "editorial": "El Barco De Vapor",
+    "año": "Desconocido",
     "portada_url": ""
   },
   {
@@ -972,7 +1323,16 @@
     "portada_url": ""
   },
   {
-    "id": 1947,
+    "id": 3422,
+    "isbn": "9789873681370",
+    "titulo": "Tablet",
+    "autor": "Cecilia Pisos",
+    "editorial": "La Brujita de Papel",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 2413,
     "isbn": "9789873202278",
     "titulo": "Toda la verdad sobre los libros",
     "autor": "Françoize Boucher",
@@ -981,30 +1341,30 @@
     "portada_url": ""
   },
   {
+    "id": 3425,
+    "isbn": "9789507882203",
+    "titulo": "Trollhunters",
+    "autor": "Guillermo del Toro",
+    "editorial": "Puck",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
     "id": 330,
     "isbn": "9789870401766",
     "titulo": "Tutú marambá",
     "autor": "María Elena Walsh",
-    "editorial": "Desconocido",
+    "editorial": "Alfaguara",
     "año": "2010",
     "portada_url": ""
   },
   {
-    "id": 1904,
+    "id": 2064,
     "isbn": "9789873820670",
     "titulo": "Un Mal Principio",
     "autor": "Lemony Snicket",
     "editorial": "Desconocido",
     "año": "Desconocido",
-    "portada_url": ""
-  },
-  {
-    "id": 41,
-    "isbn": "9789878120003",
-    "titulo": "Un Renacuajo",
-    "autor": "Jeff Kinney",
-    "editorial": "Molino",
-    "año": "2021",
     "portada_url": ""
   },
   {
@@ -1044,16 +1404,34 @@
     "portada_url": ""
   },
   {
+    "id": 3118,
+    "isbn": "9789870711711",
+    "titulo": "Up",
+    "autor": "Disney, Pixar",
+    "editorial": "Clarin",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
     "id": 333,
     "isbn": "9789870401704",
     "titulo": "Versos tradicionales para cebollitas",
     "autor": "María Elena Walsh",
-    "editorial": "Desconocido",
+    "editorial": "Alfaguara",
     "año": "2010",
     "portada_url": ""
   },
   {
-    "id": 1895,
+    "id": 3119,
+    "isbn": "9789870711704",
+    "titulo": "Wall-E",
+    "autor": "Disney, Pixar",
+    "editorial": "Clarin",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 2071,
     "isbn": "9786077350811",
     "titulo": "Winnie Da el Salto",
     "autor": "Korky Korky, Laura Owen",
@@ -1107,7 +1485,7 @@
     "portada_url": "http://books.google.com/books/content?id=UOh8AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 2093,
+    "id": 2953,
     "isbn": "9786075273556",
     "titulo": "Winnie Y Wilbur. El Caballero Revoltoso",
     "autor": "Korky Korky, Valerie Thomas",
@@ -1125,7 +1503,16 @@
     "portada_url": ""
   },
   {
-    "id": 2077,
+    "id": 2976,
+    "isbn": "9786077352396",
+    "titulo": "Winnie va al Espacio",
+    "autor": "Valerie Thomas, Korky Paul",
+    "editorial": "Oceano Travesia",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 2817,
     "isbn": "9786075271033",
     "titulo": "Winnie y Wilbur. en la Playa (Nueva Edición)",
     "autor": "Korky Korky, Korky Paul, Valerie Thomas",
@@ -1156,431 +1543,8 @@
     "isbn": "9789870401735",
     "titulo": "Zoo loco",
     "autor": "María Elena Walsh",
-    "editorial": "Desconocido",
+    "editorial": "Alfaguara",
     "año": "2010",
-    "portada_url": ""
-  },
-  {
-    "id": 2122,
-    "isbn": "9789873681592",
-    "titulo": "alguien anda ahí",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 1919,
-    "isbn": "9789507324468",
-    "titulo": "amor como el quedo",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 1893,
-    "isbn": "9789878001692",
-    "titulo": "animales fantasticos libro",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 1894,
-    "isbn": "9789878001708",
-    "titulo": "animales fatasticos guion",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2129,
-    "isbn": "9789504643166",
-    "titulo": "aventuras dapi ruperto",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2061,
-    "isbn": "9789500838627",
-    "titulo": "carrillo de arena",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2110,
-    "isbn": "9789870401759",
-    "titulo": "chaycha y palito",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2117,
-    "isbn": "9789875041462",
-    "titulo": "cm 4",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2116,
-    "isbn": "9789875041783",
-    "titulo": "cm 5",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2120,
-    "isbn": "9789876426183",
-    "titulo": "crack",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2123,
-    "isbn": "9789504634157",
-    "titulo": "cuentos canguros",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2132,
-    "isbn": "9789504637554",
-    "titulo": "diminuto oro",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2133,
-    "isbn": "9789504634898",
-    "titulo": "diminuto subte",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2131,
-    "isbn": "9789504649076",
-    "titulo": "diminuto zombie",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2109,
-    "isbn": "9789870401728",
-    "titulo": "el diablo ingles",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 1903,
-    "isbn": "9789507323423",
-    "titulo": "en bisca de la maravilla prrfida",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2058,
-    "isbn": "9789504952824",
-    "titulo": "fomulasercreta",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2141,
-    "isbn": "9789877313406",
-    "titulo": "futbolisimos 1",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2128,
-    "isbn": "9789877313482",
-    "titulo": "futbolisimos 2",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2142,
-    "isbn": "9789877313499",
-    "titulo": "futbolisimos 3",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2070,
-    "isbn": "9789500758956",
-    "titulo": "garurro",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2134,
-    "isbn": "9789878000299",
-    "titulo": "hp legado maldito",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2108,
-    "isbn": "9786077352327",
-    "titulo": "la varita magica",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2138,
-    "isbn": "9789875040748",
-    "titulo": "lopez",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2136,
-    "isbn": "9789875042018",
-    "titulo": "lópez 2",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 1915,
-    "isbn": "9789507323850",
-    "titulo": "mona ratisa",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 1914,
-    "isbn": "9789507323430",
-    "titulo": "nostraratus",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2059,
-    "isbn": "9788580761191",
-    "titulo": "pb3",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2121,
-    "isbn": "9789873687327",
-    "titulo": "perdió dinosaurio",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2118,
-    "isbn": "9789875711389",
-    "titulo": "principito",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 1955,
-    "isbn": "9789875733091",
-    "titulo": "que esconde demetrio",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 1913,
-    "isbn": "9789507323645",
-    "titulo": "ratikistan",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2115,
-    "isbn": "9789504635925",
-    "titulo": "ruperto 2",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2140,
-    "isbn": "9789870401438",
-    "titulo": "ruperto detective",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2139,
-    "isbn": "9789504638841",
-    "titulo": "ruperto extraterretres",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2124,
-    "isbn": "9789504634201",
-    "titulo": "ruperto terror",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 1918,
-    "isbn": "9789507324321",
-    "titulo": "selvanegra",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 1954,
-    "isbn": "9789877310597",
-    "titulo": "sin rueditas",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2119,
-    "isbn": "9789870406372",
-    "titulo": "socorro",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2135,
-    "isbn": "9789873681370",
-    "titulo": "tablet ",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 1916,
-    "isbn": "9789507324185",
-    "titulo": "tesoros desaparecido",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 1961,
-    "isbn": "9786313031528",
-    "titulo": "todo sibre hogwarts",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2113,
-    "isbn": "9789507882203",
-    "titulo": "trolls",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2111,
-    "isbn": "9789870711711",
-    "titulo": "up",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2114,
-    "isbn": "9789877313727",
-    "titulo": "visita demetrio",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2112,
-    "isbn": "9789870711704",
-    "titulo": "wall e",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 2107,
-    "isbn": "9786077352396",
-    "titulo": "winnie va al espacio",
-    "autor": "",
-    "editorial": "",
-    "año": "",
     "portada_url": ""
   },
   {
@@ -1590,6 +1554,42 @@
     "autor": "Valérie Thomas",
     "editorial": "Desconocido",
     "año": "2008",
+    "portada_url": ""
+  },
+  {
+    "id": 3421,
+    "isbn": "9789870406372",
+    "titulo": "¡Socorro!",
+    "autor": "Elsa Boenemann",
+    "editorial": "Alfaguara",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 3388,
+    "isbn": "9789873681592",
+    "titulo": "¿Alguien anda ahí?",
+    "autor": "Natalia Schapiro",
+    "editorial": "La Brujita de Papel",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 2563,
+    "isbn": "9789875733091",
+    "titulo": "¿Qué esconde Demetrio Latov?",
+    "autor": "Ángeles Durini",
+    "editorial": "SM",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 3427,
+    "isbn": "9789877313727",
+    "titulo": "¿Quíen visita a Demetrio Latov?",
+    "autor": "Ángeles Durini",
+    "editorial": "SM",
+    "año": "Desconocido",
     "portada_url": ""
   },
   {
