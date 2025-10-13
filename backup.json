@@ -9,9 +9,18 @@
     "portada_url": ""
   },
   {
+    "id": 5268,
+    "isbn": "9789875040946",
+    "titulo": "Amadeo y su sombrero",
+    "autor": "Fabián Sevilla",
+    "editorial": "Desconocido",
+    "año": "2013",
+    "portada_url": ""
+  },
+  {
     "id": 2444,
     "isbn": "9789500728324",
-    "titulo": "Ambrosio En La Prehistoria/ Ambrosio in Prehistory",
+    "titulo": "Ambrosio En La Prehistoria",
     "autor": "Liliana Cinetto",
     "editorial": "Desconocido",
     "año": "2007",
@@ -38,7 +47,7 @@
   {
     "id": 2447,
     "isbn": "9789500825535",
-    "titulo": "Anacleto el Esqueleto Inquieto (Anacleto the Restless Skeleton)",
+    "titulo": "Anacleto el Esqueleto Inquieto",
     "autor": "Roberto Sotelo, Douglas Wright",
     "editorial": "Desconocido",
     "año": "2001",
@@ -94,18 +103,9 @@
     "isbn": "9789877475180",
     "titulo": "Archi enemigos",
     "autor": "Marissa Meyer",
-    "editorial": "Desconocido",
+    "editorial": "V&R Ediciones",
     "año": "2021",
-    "portada_url": ""
-  },
-  {
-    "id": 45,
-    "isbn": "9789874404503",
-    "titulo": "Arrasa Con Todo",
-    "autor": "Jeff Kinney",
-    "editorial": "RBA",
-    "año": "2019",
-    "portada_url": ""
+    "portada_url": "https://vreditoras.com.ar//uploads/libros/5cd161a0977de07d18d7b90f74a9df2bArchienemigos.jpg"
   },
   {
     "id": 180,
@@ -153,15 +153,6 @@
     "portada_url": ""
   },
   {
-    "id": 1990,
-    "isbn": "9788459901260",
-    "titulo": "Charlotte aux Fraises dans les ténèbres de la forêt",
-    "autor": "Arthur S. Rosenblatt, Pat Sustendal",
-    "editorial": "Desconocido",
-    "año": "1984",
-    "portada_url": ""
-  },
-  {
     "id": 3103,
     "isbn": "9789870401759",
     "titulo": "Chaucha Y Palito",
@@ -189,6 +180,15 @@
     "portada_url": ""
   },
   {
+    "id": 184,
+    "isbn": "9789875041080",
+    "titulo": "Colegio maldito III",
+    "autor": "Gabriel Korenfeld",
+    "editorial": "Desconocido",
+    "año": "2015",
+    "portada_url": ""
+  },
+  {
     "id": 3395,
     "isbn": "9789875041462",
     "titulo": "Colegio maldito IV",
@@ -204,15 +204,6 @@
     "autor": "Gabriel Korenfeld",
     "editorial": "Quipu",
     "año": "Desconocido",
-    "portada_url": ""
-  },
-  {
-    "id": 184,
-    "isbn": "9789875041080",
-    "titulo": "Colegio maldito tres",
-    "autor": "Gabriel Korenfeld",
-    "editorial": "Desconocido",
-    "año": "2015",
     "portada_url": ""
   },
   {
@@ -261,58 +252,139 @@
     "portada_url": "http://books.google.com/books/content?id=r3QBAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 4678,
-    "isbn": "9789878120034",
-    "titulo": "Dg días de perros",
+    "id": 41,
+    "isbn": "9789878120003",
+    "titulo": "Diario de Greg 01: Un Renacuajo",
     "autor": "Jeff Kinney",
     "editorial": "Molino",
-    "año": "Desconocido",
-    "portada_url": ""
-  },
-  {
-    "id": 4679,
-    "isbn": "9789878120027",
-    "titulo": "Dg esto es el colmo!",
-    "autor": "Jeff Kinney",
-    "editorial": "Molino",
-    "año": "Desconocido",
-    "portada_url": ""
-  },
-  {
-    "id": 4843,
-    "isbn": "9789878120041",
-    "titulo": "Dg la cruda realidad",
-    "autor": "Jeff Kinney",
-    "editorial": "Molino",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 4838,
-    "isbn": "9789878120119",
-    "titulo": "Dg sin pareja",
-    "autor": "Jeff Kinney",
-    "editorial": "Molino",
-    "año": "",
-    "portada_url": ""
+    "año": "2021",
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/08/9878120003.jpg"
   },
   {
     "id": 4137,
     "isbn": "9789878120010",
-    "titulo": "Diario de Greg: La ley de Rodrick",
+    "titulo": "Diario de Greg 02: La ley de Rodrick",
     "autor": "Jeff Kinney",
     "editorial": "Molino",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120010.jpg"
   },
   {
-    "id": 41,
-    "isbn": "9789878120003",
-    "titulo": "Diario de Greg: Un Renacuajo",
+    "id": 4679,
+    "isbn": "9789878120027",
+    "titulo": "Diario de Greg 03: ¡Esto es el Colmo!",
     "autor": "Jeff Kinney",
     "editorial": "Molino",
-    "año": "2021",
-    "portada_url": ""
+    "año": "Desconocido",
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120027.jpg"
+  },
+  {
+    "id": 4678,
+    "isbn": "9789878120034",
+    "titulo": "Diario de Greg 04: Días de Perros",
+    "autor": "Jeff Kinney",
+    "editorial": "Molino",
+    "año": "Desconocido",
+    "portada_url": "https://cdn.livriz.com/media/mediaspace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/f23cd717-f1af-45d5-922f-6d9578f21bee/9789878120034.jpg"
+  },
+  {
+    "id": 5043,
+    "isbn": "9789878120041",
+    "titulo": "Diario de Greg 05: La cruda realidad",
+    "autor": "Jeff Kinney",
+    "editorial": "Molino",
+    "año": "Desconocido",
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120041.jpg"
+  },
+  {
+    "id": 5193,
+    "isbn": "9789878120102",
+    "titulo": "Diario de Greg 06: ¡Sin Salida!",
+    "autor": "Jeff Kinney",
+    "editorial": "Molino",
+    "año": "Desconocido",
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120102.jpg"
+  },
+  {
+    "id": 5044,
+    "isbn": "9789878120119",
+    "titulo": "Diario de Greg 07: Sin Pareja",
+    "autor": "Jeff Kinney",
+    "editorial": "Molino",
+    "año": "Desconocido",
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120119.jpg"
+  },
+  {
+    "id": 5192,
+    "isbn": "9789878120126",
+    "titulo": "Diario de Greg 08: Mala Suerte",
+    "autor": "Jeff Kinney",
+    "editorial": "Molino",
+    "año": "Desconocido",
+    "portada_url": "https://www.quade.com.ar/1524958-large_default/diario-de-greg-8.jpg"
+  },
+  {
+    "id": 5195,
+    "isbn": "9789878120133",
+    "titulo": "Diario de Greg 09: Un Viaje de Locos",
+    "autor": "Jeff Kinney",
+    "editorial": "Molino",
+    "año": "Desconocido",
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120133.jpg"
+  },
+  {
+    "id": 5196,
+    "isbn": "9789878120140",
+    "titulo": "Diario de Greg 10: Vieja Escuela",
+    "autor": "Jeff Kinney",
+    "editorial": "Molino",
+    "año": "Desconocido",
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9878120140_9789878120140_2022-11-08_11_12_58.jpg"
+  },
+  {
+    "id": 5190,
+    "isbn": "9789878120164",
+    "titulo": "Diario de Greg 11: ¡Doble o Nada!",
+    "autor": "Jeff Kinney",
+    "editorial": "Molino",
+    "año": "Desconocido",
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9878120164_9789878120164_2022-11-08_11_12_58.jpg"
+  },
+  {
+    "id": 5197,
+    "isbn": "9789878120171",
+    "titulo": "Diario de Greg 12: Volando Voy",
+    "autor": "Jeff Kinney",
+    "editorial": "Molino",
+    "año": "Desconocido",
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120171.jpg"
+  },
+  {
+    "id": 5191,
+    "isbn": "9789878120188",
+    "titulo": "Diario de Greg 13: Frío Fatal",
+    "autor": "Jeff Kinney",
+    "editorial": "Molino",
+    "año": "Desconocido",
+    "portada_url": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/690556-c70a4abd1556a1524f17285627539956-1024-1024.jpg"
+  },
+  {
+    "id": 45,
+    "isbn": "9789874404503",
+    "titulo": "Diario de Greg 14: Arrasa Con Todo",
+    "autor": "Jeff Kinney",
+    "editorial": "RBA",
+    "año": "2019",
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/08/9874404503.jpg"
+  },
+  {
+    "id": 5194,
+    "isbn": "9789878120058",
+    "titulo": "Diario de Greg 15: Tocado y Hundido",
+    "autor": "Jeff Kinney",
+    "editorial": "Molino",
+    "año": "Desconocido",
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/e80a621ffa7c449d28b86999589a6b70/9/8/9878120058_9789878120058_2022-11-08_11_12_58.jpg"
   },
   {
     "id": 46,
@@ -351,12 +423,201 @@
     "portada_url": ""
   },
   {
+    "id": 5223,
+    "isbn": "9789870701217",
+    "titulo": "Diseny 19 her ules",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 5211,
+    "isbn": "9789870700241",
+    "titulo": "Disey 7 monster inc",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 5213,
+    "isbn": "9789870700265",
+    "titulo": "Disneu 9 chivken little",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 5206,
+    "isbn": "9789870700166",
+    "titulo": "Disney 1 cars",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 5215,
+    "isbn": "9789870700272",
+    "titulo": "Disney 11 tarzan",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 5216,
+    "isbn": "9789870700296",
+    "titulo": "Disney 12aladdin",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 5217,
+    "isbn": "9789870700302",
+    "titulo": "Disney 13lilo",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 5218,
+    "isbn": "9789870700319",
+    "titulo": "Disney 14toy 2",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 5220,
+    "isbn": "9789870701187",
+    "titulo": "Disney 16 bi hos",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 5221,
+    "isbn": "9789870701194",
+    "titulo": "Disney 17 mulan",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 5222,
+    "isbn": "9789870701200",
+    "titulo": "Disney 18 pinocho",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 5207,
+    "isbn": "9789870700098",
+    "titulo": "Disney 2 nemo",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 5224,
+    "isbn": "9789870701224",
+    "titulo": "Disney 20 beauty",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 5226,
+    "isbn": "9789870702085",
+    "titulo": "Disney 22 ratatuile",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 5208,
+    "isbn": "9789870700111",
+    "titulo": "Disney 4 toy story",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 5209,
+    "isbn": "9789870700128",
+    "titulo": "Disney 5 peter pan",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 5210,
+    "isbn": "9789870700234",
+    "titulo": "Disney 6 sirenita",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 5225,
+    "isbn": "9789870702078",
+    "titulo": "Disney21 futuro",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 5212,
+    "isbn": "9789870700258",
+    "titulo": "Disye 8 rey lron",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 5219,
+    "isbn": "9789870700326",
+    "titulo": "Dizney 15 tierra de osos",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
     "id": 240,
     "isbn": "9789870415718",
     "titulo": "Doña disparate y Bambuco",
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
     "año": "2010",
+    "portada_url": ""
+  },
+  {
+    "id": 5259,
+    "isbn": "9789875040663",
+    "titulo": "Edelmira latele",
+    "autor": "Adela Basch",
+    "editorial": "Desconocido",
+    "año": "2012",
     "portada_url": ""
   },
   {
@@ -385,6 +646,15 @@
     "editorial": "Loqueleo",
     "año": "Desconocido",
     "portada_url": ""
+  },
+  {
+    "id": 5274,
+    "isbn": "9789974801103",
+    "titulo": "El Pequeno Principe",
+    "autor": "Antoine de Saint-Exupéry",
+    "editorial": "Unaluna",
+    "año": "2007",
+    "portada_url": "http://books.google.com/books/content?id=T_T3KAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
     "id": 3414,
@@ -504,6 +774,24 @@
     "portada_url": ""
   },
   {
+    "id": 5227,
+    "isbn": "9788447173464",
+    "titulo": "El rey leon",
+    "autor": "Disney",
+    "editorial": "Salvat",
+    "año": "",
+    "portada_url": ""
+  },
+  {
+    "id": 5265,
+    "isbn": "9789875040717",
+    "titulo": "El zooki",
+    "autor": "Iris Rivera",
+    "editorial": "Desconocido",
+    "año": "2012",
+    "portada_url": ""
+  },
+  {
     "id": 2827,
     "isbn": "9789500758956",
     "titulo": "Gaturro y la noche de los Vampiros",
@@ -596,7 +884,7 @@
   {
     "id": 47,
     "isbn": "9789878000190",
-    "titulo": "Harry Potter Y Las Reliquias De La Muertew",
+    "titulo": "Harry Potter Y Las Reliquias De La Muerte",
     "autor": "J.K.Rowling",
     "editorial": "Salamandra",
     "año": "2020",
@@ -666,6 +954,15 @@
     "portada_url": ""
   },
   {
+    "id": 5228,
+    "isbn": "9789871343393",
+    "titulo": "Hay un monstruo debajo de mi cama",
+    "autor": "Liliana Cinetto, Lucía Mancilla Prieto",
+    "editorial": "Desconocido",
+    "año": "2012",
+    "portada_url": ""
+  },
+  {
     "id": 304,
     "isbn": "9789870401742",
     "titulo": "Hotel Pioho's Palace",
@@ -702,7 +999,7 @@
     "portada_url": ""
   },
   {
-    "id": 4841,
+    "id": 5090,
     "isbn": "9789871561247",
     "titulo": "La casa de la risa",
     "autor": "Franco Vaccarini, Iñaki Echeverría",
@@ -828,6 +1125,15 @@
     "portada_url": ""
   },
   {
+    "id": 5257,
+    "isbn": "9789871343409",
+    "titulo": "Las ovejas de Lala",
+    "autor": "Silvina Rocha",
+    "editorial": "Desconocido",
+    "año": "2012",
+    "portada_url": ""
+  },
+  {
     "id": 86,
     "isbn": "9788426142955",
     "titulo": "Los Cinco En El Cerro del Contrabandista",
@@ -875,7 +1181,7 @@
   {
     "id": 11,
     "isbn": "9788416387953",
-    "titulo": "Los ltimos frikis del mundo y la marcha zombi/ The last kids on earth and the zombie parade",
+    "titulo": "Los ltimos frikis del mundo y la marcha zombi",
     "autor": "Max Brallier",
     "editorial": "Desconocido",
     "año": "2017",
@@ -969,6 +1275,15 @@
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
     "año": "2011",
+    "portada_url": ""
+  },
+  {
+    "id": 5258,
+    "isbn": "9789871343577",
+    "titulo": "Mateo y su Gato Rojo",
+    "autor": "Silvina Rocha",
+    "editorial": "del Naranjo",
+    "año": "",
     "portada_url": ""
   },
   {
@@ -1170,6 +1485,15 @@
     "portada_url": ""
   },
   {
+    "id": 5205,
+    "isbn": "9789500729147",
+    "titulo": "Mayor y menor",
+    "autor": "Chanti",
+    "editorial": "Desconocido",
+    "año": "2014",
+    "portada_url": ""
+  },
+  {
     "id": 2651,
     "isbn": "9789500771184",
     "titulo": "Mayor y menor de otro Planeta",
@@ -1266,6 +1590,15 @@
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
     "año": "2010",
+    "portada_url": ""
+  },
+  {
+    "id": 5198,
+    "isbn": "9789875224025",
+    "titulo": "Practical English Exercises",
+    "autor": "Carlos Campos Salvá",
+    "editorial": "VISOR",
+    "año": "Desconocido",
     "portada_url": ""
   },
   {
@@ -1372,9 +1705,9 @@
     "isbn": "9789877476149",
     "titulo": "Supernova",
     "autor": "Marissa Meyer",
-    "editorial": "Desconocido",
+    "editorial": "V&R Ediciones",
     "año": "2021",
-    "portada_url": ""
+    "portada_url": "https://vreditoras.com.ar//uploads/libros/7a8189ac326ec17d2af180faf02d6b2eSupernova-TAPA-BAJA.jpg"
   },
   {
     "id": 3422,
@@ -1383,6 +1716,15 @@
     "autor": "Cecilia Pisos",
     "editorial": "La Brujita de Papel",
     "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5272,
+    "isbn": "9789500715737",
+    "titulo": "Tengo un monstruo en el bolsillo",
+    "autor": "Graciela Montes, Random House Mondadori",
+    "editorial": "Sudamericana",
+    "año": "1999",
     "portada_url": ""
   },
   {
@@ -1464,6 +1806,15 @@
     "autor": "Disney, Pixar",
     "editorial": "Clarin",
     "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5275,
+    "isbn": "9789500833141",
+    "titulo": "VERRUGA Y BRIQUETA EN: LA MÁS BRUJA DE TODAS",
+    "autor": "Silvia Graciela Schujer, José Olmos",
+    "editorial": "Desconocido",
+    "año": "2006",
     "portada_url": ""
   },
   {
@@ -1568,7 +1919,7 @@
   {
     "id": 2817,
     "isbn": "9786075271033",
-    "titulo": "Winnie y Wilbur. en la Playa (Nueva Edición)",
+    "titulo": "Winnie y Wilbur. en la Playa",
     "autor": "Korky Korky, Korky Paul, Valerie Thomas",
     "editorial": "Oceano Travesia",
     "año": "2017-10",
@@ -1593,6 +1944,15 @@
     "portada_url": ""
   },
   {
+    "id": 5214,
+    "isbn": "9789870700289",
+    "titulo": "Xisney 10 dinosaurio",
+    "autor": "",
+    "editorial": "",
+    "año": "",
+    "portada_url": ""
+  },
+  {
     "id": 279,
     "isbn": "9789870401735",
     "titulo": "Zoo loco",
@@ -1602,93 +1962,21 @@
     "portada_url": ""
   },
   {
-    "id": 4834,
-    "isbn": "9789878120164",
-    "titulo": "dg double o nada!",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 4832,
-    "isbn": "9789878120188",
-    "titulo": "dg frio fatal",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 4837,
-    "isbn": "9789878120126",
-    "titulo": "dg mala suerte",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 4839,
-    "isbn": "9789878120102",
-    "titulo": "dg sin salida!",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 4831,
-    "isbn": "9789878120058",
-    "titulo": "dg tocado y hundido",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 4836,
-    "isbn": "9789878120133",
-    "titulo": "dg un viaje de locos",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 4835,
-    "isbn": "9789878120140",
-    "titulo": "dg vieja escuela",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 4833,
-    "isbn": "9789878120171",
-    "titulo": "dg volando voy ",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 4840,
-    "isbn": "9789875224025",
-    "titulo": "inhles practico",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
     "id": 224,
     "isbn": "9789707773998",
     "titulo": "¡Feliz cumpleaños, Winnie!",
     "autor": "Valérie Thomas",
     "editorial": "Desconocido",
     "año": "2008",
+    "portada_url": ""
+  },
+  {
+    "id": 5271,
+    "isbn": "9789875041103",
+    "titulo": "¡Qué payaso este elefante!",
+    "autor": "Desconocido",
+    "editorial": "Desconocido",
+    "año": "2014",
     "portada_url": ""
   },
   {
