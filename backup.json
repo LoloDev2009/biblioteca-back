@@ -1,21 +1,12 @@
 [
   {
-    "id": 103,
-    "isbn": "9789871208692",
-    "titulo": "A través de la ventana indiscreta",
-    "autor": "Michael Dahl",
-    "editorial": "Desconocido",
-    "año": "2014",
-    "portada_url": ""
-  },
-  {
     "id": 8389,
     "isbn": "9789875040946",
     "titulo": "Amadeo y su sombrero",
     "autor": "Fabián Sevilla",
     "editorial": "Desconocido",
     "año": "2013",
-    "portada_url": ""
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3b8AR4YON_aHjs2JAB1kikp_vN9vtBLTosg&s"
   },
   {
     "id": 2444,
@@ -24,7 +15,7 @@
     "autor": "Liliana Cinetto",
     "editorial": "Desconocido",
     "año": "2007",
-    "portada_url": ""
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO-fvikEqYShCJPL0GvMraD_5-N6KoH7tRvQ&s"
   },
   {
     "id": 48,
@@ -33,7 +24,7 @@
     "autor": "Marvel",
     "editorial": "Panini Comics",
     "año": "2021",
-    "portada_url": ""
+    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_639370-MLA83999442646_052025-O.webp"
   },
   {
     "id": 49,
@@ -42,7 +33,7 @@
     "autor": "Marvel",
     "editorial": "Panini Comics",
     "año": "2021",
-    "portada_url": ""
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/b5/f5/b5f56ebf4505da5e1e5d95f6a0f74d35.jpg"
   },
   {
     "id": 2447,
@@ -51,7 +42,7 @@
     "autor": "Roberto Sotelo, Douglas Wright",
     "editorial": "Desconocido",
     "año": "2001",
-    "portada_url": ""
+    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9500825538_1.jpg?id_com=717"
   },
   {
     "id": 2081,
@@ -60,7 +51,7 @@
     "autor": "J.K.Rowling",
     "editorial": "Salamandra",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/10/3b/103ba9d8f74a302f92f6c67d75680413.jpg"
   },
   {
     "id": 2082,
@@ -69,7 +60,7 @@
     "autor": "J.K.Rowling",
     "editorial": "Salamandra Bolsillo",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/3b/a2/3ba21bf22b2d06e6635322fd8df535ab.jpg"
   },
   {
     "id": 77,
@@ -78,7 +69,7 @@
     "autor": "Desconocido",
     "editorial": "Desconocido",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/64/12/6412f80c9b873f59e39cd8cd19745901.jpg"
   },
   {
     "id": 1881,
@@ -96,7 +87,7 @@
     "autor": "Liliana Bodoc",
     "editorial": "El Barco De Vapor",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBa-1xvthZayvIXl9lEW5LKT5TUTxkTJc79Q&s"
   },
   {
     "id": 8,
@@ -112,9 +103,9 @@
     "isbn": "9789875040236",
     "titulo": "Asesinatos en la escuela del perro",
     "autor": "Desconocido",
-    "editorial": "Desconocido",
+    "editorial": "Quipu",
     "año": "2015",
-    "portada_url": ""
+    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_899909-MLA93499532139_092025-O.webp"
   },
   {
     "id": 1987,
@@ -141,7 +132,7 @@
     "autor": "Marvel",
     "editorial": "Panini Comics",
     "año": "2024",
-    "portada_url": ""
+    "portada_url": "https://acdn-us.mitiendanube.com/stores/001/161/337/products/cci-448929786075785356-57d2d9276c645acc9d17290202906384-1024-1024.jpg"
   },
   {
     "id": 2689,
@@ -158,7 +149,7 @@
     "titulo": "Chaucha Y Palito",
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
-    "año": "Desconocido",
+    "año": "2010",
     "portada_url": ""
   },
   {
@@ -186,7 +177,7 @@
     "autor": "Disney, Pixar",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": null
+    "portada_url": ""
   },
   {
     "id": 5455,
@@ -362,29 +353,29 @@
   {
     "id": 182,
     "isbn": "9789875040588",
-    "titulo": "Colegio maldito",
-    "autor": "Gabriel Korenfeld, Federico Combi",
-    "editorial": "Desconocido",
+    "titulo": "Colegio maldito I",
+    "autor": "Gabriel Korenfeld",
+    "editorial": "Quipu",
     "año": "2011",
-    "portada_url": ""
+    "portada_url": "https://dcdn-us.mitiendanube.com/stores/004/823/848/products/1000181917-6c0b38029fd273a68117303103155026-480-0.webp"
   },
   {
     "id": 183,
     "isbn": "9789875040694",
     "titulo": "Colegio maldito II",
     "autor": "Gabriel Korenfeld",
-    "editorial": "Desconocido",
+    "editorial": "Quipu",
     "año": "2015",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875040694.jpg"
   },
   {
     "id": 184,
     "isbn": "9789875041080",
     "titulo": "Colegio maldito III",
     "autor": "Gabriel Korenfeld",
-    "editorial": "Desconocido",
+    "editorial": "Quipu",
     "año": "2015",
-    "portada_url": ""
+    "portada_url": "https://www.editorialelcuervo.com/wp-content/uploads/2023/05/10.-COLEGIO-MALDITO-III.jpeg"
   },
   {
     "id": 3395,
@@ -393,7 +384,7 @@
     "autor": "Gabriel Korenfeld",
     "editorial": "Quipu",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9875041462_9789875041462_2022-12-27_12_00_05.jpg"
   },
   {
     "id": 3396,
@@ -402,7 +393,7 @@
     "autor": "Gabriel Korenfeld",
     "editorial": "Quipu",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875041783.jpg"
   },
   {
     "id": 3397,
@@ -411,10 +402,10 @@
     "autor": "Ariela Kreimer",
     "editorial": "Ala Delta",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0gL2nrexx1WZ2bgZJNp0M9Z2Sb13whYcTCg&s"
   },
   {
-    "id": 8613,
+    "id": 8659,
     "isbn": "9781628852363",
     "titulo": "Criaturas marinas",
     "autor": "Desconocido",
@@ -432,7 +423,7 @@
     "portada_url": ""
   },
   {
-    "id": 8616,
+    "id": 8661,
     "isbn": "9789502413020",
     "titulo": "Cuentos Clasicos Regionalizados",
     "autor": "Roberta Iannamico, Walter Carzon",
@@ -444,10 +435,10 @@
     "id": 3398,
     "isbn": "9789504634157",
     "titulo": "Cuentos a salto de canguro",
-    "autor": "Elsa Boenemann",
+    "autor": "Elsa Bornemann",
     "editorial": "Alfaguara",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789504634157_1.jpg?id_com=717"
   },
   {
     "id": 2722,
@@ -609,7 +600,7 @@
     "autor": "Liliana Cinetto",
     "editorial": "Loqueleo",
     "año": "2015",
-    "portada_url": ""
+    "portada_url": "https://www.loqueleo.com/ar/uploads/2015/11/resized/800_9789504643241.jpg"
   },
   {
     "id": 3401,
@@ -618,7 +609,7 @@
     "autor": "Liliana Cinetto",
     "editorial": "Loqueleo",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://www.loqueleo.com/ar/uploads/2016/03/tapa-diminuto-y-el-campamento-de-los-zombis.jpg"
   },
   {
     "id": 3399,
@@ -627,7 +618,7 @@
     "autor": "Liliana Cinetto",
     "editorial": "Alfaguara",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4d5j9pnVM3a-OF6KcflZeNTmKGyw4F5Puw&s"
   },
   {
     "id": 3400,
@@ -636,16 +627,16 @@
     "autor": "Liliana Cinetto",
     "editorial": "Alfaguara",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1335993961i/13628297.jpg"
   },
   {
-    "id": 8628,
+    "id": 8684,
     "isbn": "9789870434771",
     "titulo": "Discurso del oso",
     "autor": "Julio Cortázar",
     "editorial": "Desconocido",
     "año": "2014",
-    "portada_url": ""
+    "portada_url": "https://imaginaria.com.ar/wp-content/uploads/2010/03/DiscursoDelOso1.jpg"
   },
   {
     "id": 240,
@@ -661,18 +652,9 @@
     "isbn": "9789875040663",
     "titulo": "Edelmira latele",
     "autor": "Adela Basch",
-    "editorial": "Desconocido",
+    "editorial": "Quipu",
     "año": "2012",
-    "portada_url": ""
-  },
-  {
-    "id": 112,
-    "isbn": "9789871208708",
-    "titulo": "El Asistente Desaparece!",
-    "autor": "Michael Dahl",
-    "editorial": "Desconocido",
-    "año": "2013",
-    "portada_url": ""
+    "portada_url": "https://acdn-us.mitiendanube.com/stores/881/926/products/edelmira-latele1-c0fdb69930310ced1516210450703692-480-0.jpg"
   },
   {
     "id": 1794,
@@ -681,7 +663,16 @@
     "autor": "Silvia Schujer",
     "editorial": "Loqueleo",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdYcnInmDyzfBuAjx6eavEPyzkUUE_Mj0o5w&s"
+  },
+  {
+    "id": 8838,
+    "isbn": "9789877461084",
+    "titulo": "El Gran Libro de las Preguntas",
+    "autor": "Sebastián Matiotti",
+    "editorial": "Desconocido",
+    "año": "Desconocido",
+    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_859862-MLA40173644101_122019-O.webp"
   },
   {
     "id": 1874,
@@ -690,7 +681,7 @@
     "autor": "Gustavo Roldán",
     "editorial": "Loqueleo",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://www.loqueleo.com/ar/uploads/2015/11/9789504643333.jpg"
   },
   {
     "id": 8460,
@@ -708,7 +699,7 @@
     "autor": "Antoine de Saint-Exupéry",
     "editorial": "Gradifco",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWBDRO57rTix20TcX9hipSgTzXKguJDqde7w&s"
   },
   {
     "id": 242,
@@ -726,10 +717,10 @@
     "autor": "Roy Berocay",
     "editorial": "Alfaguara",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://www.lanormallibros.com.ar/media/libros/a0415f50a4fd043e74d55f5985089194.jpg"
   },
   {
-    "id": 8623,
+    "id": 8694,
     "isbn": "9789500727334",
     "titulo": "El brujo, el Horrible y el libro rojo de los hechizos : Pablo Bernasconi ; ilustrado por Pablo Bernasconi",
     "autor": "Pablo Bernasconi",
@@ -738,40 +729,22 @@
     "portada_url": "http://books.google.com/books/content?id=XXWIGAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 2226,
-    "isbn": "9789507324475",
-    "titulo": "El castillo de Zampachicha MiauMiau",
-    "autor": "Geronimo Stilton",
-    "editorial": "Destino",
-    "año": "Desconocido",
-    "portada_url": ""
-  },
-  {
     "id": 3104,
     "isbn": "9789870401728",
     "titulo": "El diablo Inglés",
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
-    "año": "Desconocido",
+    "año": "2010",
     "portada_url": ""
   },
   {
-    "id": 8624,
+    "id": 8697,
     "isbn": "9789500728065",
     "titulo": "El diario del capitán Arsenio",
     "autor": "Pablo Bernasconi",
     "editorial": "Desconocido",
     "año": "2007",
-    "portada_url": ""
-  },
-  {
-    "id": 2227,
-    "isbn": "9789507324192",
-    "titulo": "El fantasma del Subterraneo",
-    "autor": "Geronimo Stilton",
-    "editorial": "Destino",
-    "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500770330_9789500770330_2024-04-20_07_20_05.jpg"
   },
   {
     "id": 2732,
@@ -789,34 +762,7 @@
     "autor": "Veronica Cantero Burroni",
     "editorial": "Desconocido",
     "año": "2016",
-    "portada_url": ""
-  },
-  {
-    "id": 1,
-    "isbn": "9789878000183",
-    "titulo": "El ladrón del rayo",
-    "autor": "Rick Riordan",
-    "editorial": "Desconocido",
-    "año": "2021",
-    "portada_url": ""
-  },
-  {
-    "id": 3298,
-    "isbn": "9789878000183.0",
-    "titulo": "El ladrón del rayo",
-    "autor": "Rick Riordan",
-    "editorial": "Desconocido",
-    "año": "2021",
-    "portada_url": ""
-  },
-  {
-    "id": 114,
-    "isbn": "9789871208920",
-    "titulo": "El mago y el agujero de gusano",
-    "autor": "Michael Dahl",
-    "editorial": "Desconocido",
-    "año": "2016",
-    "portada_url": ""
+    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_699750-MLU54983799724_042023-O.webp"
   },
   {
     "id": 2350,
@@ -834,7 +780,7 @@
     "autor": "Ricardo Alcántara",
     "editorial": "Desconocido",
     "año": "2015",
-    "portada_url": ""
+    "portada_url": "https://acdn-us.mitiendanube.com/stores/945/047/products/pirata-valiente_000011-84437c45c6652ec94116663702458562-640-0.png"
   },
   {
     "id": 8474,
@@ -843,7 +789,7 @@
     "autor": "Disney",
     "editorial": "Salvat",
     "año": "2024",
-    "portada_url": ""
+    "portada_url": "https://www.salvat.com/41429-large_default/rey-leon.jpg"
   },
   {
     "id": 8475,
@@ -852,7 +798,7 @@
     "autor": "Iris Rivera",
     "editorial": "Desconocido",
     "año": "2012",
-    "portada_url": ""
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0aQRzJeXWFO_JbEyWEdOAAtfXp7PMMsGMRA&s"
   },
   {
     "id": 2827,
@@ -861,79 +807,115 @@
     "autor": "Nik",
     "editorial": "Primera Sudamericana",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_zmpUA1IecgmA5eIGR-3yAqrVCBhpBivFA&s"
   },
   {
-    "id": 2198,
-    "isbn": "9789507324321",
-    "titulo": "Geronimo Stilton: Cuatro Ratones en la Serva Negra",
+    "id": 94,
+    "isbn": "9789507320491",
+    "titulo": "Geronimo Stilton 01: Mi Nombre Es Stilton, Geronimo Stilton",
     "autor": "Geronimo Stilton",
     "editorial": "Destino",
-    "año": "Desconocido",
-    "portada_url": ""
-  },
-  {
-    "id": 2199,
-    "isbn": "9789507324185",
-    "titulo": "Geronimo Stilton: El Misterio del tesoro desaparecido",
-    "autor": "Geronimo Stilton",
-    "editorial": "Destino",
-    "año": "Desconocido",
-    "portada_url": ""
-  },
-  {
-    "id": 2191,
-    "isbn": "9789507324468",
-    "titulo": "Geronimo Stilton: El amor es como el queso",
-    "autor": "Geronimo Stilton",
-    "editorial": "Destino",
-    "año": "Desconocido",
-    "portada_url": ""
-  },
-  {
-    "id": 2171,
-    "isbn": "9789507323638",
-    "titulo": "Geronimo Stilton: El castillo de roca tacaña",
-    "autor": "Geronimo Stilton",
-    "editorial": "Destino",
-    "año": "Desconocido",
-    "portada_url": ""
-  },
-  {
-    "id": 2196,
-    "isbn": "9789507323430",
-    "titulo": "Geronimo Stilton: El misterioso manustcrito de Nostrarratus",
-    "autor": "Geronimo Stilton",
-    "editorial": "Destino",
-    "año": "Desconocido",
-    "portada_url": ""
+    "año": "2004-04-01",
+    "portada_url": "http://books.google.com/books/content?id=BUQ7AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
     "id": 2083,
     "isbn": "9789507323423",
-    "titulo": "Geronimo Stilton: En busca de la maravilla perdida",
+    "titulo": "Geronimo Stilton 02: En busca de la maravilla perdida",
     "autor": "Geronimo Stilton",
     "editorial": "Destino",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://images-eu.ssl-images-amazon.com/images/I/61JUDwdzOgL._AC_UL210_SR210,210_.jpg"
   },
   {
-    "id": 2195,
-    "isbn": "9789507323850",
-    "titulo": "Geronimo Stilton: La sonrisa de Mona Ratisa",
+    "id": 2196,
+    "isbn": "9789507323430",
+    "titulo": "Geronimo Stilton 03: El misterioso manustcrito de Nostrarratus",
     "autor": "Geronimo Stilton",
     "editorial": "Destino",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://www.planetadelibros.com.ar/usuaris/libros/fotos/222/original/portada_stilton-3-el-misterioso-manuscrito-de-nostrarratus_geronimo-stilton_201607271258.jpg"
+  },
+  {
+    "id": 2171,
+    "isbn": "9789507323638",
+    "titulo": "Geronimo Stilton 04: El castillo de roca tacaña",
+    "autor": "Geronimo Stilton",
+    "editorial": "Destino",
+    "año": "Desconocido",
+    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789507323638_1.jpg?id_com=717"
   },
   {
     "id": 2084,
     "isbn": "9789507323645",
-    "titulo": "Geronimo Stilton: Un disparatado Viaje a Ratiskistán",
+    "titulo": "Geronimo Stilton 05: Un disparatado Viaje a Ratiskistán",
     "autor": "Geronimo Stilton",
     "editorial": "Destino",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/9e/2b/9e2bcdba208918c0032435ee20898dbf.jpg"
+  },
+  {
+    "id": 2195,
+    "isbn": "9789507323850",
+    "titulo": "Geronimo Stilton 06: La sonrisa de Mona Ratisa",
+    "autor": "Geronimo Stilton",
+    "editorial": "Destino",
+    "año": "Desconocido",
+    "portada_url": "https://tienda.planetadelibros.com.ar/cdn/shop/products/D_710189-MLA42306521228_062020-O.jpg?v=1684361809"
+  },
+  {
+    "id": 137,
+    "isbn": "9789507320705",
+    "titulo": "Geronimo Stilton 08: ¡Quita esas patas, caraqueso!",
+    "autor": "Geronimo Stilton",
+    "editorial": "Destino",
+    "año": "2011",
+    "portada_url": "https://pictures.abebooks.com/isbn/9788408052630-us.jpg"
+  },
+  {
+    "id": 2199,
+    "isbn": "9789507324185",
+    "titulo": "Geronimo Stilton 09: El Misterio del tesoro desaparecido",
+    "autor": "Geronimo Stilton",
+    "editorial": "Destino",
+    "año": "Desconocido",
+    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789507324185_1.jpg?id_com=717"
+  },
+  {
+    "id": 2198,
+    "isbn": "9789507324321",
+    "titulo": "Geronimo Stilton 10: Cuatro Ratones en la Serva Negra",
+    "autor": "Geronimo Stilton",
+    "editorial": "Destino",
+    "año": "Desconocido",
+    "portada_url": "https://tienda.planetadelibros.com.ar/cdn/shop/products/D_943355-MLA42672501121_072020-O.jpg?v=1684350047"
+  },
+  {
+    "id": 2227,
+    "isbn": "9789507324192",
+    "titulo": "Geronimo Stilton 11: El fantasma del Subterraneo",
+    "autor": "Geronimo Stilton",
+    "editorial": "Destino",
+    "año": "Desconocido",
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxRBV9frwTAPxmSCcs1NTZKvBKwLRwBGv87w&s"
+  },
+  {
+    "id": 2191,
+    "isbn": "9789507324468",
+    "titulo": "Geronimo Stilton 12: El amor es como el queso",
+    "autor": "Geronimo Stilton",
+    "editorial": "Destino",
+    "año": "Desconocido",
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPjzHG5S25axV4l7YCRfyluDq60QO_tIPGmw&s"
+  },
+  {
+    "id": 2226,
+    "isbn": "9789507324475",
+    "titulo": "Geronimo Stilton 13: El castillo de Zampachicha MiauMiau",
+    "autor": "Geronimo Stilton",
+    "editorial": "Destino",
+    "año": "Desconocido",
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ppRGFHh57qummtsaqWpq-rBSczeit39wSw&s"
   },
   {
     "id": 2568,
@@ -942,7 +924,7 @@
     "autor": "Wizarding World",
     "editorial": "Vértice",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://acdn-us.mitiendanube.com/stores/742/264/products/5967_hp-all-about-the-hogwarts-h-9b27767429a6a2d38817231216308766-640-0.png"
   },
   {
     "id": 47,
@@ -951,7 +933,7 @@
     "autor": "J.K.Rowling",
     "editorial": "Salamandra",
     "año": "2020",
-    "portada_url": ""
+    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789878000190_1.jpg?id_com=717"
   },
   {
     "id": 3977,
@@ -960,7 +942,7 @@
     "autor": "J.K.Rowling",
     "editorial": "Salamandra Bolsillo",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://www.penguinlibros.com/ar/6419844/harry-potter-y-el-caliz-de-fuego-harry-potter-4.jpg"
   },
   {
     "id": 3407,
@@ -969,7 +951,7 @@
     "autor": "J.K.Rowling",
     "editorial": "Salamandra",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/8498387544.jpg"
   },
   {
     "id": 3978,
@@ -978,7 +960,7 @@
     "autor": "J.K.Rowling",
     "editorial": "Salamandra Bolsillo",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/ac/d2/acd22d20d3bd39e68e81b69ebcbe4c54.jpg"
   },
   {
     "id": 12,
@@ -987,7 +969,7 @@
     "autor": "J.K.Rowling",
     "editorial": "Salamandra Bolsillo",
     "año": "2020",
-    "portada_url": ""
+    "portada_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/1a/1b/1a1b975ace9d300841c305826a644bea.jpg"
   },
   {
     "id": 3803,
@@ -996,7 +978,7 @@
     "autor": "J.K.Rowling",
     "editorial": "Salamandra Bolsillo",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/c4/e9/c4e93e876288b4a0021a0cef47efc8bf.jpg"
   },
   {
     "id": 3979,
@@ -1005,7 +987,7 @@
     "autor": "J.K.Rowling",
     "editorial": "Salamandra Bolsillo",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/a0/b4/a0b46533ad541c885d6a406da0e9c429.jpg"
   },
   {
     "id": 3806,
@@ -1014,16 +996,70 @@
     "autor": "J.K.Rowling",
     "editorial": "Salamandra Bolsillo",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/aa/38/aa38452661f7b7adea8c51cf1adab6bb.jpg"
   },
   {
     "id": 8494,
     "isbn": "9789871343393",
     "titulo": "Hay un monstruo debajo de mi cama",
     "autor": "Liliana Cinetto, Lucía Mancilla Prieto",
-    "editorial": "Desconocido",
+    "editorial": "del Naranjo",
     "año": "2012",
-    "portada_url": ""
+    "portada_url": "https://delnaranjo.com/wp-content/uploads/2025/06/monstruo-cama.jpg"
+  },
+  {
+    "id": 103,
+    "isbn": "9789871208692",
+    "titulo": "Hocus Pocus Hotel 01: A través de la ventana indiscreta",
+    "autor": "Michael Dahl",
+    "editorial": "Latinbooks",
+    "año": "2014",
+    "portada_url": "https://latinbooksint.com/img/tapitas_lb/1448462942-Arte_HPH_1%20copy.png"
+  },
+  {
+    "id": 130,
+    "isbn": "9789871208715",
+    "titulo": "Hocus Pocus Hotel 02: Para atrapar al fantasma",
+    "autor": "Michael Dahl",
+    "editorial": "Latinbooks",
+    "año": "2018",
+    "portada_url": "https://entelequia.com.ar/storage/product_arch/2020/08/slayers_special_tapa_03-DESKTOP-EAEOSF4-11.webp"
+  },
+  {
+    "id": 112,
+    "isbn": "9789871208708",
+    "titulo": "Hocus Pocus Hotel 03: El Asistente Desaparece!",
+    "autor": "Michael Dahl",
+    "editorial": "Latinbooks",
+    "año": "2013",
+    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_737647-MLA43474186619_092020-O.webp"
+  },
+  {
+    "id": 117,
+    "isbn": "9789871208722",
+    "titulo": "Hocus Pocus Hotel 04: La Sombra de Un Mago",
+    "autor": "Michael Dahl",
+    "editorial": "Latinbooks",
+    "año": "2013",
+    "portada_url": "https://entelequia.com.ar/storage/product_arch/2020/08/slayers_special_tapa_03-DESKTOP-EAEOSF4-13.webp"
+  },
+  {
+    "id": 114,
+    "isbn": "9789871208920",
+    "titulo": "Hocus Pocus Hotel 05: El mago y el agujero de gusano",
+    "autor": "Michael Dahl",
+    "editorial": "Latinbooks",
+    "año": "2016",
+    "portada_url": "https://entelequia.com.ar/storage/product_arch/2020/08/slayers_special_tapa_03-DESKTOP-EAEOSF4-8.webp"
+  },
+  {
+    "id": 121,
+    "isbn": "9789871208937",
+    "titulo": "Hocus Pocus Hotel 06: Los prisioneros del piso trece",
+    "autor": "Michael Dahl",
+    "editorial": "Latinbooks",
+    "año": "2016",
+    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_706469-MLU46335537357_062021-O.webp"
   },
   {
     "id": 304,
@@ -1050,16 +1086,7 @@
     "autor": "Dan Green",
     "editorial": "Planeta Junior",
     "año": "Desconocido",
-    "portada_url": ""
-  },
-  {
-    "id": 117,
-    "isbn": "9789871208722",
-    "titulo": "La Sombra de Un Mago",
-    "autor": "Michael Dahl",
-    "editorial": "Desconocido",
-    "año": "2013",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/08/9504952824.jpg"
   },
   {
     "id": 5090,
@@ -1068,7 +1095,7 @@
     "autor": "Franco Vaccarini, Iñaki Echeverría",
     "editorial": "Desconocido",
     "año": "2011",
-    "portada_url": ""
+    "portada_url": "https://acdn-us.mitiendanube.com/stores/001/081/567/products/lacasadelarisa1-c83bcee577c93cfa1615816911493271-640-0.jpg"
   },
   {
     "id": 194,
@@ -1104,7 +1131,7 @@
     "autor": "Valerie Thomas, Korky Paul",
     "editorial": "Oceano Travesia",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2019/02/6077352327.jpg"
   },
   {
     "id": 3640,
@@ -1113,70 +1140,70 @@
     "autor": "Pablo Bernasconi",
     "editorial": "Desconocido",
     "año": "2015",
-    "portada_url": ""
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJoUEDYpF4hjtqqCXY2o3Lji5U3L8G4ZsomA&s"
   },
   {
     "id": 1215,
     "isbn": "9789500737234",
     "titulo": "Las Aventuras de Facu y Café con Leche 01",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "2020",
-    "portada_url": ""
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500737234_9789500737234_2022-11-26_08_00_06.jpg"
   },
   {
     "id": 1214,
     "isbn": "9789500741804",
     "titulo": "Las Aventuras de Facu y Café con Leche 02",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "2014",
-    "portada_url": ""
+    "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/4e/0c/4e0c624b5bed6fde7d26ba5f70ccc26f.jpg"
   },
   {
     "id": 1123,
     "isbn": "9789500746991",
     "titulo": "Las Aventuras de Facu y Café con Leche 03",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "2014",
-    "portada_url": ""
+    "portada_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/6c/86/6c86c3e59ce17f36e843fe9418e503d1.jpg"
   },
   {
     "id": 1175,
     "isbn": "9789500751605",
     "titulo": "Las Aventuras de Facu y Café con Leche 04",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500751605_9789500751605_2022-11-08_11_12_58.jpg"
   },
   {
     "id": 1172,
     "isbn": "9789500755740",
     "titulo": "Las Aventuras de Facu y Café con Leche 05",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500755740_9789500755740_2022-11-08_11_12_58.jpg"
   },
   {
     "id": 1173,
     "isbn": "9789500758680",
     "titulo": "Las Aventuras de Facu y Café con Leche 06",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/16/c0/16c0f9d8d6b4b932075c2d8d2e13e452.jpg"
   },
   {
     "id": 1085,
     "isbn": "9789500763547",
     "titulo": "Las Aventuras de Facu y Café con Leche 07",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500763547_9789500763547_2022-11-08_11_12_58.jpg"
   },
   {
     "id": 3392,
@@ -1185,16 +1212,16 @@
     "autor": "Roy Berocay",
     "editorial": "Loqueleo",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/06/9504655022.jpg"
   },
   {
     "id": 8513,
     "isbn": "9789871343409",
     "titulo": "Las ovejas de Lala",
     "autor": "Silvina Rocha",
-    "editorial": "Desconocido",
+    "editorial": "del Naranjo",
     "año": "2012",
-    "portada_url": ""
+    "portada_url": "https://delnaranjo.com/wp-content/uploads/2025/06/lala.jpg"
   },
   {
     "id": 86,
@@ -1221,7 +1248,7 @@
     "autor": "Roverto Santiago",
     "editorial": "SM",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/4b/8b/4b8b9b8ce6110a6bda350aa491b39310.jpg"
   },
   {
     "id": 3736,
@@ -1230,7 +1257,7 @@
     "autor": "Roberto Santiago",
     "editorial": "SM",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://m.media-amazon.com/images/I/81klBbXPRmL._SL1500_.jpg"
   },
   {
     "id": 3738,
@@ -1239,70 +1266,61 @@
     "autor": "Roverto Santiago",
     "editorial": "SM",
     "año": "Desconocido",
-    "portada_url": ""
-  },
-  {
-    "id": 11,
-    "isbn": "9788416387953",
-    "titulo": "Los ltimos frikis del mundo y la marcha zombi",
-    "autor": "Max Brallier",
-    "editorial": "Desconocido",
-    "año": "2017",
-    "portada_url": "http://books.google.com/books/content?id=uc2DswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-  },
-  {
-    "id": 121,
-    "isbn": "9789871208937",
-    "titulo": "Los prisioneros del piso trece",
-    "autor": "Michael Dahl",
-    "editorial": "Desconocido",
-    "año": "2016",
-    "portada_url": ""
+    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_753671-MLA30928639413_062019-O.webp"
   },
   {
     "id": 7,
     "isbn": "9788415709794",
     "titulo": "Los Últimos Frikis del Mundo",
     "autor": "Max Brallier",
-    "editorial": "Desconocido",
+    "editorial": "Editorial Hidra",
     "año": "2016-05",
     "portada_url": "http://books.google.com/books/content?id=un7zDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
     "id": 10,
     "isbn": "9788417390129",
-    "titulo": "Los últimos frikis del mundo y el Rey de las Pesadillas",
+    "titulo": "Los Últimos Frikis del Mundo y el Rey de las Pesadillas",
     "autor": "Max Brallier",
-    "editorial": "Desconocido",
+    "editorial": "Editorial Hidra",
     "año": "2018",
     "portada_url": "http://books.google.com/books/content?id=iFEtuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
     "id": 9,
     "isbn": "9788418002755",
-    "titulo": "Los últimos frikis del mundo y el el bate de medianoche",
+    "titulo": "Los Últimos Frikis del Mundo y el el bate de medianoche",
     "autor": "Max Brallier",
-    "editorial": "Desconocido",
+    "editorial": "Editorial Hidra",
     "año": "2021",
-    "portada_url": ""
+    "portada_url": "https://app.masterlibros.com.ar/admin/files/libros/194544/9788418002755.jpg"
   },
   {
     "id": 6,
     "isbn": "9788417390136",
-    "titulo": "Los últimos frikis del mundo y el más allá cósmico",
+    "titulo": "Los Últimos Frikis del Mundo y el más allá cósmico",
     "autor": "Max Brallier",
-    "editorial": "Desconocido",
+    "editorial": "Editorial Hidra",
     "año": "2019",
     "portada_url": "http://books.google.com/books/content?id=ZABPwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
     "id": 5,
     "isbn": "9788419266132",
-    "titulo": "Los últimos frikis del mundo y la carretera de los esqueletos",
-    "autor": "Desconocido",
-    "editorial": "Desconocido",
+    "titulo": "Los Últimos Frikis del Mundo y la carretera de los esqueletos",
+    "autor": "Max Brallier",
+    "editorial": "Editorial Hidra",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2024/03/8419266132.jpg"
+  },
+  {
+    "id": 11,
+    "isbn": "9788416387953",
+    "titulo": "Los Últimos Frikis del Mundo y la marcha zombi",
+    "autor": "Max Brallier",
+    "editorial": "Editorial Hidra",
+    "año": "2017",
+    "portada_url": "http://books.google.com/books/content?id=uc2DswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
     "id": 3742,
@@ -1311,7 +1329,7 @@
     "autor": "Silvina Rocha",
     "editorial": "Quipu",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://cdn.livriz.com/media/mediaspace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/4369579e-00fc-41be-b4f9-6d6d211ada68/9789875042094.jpg"
   },
   {
     "id": 3409,
@@ -1320,16 +1338,16 @@
     "autor": "Silvina Rocha",
     "editorial": "Quipu",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9875042100_9789875042100_2022-11-08_11_12_58.jpg"
   },
   {
     "id": 204,
     "isbn": "9789875041653",
     "titulo": "Macumba",
     "autor": "José Montero",
-    "editorial": "Desconocido",
+    "editorial": "Quipu",
     "año": "2016",
-    "portada_url": ""
+    "portada_url": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/618420-b815d4a985664e084d17274508870810-1024-1024.jpg"
   },
   {
     "id": 205,
@@ -1347,214 +1365,214 @@
     "autor": "Silvina Rocha",
     "editorial": "del Naranjo",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9871343249_9789871343249_2023-10-21_08_01_05.jpg"
   },
   {
-    "id": 965,
-    "isbn": "9789500733717",
-    "titulo": "Mayor Y Menor 04",
+    "id": 5551,
+    "isbn": "9789500729147",
+    "titulo": "Mayor y Menor",
     "autor": "Chanti",
-    "editorial": "Desconocido",
-    "año": "Desconocido",
-    "portada_url": ""
+    "editorial": "Primera sudamericana",
+    "año": "2014",
+    "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5060207/wjPXXRm07n-hp0iuVCsD5sW7Alk-.jpg?v=638852939477900000"
   },
   {
     "id": 511,
     "isbn": "9789500730532",
     "titulo": "Mayor y Menor 02",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5060445/25E-OoBUjiGdr8ihfG9QzAiIwDA-.jpg?v=638852943084730000"
   },
   {
     "id": 966,
     "isbn": "9789500732024",
     "titulo": "Mayor y Menor 03",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "2010",
-    "portada_url": ""
+    "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5060447/WG1-nfLrDgIUW92L7sTnEZgYWa0-.jpg?v=638852943096930000"
+  },
+  {
+    "id": 965,
+    "isbn": "9789500733717",
+    "titulo": "Mayor y Menor 04",
+    "autor": "Chanti",
+    "editorial": "Primera sudamericana",
+    "año": "Desconocido",
+    "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5065548/DOTyiv6NbsVZiY11jgx42GJImT8-.jpg?v=638853684205100000"
   },
   {
     "id": 967,
     "isbn": "9789500738934",
     "titulo": "Mayor y Menor 05",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "2015",
-    "portada_url": ""
+    "portada_url": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/552139-f12f43a48119abce3a17273550713368-1024-1024.jpg"
   },
   {
     "id": 968,
     "isbn": "9789500743518",
     "titulo": "Mayor y Menor 06",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "2014",
-    "portada_url": ""
+    "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5062828/nPqG-82RbYSKF7kb5Tso7KJ28Qg-.jpg?v=638853289295800000"
   },
   {
     "id": 969,
     "isbn": "9789500747943",
     "titulo": "Mayor y Menor 07",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "2014",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2019/02/9500747943.jpg"
   },
   {
     "id": 970,
     "isbn": "9789500752749",
     "titulo": "Mayor y Menor 08",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "2015",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2019/02/9500752749.jpg"
   },
   {
     "id": 1091,
     "isbn": "9789500754750",
     "titulo": "Mayor y Menor 09",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500754750_9789500754750_2022-11-08_11_12_58.jpg"
   },
   {
     "id": 1366,
     "isbn": "9789500756853",
     "titulo": "Mayor y Menor 10",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789500756853_1.jpg?id_com=1156"
   },
   {
     "id": 1329,
     "isbn": "9789500758215",
     "titulo": "Mayor y Menor 11",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "2017",
-    "portada_url": ""
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500758215_9789500758215_2022-11-08_13_00_12.jpg"
   },
   {
     "id": 1330,
     "isbn": "9789500759465",
     "titulo": "Mayor y Menor 12",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "2017",
-    "portada_url": ""
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/e80a621ffa7c449d28b86999589a6b70/9/5/9500759465_9789500759465_2025-02-05_22_20_06.jpg"
   },
   {
     "id": 1374,
     "isbn": "9789500761284",
     "titulo": "Mayor y Menor 13",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500761284_9789500761284_2022-11-08_11_12_58.jpg"
   },
   {
     "id": 1473,
     "isbn": "9789500761789",
     "titulo": "Mayor y Menor 14",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2019/10/mayor-y-menor-14.jpg"
   },
   {
     "id": 1672,
     "isbn": "9789500762724",
     "titulo": "Mayor y Menor 15",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500762724_9789500762724_2022-11-08_11_12_58.jpg"
   },
   {
     "id": 543,
     "isbn": "9789500764049",
     "titulo": "Mayor y Menor 16",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/08/9500764049.jpg"
   },
   {
     "id": 847,
     "isbn": "9789500765121",
     "titulo": "Mayor y Menor 17",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500765121_9789500765121_2022-11-08_11_12_58.jpg"
   },
   {
     "id": 764,
     "isbn": "8782700766210",
     "titulo": "Mayor y Menor 18",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2021/11/9500766210-scaled.jpg"
   },
   {
     "id": 689,
     "isbn": "9789500766944",
     "titulo": "Mayor y Menor 19",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/04/9500766944.jpg"
   },
   {
     "id": 690,
     "isbn": "9789500768559",
     "titulo": "Mayor y Menor 20",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500768559_9789500768559_2023-03-31_09_00_19.jpg"
   },
   {
     "id": 610,
     "isbn": "9789500770392",
     "titulo": "Mayor y Menor 21",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2024/04/9500770392.jpg"
   },
   {
     "id": 616,
     "isbn": "9789500768160",
     "titulo": "Mayor y Menor Monstruoso",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/12/9500768160.jpg"
   },
   {
     "id": 1270,
     "isbn": "9789500764872",
     "titulo": "Mayor y Menor Para Dibujar",
     "autor": "Chanti",
-    "editorial": "Desconocido",
+    "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": ""
-  },
-  {
-    "id": 5551,
-    "isbn": "9789500729147",
-    "titulo": "Mayor y menor",
-    "autor": "Chanti",
-    "editorial": "Desconocido",
-    "año": "2014",
-    "portada_url": ""
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500764872_9789500764872_2022-11-08_11_12_58.jpg"
   },
   {
     "id": 2651,
@@ -1563,16 +1581,7 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "2024",
-    "portada_url": ""
-  },
-  {
-    "id": 94,
-    "isbn": "9789507320491",
-    "titulo": "Mi Nombre Es Stilton, Geronimo Stilton",
-    "autor": "Geronimo Stilton",
-    "editorial": "Desconocido",
-    "año": "2004-04-01",
-    "portada_url": "http://books.google.com/books/content?id=BUQ7AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/722795-7baa9a5e719ee5792317298672379469-1024-1024.jpg"
   },
   {
     "id": 4779,
@@ -1581,7 +1590,7 @@
     "autor": "Stephen O'Brien",
     "editorial": "Espasa",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoADxMkbl8qh15FHha80LiFcfD9KHialDciA&s"
   },
   {
     "id": 2923,
@@ -1597,9 +1606,9 @@
     "isbn": "9789504643562",
     "titulo": "Nadie te creería",
     "autor": "Luis María Pescetti",
-    "editorial": "Desconocido",
+    "editorial": "Loqueleo",
     "año": "2015",
-    "portada_url": ""
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9504643562_9789504643562_2022-11-08_11_12_58.jpg"
   },
   {
     "id": 51,
@@ -1608,14 +1617,14 @@
     "autor": "Marvel",
     "editorial": "Panini Comics",
     "año": "2024",
-    "portada_url": ""
+    "portada_url": "https://i1.whakoom.com/large/1e/2f/578308e4c61e40dc93b08935aa30f692.jpg"
   },
   {
     "id": 96,
     "isbn": "9788426142931",
     "titulo": "Otra Aventura de los Cinco",
     "autor": "Enid Blyton",
-    "editorial": "Los Cinco",
+    "editorial": "Juventud",
     "año": "2016-03-10",
     "portada_url": "http://books.google.com/books/content?id=x0ubjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
@@ -1626,25 +1635,16 @@
     "autor": "Jane Cadwallader",
     "editorial": "HUB",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5069266/n1NaydtTnpKXcPrHedyq596mMCU-.jpg?v=638853754031900000"
   },
   {
-    "id": 322,
-    "isbn": "9789875041844",
-    "titulo": "PURO PELO MAS CONECTADOS MENOS COMUNICADOS",
-    "autor": "Desconocido",
+    "id": 1,
+    "isbn": "9789878000183",
+    "titulo": "Percy Jackson 01: El ladrón del rayo",
+    "autor": "Rick Riordan",
     "editorial": "Desconocido",
-    "año": "Desconocido",
-    "portada_url": ""
-  },
-  {
-    "id": 130,
-    "isbn": "9789871208715",
-    "titulo": "Para atrapar al fantasma",
-    "autor": "Michael Dahl",
-    "editorial": "Desconocido",
-    "año": "2018",
-    "portada_url": ""
+    "año": "2021",
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxP4RL7qpAjfn7ZPCg-CNYg3_QkhJnVjy6NA&s"
   },
   {
     "id": 452,
@@ -1671,7 +1671,7 @@
     "autor": "Margarita Mainé",
     "editorial": "SM",
     "año": "2016",
-    "portada_url": ""
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN9vTdJEWx-I1fk9cchdMZQ8wnofqIotinPw&s"
   },
   {
     "id": 43,
@@ -1680,25 +1680,34 @@
     "autor": "Margarita Maine",
     "editorial": "SM",
     "año": "2018",
-    "portada_url": ""
+    "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/78/01/7801921b3298051b342a2925a53cd4b0.jpg"
   },
   {
     "id": 327,
     "isbn": "9789875041929",
     "titulo": "Puro Pelo: Familias De Todos Los Colores",
     "autor": "Fabián Sevilla",
-    "editorial": "Desconocido",
+    "editorial": "Quipu",
     "año": "2017",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875041929.jpg"
+  },
+  {
+    "id": 322,
+    "isbn": "9789875041844",
+    "titulo": "Puro Pelo: Más Conectados Menos Comunicados",
+    "autor": "Fabián Sevilla",
+    "editorial": "Quipu",
+    "año": "2017",
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875041844.jpg"
   },
   {
     "id": 326,
     "isbn": "9789875041943",
     "titulo": "Puro Pelo: Ni Principes Ni Princesas",
     "autor": "Fabián Sevilla",
-    "editorial": "Desconocido",
+    "editorial": "Quipu",
     "año": "2017",
-    "portada_url": ""
+    "portada_url": "https://image.isu.pub/170630153711-5f815fad98c57f354bec91924b5fdfe3/jpg/page_1_thumb_large.jpg"
   },
   {
     "id": 2409,
@@ -1707,16 +1716,16 @@
     "autor": "Margarita Mainé, Iñaki Echeverría",
     "editorial": "Desconocido",
     "año": "2011",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/10/9874007704.jpg"
   },
   {
-    "id": 8626,
+    "id": 8803,
     "isbn": "9789500730556",
     "titulo": "Rebelión en Tortoni",
     "autor": "Pablo Bernasconi",
     "editorial": "Desconocido",
     "año": "2009",
-    "portada_url": ""
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500730556_9789500730556_2022-11-08_11_12_58.jpg"
   },
   {
     "id": 71,
@@ -1734,7 +1743,7 @@
     "autor": "Roy Berocay",
     "editorial": "Alfaguara",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://www.mosca.com.uy/media/catalog/product/5/1/51937.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700"
   },
   {
     "id": 3418,
@@ -1743,7 +1752,7 @@
     "autor": "Roy Berocay",
     "editorial": "Alfaguara",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/06/9504643975.jpg"
   },
   {
     "id": 3753,
@@ -1752,7 +1761,7 @@
     "autor": "Roy Berocay",
     "editorial": "Alfaguara",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/06/9504644026.jpg"
   },
   {
     "id": 3413,
@@ -1770,7 +1779,7 @@
     "autor": "Paula Bombara",
     "editorial": "El Barco De Vapor",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://paulabombara.ar/wp-content/uploads/2021/01/Sin-rueditas.jpg"
   },
   {
     "id": 72,
@@ -1788,7 +1797,7 @@
     "autor": "Cecilia Pisos",
     "editorial": "La Brujita de Papel",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2rIcPu2nHjOy6-7xf6zgVeAgyolorEGNSGQ&s"
   },
   {
     "id": 8579,
@@ -1797,7 +1806,7 @@
     "autor": "Graciela Montes, Random House Mondadori",
     "editorial": "Sudamericana",
     "año": "1999",
-    "portada_url": ""
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS41VX5Q_H1SH_OK2p84hKVeYAskHK_Yn68pA&s"
   },
   {
     "id": 2413,
@@ -1806,7 +1815,7 @@
     "autor": "Françoize Boucher",
     "editorial": "Desconocido",
     "año": "2016",
-    "portada_url": ""
+    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789873202278_1.jpg?id_com=717"
   },
   {
     "id": 3425,
@@ -1815,7 +1824,7 @@
     "autor": "Guillermo del Toro",
     "editorial": "Puck",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_923593-MLA28364599497_102018-O.webp"
   },
   {
     "id": 330,
@@ -1827,49 +1836,49 @@
     "portada_url": ""
   },
   {
-    "id": 2064,
-    "isbn": "9789873820670",
-    "titulo": "Un Mal Principio",
-    "autor": "Lemony Snicket",
-    "editorial": "Desconocido",
-    "año": "Desconocido",
-    "portada_url": ""
-  },
-  {
     "id": 42,
     "isbn": "9789874777744",
     "titulo": "Una Educacion Mortal",
     "autor": "Naomi Novik",
     "editorial": "Umbriel",
     "año": "2020",
-    "portada_url": ""
+    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789874777744_1.jpg?id_com=1156"
   },
   {
     "id": 472,
     "isbn": "9789873820793",
     "titulo": "Una Serie de Catastróficas Desdichas: El Aserradero Lúgubre",
     "autor": "Lemony Snicket",
-    "editorial": "Desconocido",
+    "editorial": "Montena",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://www.penguinlibros.com/ar/1594475-home_default/el-aserradero-lugubre-una-serie-de-catastroficas-desdichas-4.webp"
   },
   {
     "id": 541,
     "isbn": "9789873820823",
     "titulo": "Una Serie de Catastróficas Desdichas: El Ventanal",
     "autor": "Lemony Snicket",
-    "editorial": "Desconocido",
+    "editorial": "Montena",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/06/7c/067cb203dde3024f914db600491ca441.jpg"
   },
   {
     "id": 542,
     "isbn": "9789873820687",
     "titulo": "Una Serie de Catastróficas Desdichas: La Habitación de los Reptiles",
     "autor": "Lemony Snicket",
-    "editorial": "Desconocido",
+    "editorial": "Montena",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/64/e8/64e85dd9d376a44f219b5ad1cbf3e967.jpg"
+  },
+  {
+    "id": 2064,
+    "isbn": "9789873820670",
+    "titulo": "Una Serie de Catastróficas Desdichas: Un Mal Principio",
+    "autor": "Lemony Snicket",
+    "editorial": "Montena",
+    "año": "Desconocido",
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/6a/f8/6af8c92bc9ae00c40dbda298bcc1f892.jpg"
   },
   {
     "id": 3118,
@@ -1878,7 +1887,7 @@
     "autor": "Disney, Pixar",
     "editorial": "Clarin",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://static.wikia.nocookie.net/doblaje/images/e/e2/Up-poster.jpg/revision/latest?cb=20201004143137&path-prefix=es"
   },
   {
     "id": 8589,
@@ -1887,7 +1896,7 @@
     "autor": "Silvia Graciela Schujer, José Olmos",
     "editorial": "Desconocido",
     "año": "2006",
-    "portada_url": ""
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/76/90/7690e452af06d6c67a7fe7fd1de6904d.jpg"
   },
   {
     "id": 333,
@@ -1905,7 +1914,7 @@
     "autor": "Disney, Pixar",
     "editorial": "Clarin",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzdJpuuZ6jG0nKdyNyRsxjea2p3khEQH6kHDp5sI7FalOB7iK1sls9tGj2EahgXP0CzE0&usqp=CAU"
   },
   {
     "id": 2071,
@@ -1977,7 +1986,7 @@
     "autor": "Korky Paul, Valérie Thomas",
     "editorial": "Oceano",
     "año": "2006",
-    "portada_url": ""
+    "portada_url": "https://cdn.oceano.com.ar/titulos/9786077352310.jpg"
   },
   {
     "id": 2976,
@@ -1986,7 +1995,7 @@
     "autor": "Valerie Thomas, Korky Paul",
     "editorial": "Oceano Travesia",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4jaNy8Jvyn4KS_fmwKJSmzGIq1rwEsj_jeA&s"
   },
   {
     "id": 2817,
@@ -2002,18 +2011,18 @@
     "isbn": "9788449434006",
     "titulo": "Winnie y el dragón de medianoche",
     "autor": "Valérie Thomas",
-    "editorial": "Desconocido",
+    "editorial": "Oceano Travesia",
     "año": "2013",
-    "portada_url": ""
+    "portada_url": "https://cdn.oceano.com.ar/titulos/9786077352389.jpg"
   },
   {
     "id": 223,
     "isbn": "9786074004366",
     "titulo": "Winnie y la alfombra voladora",
     "autor": "Valerie Thomas, Korky Paul",
-    "editorial": "Desconocido",
+    "editorial": "Oceano Travesia",
     "año": "2010",
-    "portada_url": ""
+    "portada_url": "https://m.media-amazon.com/images/I/81wxjevxezL._UF1000,1000_QL80_.jpg"
   },
   {
     "id": 279,
@@ -2025,22 +2034,13 @@
     "portada_url": ""
   },
   {
-    "id": 8615,
-    "isbn": "9789877461084",
-    "titulo": "preguntas sanlorenzo",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
     "id": 224,
     "isbn": "9789707773998",
     "titulo": "¡Feliz cumpleaños, Winnie!",
     "autor": "Valérie Thomas",
-    "editorial": "Desconocido",
+    "editorial": "Oceano Travesia",
     "año": "2008",
-    "portada_url": ""
+    "portada_url": "https://cdn.oceano.com.ar/titulos/9786077352341.jpg"
   },
   {
     "id": 8607,
@@ -2049,13 +2049,13 @@
     "autor": "Desconocido",
     "editorial": "Desconocido",
     "año": "2014",
-    "portada_url": ""
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875041103.jpg"
   },
   {
     "id": 3421,
     "isbn": "9789870406372",
     "titulo": "¡Socorro!",
-    "autor": "Elsa Boenemann",
+    "autor": "Elsa Bornemann",
     "editorial": "Alfaguara",
     "año": "Desconocido",
     "portada_url": ""
@@ -2067,7 +2067,7 @@
     "autor": "Natalia Schapiro",
     "editorial": "La Brujita de Papel",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpSu2Lx-cFljn0BXnf0d85RA4Re-JrwrSR-w&s"
   },
   {
     "id": 2563,
@@ -2076,7 +2076,7 @@
     "autor": "Ángeles Durini",
     "editorial": "SM",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "https://acdn-us.mitiendanube.com/stores/001/200/434/products/aaab61-b46bce5e1c519a2b7316805342745551-640-0.jpg"
   },
   {
     "id": 3427,
@@ -2085,15 +2085,6 @@
     "autor": "Ángeles Durini",
     "editorial": "SM",
     "año": "Desconocido",
-    "portada_url": ""
-  },
-  {
-    "id": 137,
-    "isbn": "9789507320705",
-    "titulo": "ŁQuita esas patas, caraqueso!",
-    "autor": "Desconocido",
-    "editorial": "Desconocido",
-    "año": "2011",
-    "portada_url": ""
+    "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/88/a9/88a90676e8cd97b5b07e0659bd783836.jpg"
   }
 ]
