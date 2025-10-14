@@ -9,7 +9,7 @@
     "portada_url": ""
   },
   {
-    "id": 5268,
+    "id": 8389,
     "isbn": "9789875040946",
     "titulo": "Amadeo y su sombrero",
     "autor": "Fabián Sevilla",
@@ -162,6 +162,204 @@
     "portada_url": ""
   },
   {
+    "id": 5446,
+    "isbn": "9789870700166",
+    "titulo": "Clásicos de oro Disney 01: Cars",
+    "autor": "Disney, Pixar",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5454,
+    "isbn": "9789870700098",
+    "titulo": "Clásicos de oro Disney 02: Buscando a Nemo",
+    "autor": "Disney, Pixar",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 8387,
+    "isbn": "9789870700104",
+    "titulo": "Clásicos de oro Disney 03: Los Increíbles",
+    "autor": "Disney, Pixar",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": null
+  },
+  {
+    "id": 5455,
+    "isbn": "9789870700111",
+    "titulo": "Clásicos de oro Disney 04: Toy Story",
+    "autor": "Disney",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5456,
+    "isbn": "9789870700128",
+    "titulo": "Clásicos de oro Disney 05: Peter Pan",
+    "autor": "Disney",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5457,
+    "isbn": "9789870700234",
+    "titulo": "Clásicos de oro Disney 06: La Sirenita",
+    "autor": "Disney",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5444,
+    "isbn": "9789870700241",
+    "titulo": "Clásicos de oro Disney 07: Monsters, Inc.",
+    "autor": "Disney, Pixar",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5458,
+    "isbn": "9789870700258",
+    "titulo": "Clásicos de oro Disney 08: El Rey León",
+    "autor": "Disney",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5445,
+    "isbn": "9789870700265",
+    "titulo": "Clásicos de oro Disney 09: Chicken Little",
+    "autor": "Disney",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5600,
+    "isbn": "9789870700289",
+    "titulo": "Clásicos de oro Disney 10: Dinosautrio",
+    "autor": "Disney",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5447,
+    "isbn": "9789870700272",
+    "titulo": "Clásicos de oro Disney 11: Tarzán",
+    "autor": "Disney",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5448,
+    "isbn": "9789870700296",
+    "titulo": "Clásicos de oro Disney 12: Aladdín",
+    "autor": "Disney",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5449,
+    "isbn": "9789870700302",
+    "titulo": "Clásicos de oro Disney 13: Lilo & Stitch",
+    "autor": "Disney",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5450,
+    "isbn": "9789870700319",
+    "titulo": "Clásicos de oro Disney 14: Toy Story 2",
+    "autor": "Disney, Pixar",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5459,
+    "isbn": "9789870700326",
+    "titulo": "Clásicos de oro Disney 15: Tierra de Osos",
+    "autor": "Disney",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5451,
+    "isbn": "9789870701187",
+    "titulo": "Clásicos de oro Disney 16: Bichos",
+    "autor": "Disney, Pixar",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5452,
+    "isbn": "9789870701194",
+    "titulo": "Clásicos de oro Disney 17: Mulán",
+    "autor": "Disney",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5453,
+    "isbn": "9789870701200",
+    "titulo": "Clásicos de oro Disney 18: Pinocho",
+    "autor": "Disney",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5443,
+    "isbn": "9789870701217",
+    "titulo": "Clásicos de oro Disney 19: Hercules",
+    "autor": "Disney",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5877,
+    "isbn": "9789870701224",
+    "titulo": "Clásicos de oro Disney 20: La Bella y la Bestia",
+    "autor": "Disney",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5882,
+    "isbn": "9789870702078",
+    "titulo": "Clásicos de oro Disney 21: La familia del Futuro",
+    "autor": "Disney",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 5878,
+    "isbn": "9789870702085",
+    "titulo": "Clásicos de oro Disney 22: Ratatouille",
+    "autor": "Disney, Pixar",
+    "editorial": "Genios",
+    "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
     "id": 182,
     "isbn": "9789875040588",
     "titulo": "Colegio maldito",
@@ -216,6 +414,15 @@
     "portada_url": ""
   },
   {
+    "id": 8613,
+    "isbn": "9781628852363",
+    "titulo": "Criaturas marinas",
+    "autor": "Desconocido",
+    "editorial": "Desconocido",
+    "año": "2016",
+    "portada_url": ""
+  },
+  {
     "id": 185,
     "isbn": "9789870401810",
     "titulo": "Cuentopos de Gulubú",
@@ -223,6 +430,15 @@
     "editorial": "Alfaguara",
     "año": "2010",
     "portada_url": ""
+  },
+  {
+    "id": 8616,
+    "isbn": "9789502413020",
+    "titulo": "Cuentos Clasicos Regionalizados",
+    "autor": "Roberta Iannamico, Walter Carzon",
+    "editorial": "Editorial Albatros",
+    "año": "2010",
+    "portada_url": "http://books.google.com/books/content?id=CUMgc23nzJQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
     "id": 3398,
@@ -423,183 +639,12 @@
     "portada_url": ""
   },
   {
-    "id": 5223,
-    "isbn": "9789870701217",
-    "titulo": "Diseny 19 her ules",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 5211,
-    "isbn": "9789870700241",
-    "titulo": "Disey 7 monster inc",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 5213,
-    "isbn": "9789870700265",
-    "titulo": "Disneu 9 chivken little",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 5206,
-    "isbn": "9789870700166",
-    "titulo": "Disney 1 cars",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 5215,
-    "isbn": "9789870700272",
-    "titulo": "Disney 11 tarzan",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 5216,
-    "isbn": "9789870700296",
-    "titulo": "Disney 12aladdin",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 5217,
-    "isbn": "9789870700302",
-    "titulo": "Disney 13lilo",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 5218,
-    "isbn": "9789870700319",
-    "titulo": "Disney 14toy 2",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 5220,
-    "isbn": "9789870701187",
-    "titulo": "Disney 16 bi hos",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 5221,
-    "isbn": "9789870701194",
-    "titulo": "Disney 17 mulan",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 5222,
-    "isbn": "9789870701200",
-    "titulo": "Disney 18 pinocho",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 5207,
-    "isbn": "9789870700098",
-    "titulo": "Disney 2 nemo",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 5224,
-    "isbn": "9789870701224",
-    "titulo": "Disney 20 beauty",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 5226,
-    "isbn": "9789870702085",
-    "titulo": "Disney 22 ratatuile",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 5208,
-    "isbn": "9789870700111",
-    "titulo": "Disney 4 toy story",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 5209,
-    "isbn": "9789870700128",
-    "titulo": "Disney 5 peter pan",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 5210,
-    "isbn": "9789870700234",
-    "titulo": "Disney 6 sirenita",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 5225,
-    "isbn": "9789870702078",
-    "titulo": "Disney21 futuro",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 5212,
-    "isbn": "9789870700258",
-    "titulo": "Disye 8 rey lron",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
-    "id": 5219,
-    "isbn": "9789870700326",
-    "titulo": "Dizney 15 tierra de osos",
-    "autor": "",
-    "editorial": "",
-    "año": "",
+    "id": 8628,
+    "isbn": "9789870434771",
+    "titulo": "Discurso del oso",
+    "autor": "Julio Cortázar",
+    "editorial": "Desconocido",
+    "año": "2014",
     "portada_url": ""
   },
   {
@@ -612,7 +657,7 @@
     "portada_url": ""
   },
   {
-    "id": 5259,
+    "id": 8456,
     "isbn": "9789875040663",
     "titulo": "Edelmira latele",
     "autor": "Adela Basch",
@@ -648,7 +693,7 @@
     "portada_url": ""
   },
   {
-    "id": 5274,
+    "id": 8460,
     "isbn": "9789974801103",
     "titulo": "El Pequeno Principe",
     "autor": "Antoine de Saint-Exupéry",
@@ -684,6 +729,15 @@
     "portada_url": ""
   },
   {
+    "id": 8623,
+    "isbn": "9789500727334",
+    "titulo": "El brujo, el Horrible y el libro rojo de los hechizos : Pablo Bernasconi ; ilustrado por Pablo Bernasconi",
+    "autor": "Pablo Bernasconi",
+    "editorial": "Desconocido",
+    "año": "2006-04-25",
+    "portada_url": "http://books.google.com/books/content?id=XXWIGAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
     "id": 2226,
     "isbn": "9789507324475",
     "titulo": "El castillo de Zampachicha MiauMiau",
@@ -699,6 +753,15 @@
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
     "año": "Desconocido",
+    "portada_url": ""
+  },
+  {
+    "id": 8624,
+    "isbn": "9789500728065",
+    "titulo": "El diario del capitán Arsenio",
+    "autor": "Pablo Bernasconi",
+    "editorial": "Desconocido",
+    "año": "2007",
     "portada_url": ""
   },
   {
@@ -774,16 +837,16 @@
     "portada_url": ""
   },
   {
-    "id": 5227,
+    "id": 8474,
     "isbn": "9788447173464",
     "titulo": "El rey leon",
     "autor": "Disney",
     "editorial": "Salvat",
-    "año": "",
+    "año": "2024",
     "portada_url": ""
   },
   {
-    "id": 5265,
+    "id": 8475,
     "isbn": "9789875040717",
     "titulo": "El zooki",
     "autor": "Iris Rivera",
@@ -954,7 +1017,7 @@
     "portada_url": ""
   },
   {
-    "id": 5228,
+    "id": 8494,
     "isbn": "9789871343393",
     "titulo": "Hay un monstruo debajo de mi cama",
     "autor": "Liliana Cinetto, Lucía Mancilla Prieto",
@@ -1125,7 +1188,7 @@
     "portada_url": ""
   },
   {
-    "id": 5257,
+    "id": 8513,
     "isbn": "9789871343409",
     "titulo": "Las ovejas de Lala",
     "autor": "Silvina Rocha",
@@ -1278,12 +1341,12 @@
     "portada_url": ""
   },
   {
-    "id": 5258,
+    "id": 8530,
     "isbn": "9789871343577",
     "titulo": "Mateo y su Gato Rojo",
     "autor": "Silvina Rocha",
     "editorial": "del Naranjo",
-    "año": "",
+    "año": "Desconocido",
     "portada_url": ""
   },
   {
@@ -1485,7 +1548,7 @@
     "portada_url": ""
   },
   {
-    "id": 5205,
+    "id": 5551,
     "isbn": "9789500729147",
     "titulo": "Mayor y menor",
     "autor": "Chanti",
@@ -1647,6 +1710,15 @@
     "portada_url": ""
   },
   {
+    "id": 8626,
+    "isbn": "9789500730556",
+    "titulo": "Rebelión en Tortoni",
+    "autor": "Pablo Bernasconi",
+    "editorial": "Desconocido",
+    "año": "2009",
+    "portada_url": ""
+  },
+  {
     "id": 71,
     "isbn": "9789877473834",
     "titulo": "Renegados",
@@ -1719,7 +1791,7 @@
     "portada_url": ""
   },
   {
-    "id": 5272,
+    "id": 8579,
     "isbn": "9789500715737",
     "titulo": "Tengo un monstruo en el bolsillo",
     "autor": "Graciela Montes, Random House Mondadori",
@@ -1809,7 +1881,7 @@
     "portada_url": ""
   },
   {
-    "id": 5275,
+    "id": 8589,
     "isbn": "9789500833141",
     "titulo": "VERRUGA Y BRIQUETA EN: LA MÁS BRUJA DE TODAS",
     "autor": "Silvia Graciela Schujer, José Olmos",
@@ -1944,21 +2016,21 @@
     "portada_url": ""
   },
   {
-    "id": 5214,
-    "isbn": "9789870700289",
-    "titulo": "Xisney 10 dinosaurio",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": ""
-  },
-  {
     "id": 279,
     "isbn": "9789870401735",
     "titulo": "Zoo loco",
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
     "año": "2010",
+    "portada_url": ""
+  },
+  {
+    "id": 8615,
+    "isbn": "9789877461084",
+    "titulo": "preguntas sanlorenzo",
+    "autor": "",
+    "editorial": "",
+    "año": "",
     "portada_url": ""
   },
   {
@@ -1971,7 +2043,7 @@
     "portada_url": ""
   },
   {
-    "id": 5271,
+    "id": 8607,
     "isbn": "9789875041103",
     "titulo": "¡Qué payaso este elefante!",
     "autor": "Desconocido",
