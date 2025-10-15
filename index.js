@@ -76,6 +76,18 @@ app.get("/api/libros", (req, res) => {
   });
 });
 
+// GET /api/libro/:isbn → devuelve el libro si existe
+app.get("/api/libro/:isbn", (req, res) => {
+  const { isbn } = req.params;
+
+  db.get("SELECT * FROM libros WHERE isbn = ?", [isbn], (err, row) => {
+    if (err) return res.status(500).json({ error: err.message });
+    if (!row) return res.json({}); // vacío si no existe
+    res.json(row);
+  });
+});
+
+
 // Guardar libro manual
 app.post("/api/libro/manual", (req, res) => {
   const { isbn, titulo, autor, editorial, año, portada_url } = req.body;

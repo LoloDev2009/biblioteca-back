@@ -4,7 +4,7 @@
     "isbn": "9789875040946",
     "titulo": "Amadeo y su sombrero",
     "autor": "Fabián Sevilla",
-    "editorial": "Desconocido",
+    "editorial": "Quipu",
     "año": "2013",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3b8AR4YON_aHjs2JAB1kikp_vN9vtBLTosg&s"
   },
@@ -13,7 +13,7 @@
     "isbn": "9789500728324",
     "titulo": "Ambrosio En La Prehistoria",
     "autor": "Liliana Cinetto",
-    "editorial": "Desconocido",
+    "editorial": "Primera Sudamericana",
     "año": "2007",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO-fvikEqYShCJPL0GvMraD_5-N6KoH7tRvQ&s"
   },
@@ -66,7 +66,7 @@
     "id": 77,
     "isbn": "9788424661786",
     "titulo": "Anita Garbo 1. Misión: Salvar la bahía",
-    "autor": "Desconocido",
+    "autor": "Marcelo E. Mazzanti",
     "editorial": "Desconocido",
     "año": "Desconocido",
     "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/64/12/6412f80c9b873f59e39cd8cd19745901.jpg"
@@ -102,18 +102,63 @@
     "id": 180,
     "isbn": "9789875040236",
     "titulo": "Asesinatos en la escuela del perro",
-    "autor": "Desconocido",
+    "autor": "Olga Drennen",
     "editorial": "Quipu",
     "año": "2015",
     "portada_url": "https://http2.mlstatic.com/D_NQ_NP_899909-MLA93499532139_092025-O.webp"
+  },
+  {
+    "id": 9079,
+    "isbn": "9789505115181",
+    "titulo": "Belisario y el Violin",
+    "autor": "María Cristina Ramos",
+    "editorial": "Alfaguara",
+    "año": "2001",
+    "portada_url": "http://books.google.com/books/content?id=1bEJAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 9082,
+    "isbn": "9789870422273",
+    "titulo": "Belisario y los Fantasmas",
+    "autor": "María Cristina Ramos",
+    "editorial": "Alfaguara",
+    "año": "2012",
+    "portada_url": ""
+  },
+  {
+    "id": 9083,
+    "isbn": "9789504639145",
+    "titulo": "Bicho hambriento",
+    "autor": "Iris Rivera",
+    "editorial": "Alfaguara",
+    "año": "2015",
+    "portada_url": ""
   },
   {
     "id": 1987,
     "isbn": "9788459912860",
     "titulo": "Bisa vuela",
     "autor": "María Elena Walsh",
-    "editorial": "Desconocido",
+    "editorial": "Atlantida",
     "año": "1985",
+    "portada_url": ""
+  },
+  {
+    "id": 9086,
+    "isbn": "9789876421256",
+    "titulo": "Cachorrito es el mejor",
+    "autor": "Gabriela Keselman",
+    "editorial": "Desconocido",
+    "año": "2017",
+    "portada_url": ""
+  },
+  {
+    "id": 9085,
+    "isbn": "9789876426145",
+    "titulo": "Cachorrito, no te aburras",
+    "autor": "Gabriela Keselman",
+    "editorial": "Edelvives",
+    "año": "2018",
     "portada_url": ""
   },
   {
@@ -634,7 +679,7 @@
     "isbn": "9789870434771",
     "titulo": "Discurso del oso",
     "autor": "Julio Cortázar",
-    "editorial": "Desconocido",
+    "editorial": "Libros del Zorro Rojo",
     "año": "2014",
     "portada_url": "https://imaginaria.com.ar/wp-content/uploads/2010/03/DiscursoDelOso1.jpg"
   },
@@ -673,6 +718,15 @@
     "editorial": "Desconocido",
     "año": "Desconocido",
     "portada_url": "https://http2.mlstatic.com/D_NQ_NP_859862-MLA40173644101_122019-O.webp"
+  },
+  {
+    "id": 2228,
+    "isbn": "9789875041677",
+    "titulo": "El Ladrón de Sombras",
+    "autor": "Veronica Cantero Burroni",
+    "editorial": "Desconocido",
+    "año": "2016",
+    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_699750-MLU54983799724_042023-O.webp"
   },
   {
     "id": 1874,
@@ -722,9 +776,9 @@
   {
     "id": 8694,
     "isbn": "9789500727334",
-    "titulo": "El brujo, el Horrible y el libro rojo de los hechizos : Pablo Bernasconi ; ilustrado por Pablo Bernasconi",
+    "titulo": "El brujo, el Horrible y el libro rojo de los hechizos",
     "autor": "Pablo Bernasconi",
-    "editorial": "Desconocido",
+    "editorial": "Primera Sudamericana",
     "año": "2006-04-25",
     "portada_url": "http://books.google.com/books/content?id=XXWIGAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
@@ -742,7 +796,7 @@
     "isbn": "9789500728065",
     "titulo": "El diario del capitán Arsenio",
     "autor": "Pablo Bernasconi",
-    "editorial": "Desconocido",
+    "editorial": "Primera Sudamericana",
     "año": "2007",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500770330_9789500770330_2024-04-20_07_20_05.jpg"
   },
@@ -756,20 +810,11 @@
     "portada_url": ""
   },
   {
-    "id": 2228,
-    "isbn": "9789875041677",
-    "titulo": "El ladron de sombras",
-    "autor": "Veronica Cantero Burroni",
-    "editorial": "Desconocido",
-    "año": "2016",
-    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_699750-MLU54983799724_042023-O.webp"
-  },
-  {
     "id": 2350,
     "isbn": "9789500719360",
     "titulo": "El monumento encantado",
     "autor": "Silvia Graciela Schujer",
-    "editorial": "Desconocido",
+    "editorial": "Primera Sudamericana",
     "año": "2001",
     "portada_url": "http://books.google.com/books/content?id=cwINPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
@@ -796,7 +841,7 @@
     "isbn": "9789875040717",
     "titulo": "El zooki",
     "autor": "Iris Rivera",
-    "editorial": "Desconocido",
+    "editorial": "Quipu",
     "año": "2012",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0aQRzJeXWFO_JbEyWEdOAAtfXp7PMMsGMRA&s"
   },
@@ -1093,7 +1138,7 @@
     "isbn": "9789871561247",
     "titulo": "La casa de la risa",
     "autor": "Franco Vaccarini, Iñaki Echeverría",
-    "editorial": "Desconocido",
+    "editorial": "Hola Chicos",
     "año": "2011",
     "portada_url": "https://acdn-us.mitiendanube.com/stores/001/081/567/products/lacasadelarisa1-c83bcee577c93cfa1615816911493271-640-0.jpg"
   },
@@ -1105,6 +1150,15 @@
     "editorial": "El Mundo de Winnie",
     "año": "2006",
     "portada_url": "http://books.google.com/books/content?id=yXVVPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": 9092,
+    "isbn": "9789875710030",
+    "titulo": "La isla del tesoro",
+    "autor": "Robert Louis Stevenson",
+    "editorial": "Desconocido",
+    "año": "2004",
+    "portada_url": ""
   },
   {
     "id": 434,
@@ -1138,7 +1192,7 @@
     "isbn": "9789500740234",
     "titulo": "La verdadera explicación",
     "autor": "Pablo Bernasconi",
-    "editorial": "Desconocido",
+    "editorial": "Primera Sudamericana",
     "año": "2015",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJoUEDYpF4hjtqqCXY2o3Lji5U3L8G4ZsomA&s"
   },
@@ -1356,6 +1410,15 @@
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
     "año": "2011",
+    "portada_url": ""
+  },
+  {
+    "id": 9084,
+    "isbn": "9789876422789",
+    "titulo": "Martín viaja al Espacio",
+    "autor": "Nícolas Schuff",
+    "editorial": "Edelvives",
+    "año": "2018",
     "portada_url": ""
   },
   {
@@ -1638,11 +1701,29 @@
     "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5069266/n1NaydtTnpKXcPrHedyq596mMCU-.jpg?v=638853754031900000"
   },
   {
+    "id": 9078,
+    "isbn": "9789876421942",
+    "titulo": "Pequeño Dragón aprende a viajar solo",
+    "autor": "Graciela Pérez Aguilar",
+    "editorial": "Desconocido",
+    "año": "2018",
+    "portada_url": ""
+  },
+  {
+    "id": 9091,
+    "isbn": "9789876420600",
+    "titulo": "Pequeño Dragón aprende a volar",
+    "autor": "Graciela Pérez Aguilar",
+    "editorial": "Desconocido",
+    "año": "2011",
+    "portada_url": ""
+  },
+  {
     "id": 1,
     "isbn": "9789878000183",
     "titulo": "Percy Jackson 01: El ladrón del rayo",
     "autor": "Rick Riordan",
-    "editorial": "Desconocido",
+    "editorial": "Salamandra",
     "año": "2021",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxP4RL7qpAjfn7ZPCg-CNYg3_QkhJnVjy6NA&s"
   },
@@ -1723,7 +1804,7 @@
     "isbn": "9789500730556",
     "titulo": "Rebelión en Tortoni",
     "autor": "Pablo Bernasconi",
-    "editorial": "Desconocido",
+    "editorial": "Primera Sudamericana",
     "año": "2009",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500730556_9789500730556_2022-11-08_11_12_58.jpg"
   },
@@ -1813,7 +1894,7 @@
     "isbn": "9789873202278",
     "titulo": "Toda la verdad sobre los libros",
     "autor": "Françoize Boucher",
-    "editorial": "Desconocido",
+    "editorial": "Guadal",
     "año": "2016",
     "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789873202278_1.jpg?id_com=717"
   },
@@ -2046,8 +2127,8 @@
     "id": 8607,
     "isbn": "9789875041103",
     "titulo": "¡Qué payaso este elefante!",
-    "autor": "Desconocido",
-    "editorial": "Desconocido",
+    "autor": "Silvina Rocha",
+    "editorial": "Quipu",
     "año": "2014",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875041103.jpg"
   },
