@@ -6,7 +6,8 @@
     "autor": "Fabián Sevilla",
     "editorial": "Quipu",
     "año": "2013",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3b8AR4YON_aHjs2JAB1kikp_vN9vtBLTosg&s"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3b8AR4YON_aHjs2JAB1kikp_vN9vtBLTosg&s",
+    "edited": null
   },
   {
     "id": 2444,
@@ -15,7 +16,8 @@
     "autor": "Liliana Cinetto",
     "editorial": "Primera Sudamericana",
     "año": "2007",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO-fvikEqYShCJPL0GvMraD_5-N6KoH7tRvQ&s"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO-fvikEqYShCJPL0GvMraD_5-N6KoH7tRvQ&s",
+    "edited": null
   },
   {
     "id": 48,
@@ -24,7 +26,8 @@
     "autor": "Marvel",
     "editorial": "Panini Comics",
     "año": "2021",
-    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_639370-MLA83999442646_052025-O.webp"
+    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_639370-MLA83999442646_052025-O.webp",
+    "edited": null
   },
   {
     "id": 49,
@@ -33,7 +36,8 @@
     "autor": "Marvel",
     "editorial": "Panini Comics",
     "año": "2021",
-    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/b5/f5/b5f56ebf4505da5e1e5d95f6a0f74d35.jpg"
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/b5/f5/b5f56ebf4505da5e1e5d95f6a0f74d35.jpg",
+    "edited": ""
   },
   {
     "id": 2447,
@@ -42,7 +46,8 @@
     "autor": "Roberto Sotelo, Douglas Wright",
     "editorial": "Desconocido",
     "año": "2001",
-    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9500825538_1.jpg?id_com=717"
+    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9500825538_1.jpg?id_com=717",
+    "edited": null
   },
   {
     "id": 2081,
@@ -51,7 +56,8 @@
     "autor": "J.K.Rowling",
     "editorial": "Salamandra",
     "año": "Desconocido",
-    "portada_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/10/3b/103ba9d8f74a302f92f6c67d75680413.jpg"
+    "portada_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/10/3b/103ba9d8f74a302f92f6c67d75680413.jpg",
+    "edited": null
   },
   {
     "id": 2082,
@@ -60,7 +66,8 @@
     "autor": "J.K.Rowling",
     "editorial": "Salamandra Bolsillo",
     "año": "Desconocido",
-    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/3b/a2/3ba21bf22b2d06e6635322fd8df535ab.jpg"
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/3b/a2/3ba21bf22b2d06e6635322fd8df535ab.jpg",
+    "edited": null
   },
   {
     "id": 77,
@@ -69,7 +76,8 @@
     "autor": "Marcelo E. Mazzanti",
     "editorial": "Desconocido",
     "año": "Desconocido",
-    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/64/12/6412f80c9b873f59e39cd8cd19745901.jpg"
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/64/12/6412f80c9b873f59e39cd8cd19745901.jpg",
+    "edited": null
   },
   {
     "id": 1881,
@@ -78,7 +86,8 @@
     "autor": "I. T. Hawryszkiewycz",
     "editorial": "Desconocido",
     "año": "1994",
-    "portada_url": "http://books.google.com/books/content?id=aKzPJgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=aKzPJgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 31,
@@ -87,7 +96,8 @@
     "autor": "Liliana Bodoc",
     "editorial": "El Barco De Vapor",
     "año": "Desconocido",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBa-1xvthZayvIXl9lEW5LKT5TUTxkTJc79Q&s"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBa-1xvthZayvIXl9lEW5LKT5TUTxkTJc79Q&s",
+    "edited": null
   },
   {
     "id": 8,
@@ -96,7 +106,8 @@
     "autor": "Marissa Meyer",
     "editorial": "V&R Ediciones",
     "año": "2021",
-    "portada_url": "https://vreditoras.com.ar//uploads/libros/5cd161a0977de07d18d7b90f74a9df2bArchienemigos.jpg"
+    "portada_url": "https://vreditoras.com.ar//uploads/libros/5cd161a0977de07d18d7b90f74a9df2bArchienemigos.jpg",
+    "edited": null
   },
   {
     "id": 180,
@@ -105,7 +116,8 @@
     "autor": "Olga Drennen",
     "editorial": "Quipu",
     "año": "2015",
-    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_899909-MLA93499532139_092025-O.webp"
+    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_899909-MLA93499532139_092025-O.webp",
+    "edited": null
   },
   {
     "id": 9090,
@@ -114,7 +126,8 @@
     "autor": "María Cristina Ramos",
     "editorial": "Alfaguara",
     "año": "2001",
-    "portada_url": "http://books.google.com/books/content?id=1bEJAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=1bEJAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 9091,
@@ -123,7 +136,8 @@
     "autor": "María Cristina Ramos",
     "editorial": "Alfaguara",
     "año": "2012",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 9092,
@@ -132,7 +146,8 @@
     "autor": "Iris Rivera",
     "editorial": "Alfaguara",
     "año": "2015",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 1987,
@@ -141,7 +156,8 @@
     "autor": "María Elena Walsh",
     "editorial": "Atlantida",
     "año": "1985",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 9094,
@@ -150,7 +166,8 @@
     "autor": "Gabriela Keselman",
     "editorial": "Desconocido",
     "año": "2017",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 9095,
@@ -159,7 +176,8 @@
     "autor": "Gabriela Keselman",
     "editorial": "Edelvives",
     "año": "2018",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 290,
@@ -168,7 +186,8 @@
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
     "año": "2011",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 50,
@@ -177,7 +196,8 @@
     "autor": "Marvel",
     "editorial": "Panini Comics",
     "año": "2024",
-    "portada_url": "https://acdn-us.mitiendanube.com/stores/001/161/337/products/cci-448929786075785356-57d2d9276c645acc9d17290202906384-1024-1024.jpg"
+    "portada_url": "https://acdn-us.mitiendanube.com/stores/001/161/337/products/cci-448929786075785356-57d2d9276c645acc9d17290202906384-1024-1024.jpg",
+    "edited": null
   },
   {
     "id": 2689,
@@ -186,7 +206,8 @@
     "autor": "R.A.Montgomery",
     "editorial": "Atlantida",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 3103,
@@ -195,7 +216,8 @@
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
     "año": "2010",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5446,
@@ -204,7 +226,8 @@
     "autor": "Disney, Pixar",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5454,
@@ -213,7 +236,8 @@
     "autor": "Disney, Pixar",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 8387,
@@ -222,7 +246,8 @@
     "autor": "Disney, Pixar",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5455,
@@ -231,7 +256,8 @@
     "autor": "Disney",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5456,
@@ -240,7 +266,8 @@
     "autor": "Disney",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5457,
@@ -249,7 +276,8 @@
     "autor": "Disney",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5444,
@@ -258,7 +286,8 @@
     "autor": "Disney, Pixar",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5458,
@@ -267,7 +296,8 @@
     "autor": "Disney",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5445,
@@ -276,7 +306,8 @@
     "autor": "Disney",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5600,
@@ -285,7 +316,8 @@
     "autor": "Disney",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5447,
@@ -294,7 +326,8 @@
     "autor": "Disney",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5448,
@@ -303,7 +336,8 @@
     "autor": "Disney",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5449,
@@ -312,7 +346,8 @@
     "autor": "Disney",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5450,
@@ -321,7 +356,8 @@
     "autor": "Disney, Pixar",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5459,
@@ -330,7 +366,8 @@
     "autor": "Disney",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5451,
@@ -339,7 +376,8 @@
     "autor": "Disney, Pixar",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5452,
@@ -348,7 +386,8 @@
     "autor": "Disney",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5453,
@@ -357,7 +396,8 @@
     "autor": "Disney",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5443,
@@ -366,7 +406,8 @@
     "autor": "Disney",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5877,
@@ -375,7 +416,8 @@
     "autor": "Disney",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5882,
@@ -384,7 +426,8 @@
     "autor": "Disney",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5878,
@@ -393,7 +436,8 @@
     "autor": "Disney, Pixar",
     "editorial": "Genios",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 182,
@@ -402,7 +446,8 @@
     "autor": "Gabriel Korenfeld",
     "editorial": "Quipu",
     "año": "2011",
-    "portada_url": "https://dcdn-us.mitiendanube.com/stores/004/823/848/products/1000181917-6c0b38029fd273a68117303103155026-480-0.webp"
+    "portada_url": "https://dcdn-us.mitiendanube.com/stores/004/823/848/products/1000181917-6c0b38029fd273a68117303103155026-480-0.webp",
+    "edited": null
   },
   {
     "id": 183,
@@ -411,7 +456,8 @@
     "autor": "Gabriel Korenfeld",
     "editorial": "Quipu",
     "año": "2015",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875040694.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875040694.jpg",
+    "edited": null
   },
   {
     "id": 184,
@@ -420,7 +466,8 @@
     "autor": "Gabriel Korenfeld",
     "editorial": "Quipu",
     "año": "2015",
-    "portada_url": "https://www.editorialelcuervo.com/wp-content/uploads/2023/05/10.-COLEGIO-MALDITO-III.jpeg"
+    "portada_url": "https://www.editorialelcuervo.com/wp-content/uploads/2023/05/10.-COLEGIO-MALDITO-III.jpeg",
+    "edited": null
   },
   {
     "id": 3395,
@@ -429,7 +476,8 @@
     "autor": "Gabriel Korenfeld",
     "editorial": "Quipu",
     "año": "Desconocido",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9875041462_9789875041462_2022-12-27_12_00_05.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9875041462_9789875041462_2022-12-27_12_00_05.jpg",
+    "edited": null
   },
   {
     "id": 3396,
@@ -438,7 +486,8 @@
     "autor": "Gabriel Korenfeld",
     "editorial": "Quipu",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875041783.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875041783.jpg",
+    "edited": null
   },
   {
     "id": 3397,
@@ -447,7 +496,8 @@
     "autor": "Ariela Kreimer",
     "editorial": "Ala Delta",
     "año": "Desconocido",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0gL2nrexx1WZ2bgZJNp0M9Z2Sb13whYcTCg&s"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0gL2nrexx1WZ2bgZJNp0M9Z2Sb13whYcTCg&s",
+    "edited": null
   },
   {
     "id": 8659,
@@ -456,7 +506,8 @@
     "autor": "Desconocido",
     "editorial": "Desconocido",
     "año": "2016",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 185,
@@ -465,7 +516,8 @@
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
     "año": "2010",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 8661,
@@ -474,7 +526,8 @@
     "autor": "Roberta Iannamico, Walter Carzon",
     "editorial": "Editorial Albatros",
     "año": "2010",
-    "portada_url": "http://books.google.com/books/content?id=CUMgc23nzJQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=CUMgc23nzJQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "edited": null
   },
   {
     "id": 3398,
@@ -483,7 +536,8 @@
     "autor": "Elsa Bornemann",
     "editorial": "Alfaguara",
     "año": "Desconocido",
-    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789504634157_1.jpg?id_com=717"
+    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789504634157_1.jpg?id_com=717",
+    "edited": null
   },
   {
     "id": 2722,
@@ -492,7 +546,8 @@
     "autor": "Horacio Quiroga",
     "editorial": "Desconocido",
     "año": "2008",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 2219,
@@ -501,7 +556,8 @@
     "autor": "María Elena Walsh",
     "editorial": "Santillana USA Publishing Company",
     "año": "2000",
-    "portada_url": "http://books.google.com/books/content?id=r3QBAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=r3QBAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 41,
@@ -510,7 +566,8 @@
     "autor": "Jeff Kinney",
     "editorial": "Molino",
     "año": "2021",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/08/9878120003.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/08/9878120003.jpg",
+    "edited": null
   },
   {
     "id": 4137,
@@ -519,7 +576,8 @@
     "autor": "Jeff Kinney",
     "editorial": "Molino",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120010.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120010.jpg",
+    "edited": null
   },
   {
     "id": 4679,
@@ -528,7 +586,8 @@
     "autor": "Jeff Kinney",
     "editorial": "Molino",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120027.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120027.jpg",
+    "edited": null
   },
   {
     "id": 4678,
@@ -537,7 +596,8 @@
     "autor": "Jeff Kinney",
     "editorial": "Molino",
     "año": "Desconocido",
-    "portada_url": "https://cdn.livriz.com/media/mediaspace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/f23cd717-f1af-45d5-922f-6d9578f21bee/9789878120034.jpg"
+    "portada_url": "https://cdn.livriz.com/media/mediaspace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/f23cd717-f1af-45d5-922f-6d9578f21bee/9789878120034.jpg",
+    "edited": null
   },
   {
     "id": 5043,
@@ -546,7 +606,8 @@
     "autor": "Jeff Kinney",
     "editorial": "Molino",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120041.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120041.jpg",
+    "edited": null
   },
   {
     "id": 5193,
@@ -555,7 +616,8 @@
     "autor": "Jeff Kinney",
     "editorial": "Molino",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120102.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120102.jpg",
+    "edited": null
   },
   {
     "id": 5044,
@@ -564,7 +626,8 @@
     "autor": "Jeff Kinney",
     "editorial": "Molino",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120119.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120119.jpg",
+    "edited": null
   },
   {
     "id": 5192,
@@ -573,7 +636,8 @@
     "autor": "Jeff Kinney",
     "editorial": "Molino",
     "año": "Desconocido",
-    "portada_url": "https://www.quade.com.ar/1524958-large_default/diario-de-greg-8.jpg"
+    "portada_url": "https://www.quade.com.ar/1524958-large_default/diario-de-greg-8.jpg",
+    "edited": null
   },
   {
     "id": 5195,
@@ -582,7 +646,8 @@
     "autor": "Jeff Kinney",
     "editorial": "Molino",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120133.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120133.jpg",
+    "edited": null
   },
   {
     "id": 5196,
@@ -591,7 +656,8 @@
     "autor": "Jeff Kinney",
     "editorial": "Molino",
     "año": "Desconocido",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9878120140_9789878120140_2022-11-08_11_12_58.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9878120140_9789878120140_2022-11-08_11_12_58.jpg",
+    "edited": null
   },
   {
     "id": 5190,
@@ -600,7 +666,8 @@
     "autor": "Jeff Kinney",
     "editorial": "Molino",
     "año": "Desconocido",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9878120164_9789878120164_2022-11-08_11_12_58.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9878120164_9789878120164_2022-11-08_11_12_58.jpg",
+    "edited": null
   },
   {
     "id": 5197,
@@ -609,7 +676,8 @@
     "autor": "Jeff Kinney",
     "editorial": "Molino",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120171.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120171.jpg",
+    "edited": null
   },
   {
     "id": 5191,
@@ -618,7 +686,8 @@
     "autor": "Jeff Kinney",
     "editorial": "Molino",
     "año": "Desconocido",
-    "portada_url": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/690556-c70a4abd1556a1524f17285627539956-1024-1024.jpg"
+    "portada_url": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/690556-c70a4abd1556a1524f17285627539956-1024-1024.jpg",
+    "edited": null
   },
   {
     "id": 45,
@@ -627,7 +696,8 @@
     "autor": "Jeff Kinney",
     "editorial": "RBA",
     "año": "2019",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/08/9874404503.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/08/9874404503.jpg",
+    "edited": null
   },
   {
     "id": 5194,
@@ -636,7 +706,8 @@
     "autor": "Jeff Kinney",
     "editorial": "Molino",
     "año": "Desconocido",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/e80a621ffa7c449d28b86999589a6b70/9/8/9878120058_9789878120058_2022-11-08_11_12_58.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/e80a621ffa7c449d28b86999589a6b70/9/8/9878120058_9789878120058_2022-11-08_11_12_58.jpg",
+    "edited": null
   },
   {
     "id": 46,
@@ -645,7 +716,8 @@
     "autor": "Liliana Cinetto",
     "editorial": "Loqueleo",
     "año": "2015",
-    "portada_url": "https://www.loqueleo.com/ar/uploads/2015/11/resized/800_9789504643241.jpg"
+    "portada_url": "https://www.loqueleo.com/ar/uploads/2015/11/resized/800_9789504643241.jpg",
+    "edited": null
   },
   {
     "id": 3401,
@@ -654,7 +726,8 @@
     "autor": "Liliana Cinetto",
     "editorial": "Loqueleo",
     "año": "Desconocido",
-    "portada_url": "https://www.loqueleo.com/ar/uploads/2016/03/tapa-diminuto-y-el-campamento-de-los-zombis.jpg"
+    "portada_url": "https://www.loqueleo.com/ar/uploads/2016/03/tapa-diminuto-y-el-campamento-de-los-zombis.jpg",
+    "edited": null
   },
   {
     "id": 3399,
@@ -663,7 +736,8 @@
     "autor": "Liliana Cinetto",
     "editorial": "Alfaguara",
     "año": "Desconocido",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4d5j9pnVM3a-OF6KcflZeNTmKGyw4F5Puw&s"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4d5j9pnVM3a-OF6KcflZeNTmKGyw4F5Puw&s",
+    "edited": null
   },
   {
     "id": 3400,
@@ -672,7 +746,8 @@
     "autor": "Liliana Cinetto",
     "editorial": "Alfaguara",
     "año": "Desconocido",
-    "portada_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1335993961i/13628297.jpg"
+    "portada_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1335993961i/13628297.jpg",
+    "edited": null
   },
   {
     "id": 8684,
@@ -681,7 +756,8 @@
     "autor": "Julio Cortázar",
     "editorial": "Libros del Zorro Rojo",
     "año": "2014",
-    "portada_url": "https://imaginaria.com.ar/wp-content/uploads/2010/03/DiscursoDelOso1.jpg"
+    "portada_url": "https://imaginaria.com.ar/wp-content/uploads/2010/03/DiscursoDelOso1.jpg",
+    "edited": null
   },
   {
     "id": 240,
@@ -690,7 +766,8 @@
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
     "año": "2010",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 8456,
@@ -699,7 +776,8 @@
     "autor": "Adela Basch",
     "editorial": "Quipu",
     "año": "2012",
-    "portada_url": "https://acdn-us.mitiendanube.com/stores/881/926/products/edelmira-latele1-c0fdb69930310ced1516210450703692-480-0.jpg"
+    "portada_url": "https://acdn-us.mitiendanube.com/stores/881/926/products/edelmira-latele1-c0fdb69930310ced1516210450703692-480-0.jpg",
+    "edited": null
   },
   {
     "id": 1794,
@@ -708,7 +786,8 @@
     "autor": "Silvia Schujer",
     "editorial": "Loqueleo",
     "año": "Desconocido",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdYcnInmDyzfBuAjx6eavEPyzkUUE_Mj0o5w&s"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdYcnInmDyzfBuAjx6eavEPyzkUUE_Mj0o5w&s",
+    "edited": null
   },
   {
     "id": 8838,
@@ -717,7 +796,8 @@
     "autor": "Sebastián Matiotti",
     "editorial": "Desconocido",
     "año": "Desconocido",
-    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_859862-MLA40173644101_122019-O.webp"
+    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_859862-MLA40173644101_122019-O.webp",
+    "edited": null
   },
   {
     "id": 2228,
@@ -726,7 +806,8 @@
     "autor": "Veronica Cantero Burroni",
     "editorial": "Desconocido",
     "año": "2016",
-    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_699750-MLU54983799724_042023-O.webp"
+    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_699750-MLU54983799724_042023-O.webp",
+    "edited": null
   },
   {
     "id": 1874,
@@ -735,7 +816,8 @@
     "autor": "Gustavo Roldán",
     "editorial": "Loqueleo",
     "año": "Desconocido",
-    "portada_url": "https://www.loqueleo.com/ar/uploads/2015/11/9789504643333.jpg"
+    "portada_url": "https://www.loqueleo.com/ar/uploads/2015/11/9789504643333.jpg",
+    "edited": null
   },
   {
     "id": 8460,
@@ -744,7 +826,8 @@
     "autor": "Antoine de Saint-Exupéry",
     "editorial": "Unaluna",
     "año": "2007",
-    "portada_url": "http://books.google.com/books/content?id=T_T3KAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=T_T3KAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 3414,
@@ -753,7 +836,8 @@
     "autor": "Antoine de Saint-Exupéry",
     "editorial": "Gradifco",
     "año": "Desconocido",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWBDRO57rTix20TcX9hipSgTzXKguJDqde7w&s"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWBDRO57rTix20TcX9hipSgTzXKguJDqde7w&s",
+    "edited": null
   },
   {
     "id": 242,
@@ -762,7 +846,8 @@
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
     "año": "2010",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 3417,
@@ -771,7 +856,8 @@
     "autor": "Roy Berocay",
     "editorial": "Alfaguara",
     "año": "Desconocido",
-    "portada_url": "https://www.lanormallibros.com.ar/media/libros/a0415f50a4fd043e74d55f5985089194.jpg"
+    "portada_url": "https://www.lanormallibros.com.ar/media/libros/a0415f50a4fd043e74d55f5985089194.jpg",
+    "edited": null
   },
   {
     "id": 8694,
@@ -780,7 +866,8 @@
     "autor": "Pablo Bernasconi",
     "editorial": "Primera Sudamericana",
     "año": "2006-04-25",
-    "portada_url": "http://books.google.com/books/content?id=XXWIGAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=XXWIGAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 3104,
@@ -789,7 +876,8 @@
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
     "año": "2010",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 8697,
@@ -798,7 +886,8 @@
     "autor": "Pablo Bernasconi",
     "editorial": "Primera Sudamericana",
     "año": "2007",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500770330_9789500770330_2024-04-20_07_20_05.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500770330_9789500770330_2024-04-20_07_20_05.jpg",
+    "edited": null
   },
   {
     "id": 2732,
@@ -807,7 +896,8 @@
     "autor": "Mónica Lopez",
     "editorial": "AZ",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 2350,
@@ -816,7 +906,8 @@
     "autor": "Silvia Graciela Schujer",
     "editorial": "Primera Sudamericana",
     "año": "2001",
-    "portada_url": "http://books.google.com/books/content?id=cwINPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=cwINPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 2475,
@@ -825,7 +916,8 @@
     "autor": "Ricardo Alcántara",
     "editorial": "Desconocido",
     "año": "2015",
-    "portada_url": "https://acdn-us.mitiendanube.com/stores/945/047/products/pirata-valiente_000011-84437c45c6652ec94116663702458562-640-0.png"
+    "portada_url": "https://acdn-us.mitiendanube.com/stores/945/047/products/pirata-valiente_000011-84437c45c6652ec94116663702458562-640-0.png",
+    "edited": null
   },
   {
     "id": 8474,
@@ -834,7 +926,8 @@
     "autor": "Disney",
     "editorial": "Salvat",
     "año": "2024",
-    "portada_url": "https://www.salvat.com/41429-large_default/rey-leon.jpg"
+    "portada_url": "https://www.salvat.com/41429-large_default/rey-leon.jpg",
+    "edited": null
   },
   {
     "id": 8475,
@@ -843,7 +936,8 @@
     "autor": "Iris Rivera",
     "editorial": "Quipu",
     "año": "2012",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0aQRzJeXWFO_JbEyWEdOAAtfXp7PMMsGMRA&s"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0aQRzJeXWFO_JbEyWEdOAAtfXp7PMMsGMRA&s",
+    "edited": null
   },
   {
     "id": 2827,
@@ -852,7 +946,8 @@
     "autor": "Nik",
     "editorial": "Primera Sudamericana",
     "año": "Desconocido",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_zmpUA1IecgmA5eIGR-3yAqrVCBhpBivFA&s"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_zmpUA1IecgmA5eIGR-3yAqrVCBhpBivFA&s",
+    "edited": null
   },
   {
     "id": 94,
@@ -861,7 +956,8 @@
     "autor": "Geronimo Stilton",
     "editorial": "Destino",
     "año": "2004-04-01",
-    "portada_url": "http://books.google.com/books/content?id=BUQ7AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=BUQ7AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 2083,
@@ -870,7 +966,8 @@
     "autor": "Geronimo Stilton",
     "editorial": "Destino",
     "año": "Desconocido",
-    "portada_url": "https://images-eu.ssl-images-amazon.com/images/I/61JUDwdzOgL._AC_UL210_SR210,210_.jpg"
+    "portada_url": "https://images-eu.ssl-images-amazon.com/images/I/61JUDwdzOgL._AC_UL210_SR210,210_.jpg",
+    "edited": null
   },
   {
     "id": 2196,
@@ -879,7 +976,8 @@
     "autor": "Geronimo Stilton",
     "editorial": "Destino",
     "año": "Desconocido",
-    "portada_url": "https://www.planetadelibros.com.ar/usuaris/libros/fotos/222/original/portada_stilton-3-el-misterioso-manuscrito-de-nostrarratus_geronimo-stilton_201607271258.jpg"
+    "portada_url": "https://www.planetadelibros.com.ar/usuaris/libros/fotos/222/original/portada_stilton-3-el-misterioso-manuscrito-de-nostrarratus_geronimo-stilton_201607271258.jpg",
+    "edited": null
   },
   {
     "id": 2171,
@@ -888,7 +986,8 @@
     "autor": "Geronimo Stilton",
     "editorial": "Destino",
     "año": "Desconocido",
-    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789507323638_1.jpg?id_com=717"
+    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789507323638_1.jpg?id_com=717",
+    "edited": null
   },
   {
     "id": 2084,
@@ -897,7 +996,8 @@
     "autor": "Geronimo Stilton",
     "editorial": "Destino",
     "año": "Desconocido",
-    "portada_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/9e/2b/9e2bcdba208918c0032435ee20898dbf.jpg"
+    "portada_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/9e/2b/9e2bcdba208918c0032435ee20898dbf.jpg",
+    "edited": null
   },
   {
     "id": 2195,
@@ -906,7 +1006,8 @@
     "autor": "Geronimo Stilton",
     "editorial": "Destino",
     "año": "Desconocido",
-    "portada_url": "https://tienda.planetadelibros.com.ar/cdn/shop/products/D_710189-MLA42306521228_062020-O.jpg?v=1684361809"
+    "portada_url": "https://tienda.planetadelibros.com.ar/cdn/shop/products/D_710189-MLA42306521228_062020-O.jpg?v=1684361809",
+    "edited": null
   },
   {
     "id": 137,
@@ -915,7 +1016,8 @@
     "autor": "Geronimo Stilton",
     "editorial": "Destino",
     "año": "2011",
-    "portada_url": "https://pictures.abebooks.com/isbn/9788408052630-us.jpg"
+    "portada_url": "https://pictures.abebooks.com/isbn/9788408052630-us.jpg",
+    "edited": null
   },
   {
     "id": 2199,
@@ -924,7 +1026,8 @@
     "autor": "Geronimo Stilton",
     "editorial": "Destino",
     "año": "Desconocido",
-    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789507324185_1.jpg?id_com=717"
+    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789507324185_1.jpg?id_com=717",
+    "edited": null
   },
   {
     "id": 2198,
@@ -933,7 +1036,8 @@
     "autor": "Geronimo Stilton",
     "editorial": "Destino",
     "año": "Desconocido",
-    "portada_url": "https://tienda.planetadelibros.com.ar/cdn/shop/products/D_943355-MLA42672501121_072020-O.jpg?v=1684350047"
+    "portada_url": "https://tienda.planetadelibros.com.ar/cdn/shop/products/D_943355-MLA42672501121_072020-O.jpg?v=1684350047",
+    "edited": null
   },
   {
     "id": 2227,
@@ -942,7 +1046,8 @@
     "autor": "Geronimo Stilton",
     "editorial": "Destino",
     "año": "Desconocido",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxRBV9frwTAPxmSCcs1NTZKvBKwLRwBGv87w&s"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxRBV9frwTAPxmSCcs1NTZKvBKwLRwBGv87w&s",
+    "edited": null
   },
   {
     "id": 2191,
@@ -951,7 +1056,8 @@
     "autor": "Geronimo Stilton",
     "editorial": "Destino",
     "año": "Desconocido",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPjzHG5S25axV4l7YCRfyluDq60QO_tIPGmw&s"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPjzHG5S25axV4l7YCRfyluDq60QO_tIPGmw&s",
+    "edited": null
   },
   {
     "id": 2226,
@@ -960,7 +1066,8 @@
     "autor": "Geronimo Stilton",
     "editorial": "Destino",
     "año": "Desconocido",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ppRGFHh57qummtsaqWpq-rBSczeit39wSw&s"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ppRGFHh57qummtsaqWpq-rBSczeit39wSw&s",
+    "edited": null
   },
   {
     "id": 2568,
@@ -969,7 +1076,8 @@
     "autor": "Wizarding World",
     "editorial": "Vértice",
     "año": "Desconocido",
-    "portada_url": "https://acdn-us.mitiendanube.com/stores/742/264/products/5967_hp-all-about-the-hogwarts-h-9b27767429a6a2d38817231216308766-640-0.png"
+    "portada_url": "https://acdn-us.mitiendanube.com/stores/742/264/products/5967_hp-all-about-the-hogwarts-h-9b27767429a6a2d38817231216308766-640-0.png",
+    "edited": null
   },
   {
     "id": 47,
@@ -978,7 +1086,8 @@
     "autor": "J.K.Rowling",
     "editorial": "Salamandra",
     "año": "2020",
-    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789878000190_1.jpg?id_com=717"
+    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789878000190_1.jpg?id_com=717",
+    "edited": null
   },
   {
     "id": 3977,
@@ -987,7 +1096,8 @@
     "autor": "J.K.Rowling",
     "editorial": "Salamandra Bolsillo",
     "año": "Desconocido",
-    "portada_url": "https://www.penguinlibros.com/ar/6419844/harry-potter-y-el-caliz-de-fuego-harry-potter-4.jpg"
+    "portada_url": "https://www.penguinlibros.com/ar/6419844/harry-potter-y-el-caliz-de-fuego-harry-potter-4.jpg",
+    "edited": null
   },
   {
     "id": 3407,
@@ -996,7 +1106,8 @@
     "autor": "J.K.Rowling",
     "editorial": "Salamandra",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/8498387544.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/8498387544.jpg",
+    "edited": null
   },
   {
     "id": 3978,
@@ -1005,7 +1116,8 @@
     "autor": "J.K.Rowling",
     "editorial": "Salamandra Bolsillo",
     "año": "Desconocido",
-    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/ac/d2/acd22d20d3bd39e68e81b69ebcbe4c54.jpg"
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/ac/d2/acd22d20d3bd39e68e81b69ebcbe4c54.jpg",
+    "edited": null
   },
   {
     "id": 12,
@@ -1014,7 +1126,8 @@
     "autor": "J.K.Rowling",
     "editorial": "Salamandra Bolsillo",
     "año": "2020",
-    "portada_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/1a/1b/1a1b975ace9d300841c305826a644bea.jpg"
+    "portada_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/1a/1b/1a1b975ace9d300841c305826a644bea.jpg",
+    "edited": null
   },
   {
     "id": 3803,
@@ -1023,7 +1136,8 @@
     "autor": "J.K.Rowling",
     "editorial": "Salamandra Bolsillo",
     "año": "Desconocido",
-    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/c4/e9/c4e93e876288b4a0021a0cef47efc8bf.jpg"
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/c4/e9/c4e93e876288b4a0021a0cef47efc8bf.jpg",
+    "edited": null
   },
   {
     "id": 3979,
@@ -1032,7 +1146,8 @@
     "autor": "J.K.Rowling",
     "editorial": "Salamandra Bolsillo",
     "año": "Desconocido",
-    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/a0/b4/a0b46533ad541c885d6a406da0e9c429.jpg"
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/a0/b4/a0b46533ad541c885d6a406da0e9c429.jpg",
+    "edited": null
   },
   {
     "id": 3806,
@@ -1041,7 +1156,8 @@
     "autor": "J.K.Rowling",
     "editorial": "Salamandra Bolsillo",
     "año": "Desconocido",
-    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/aa/38/aa38452661f7b7adea8c51cf1adab6bb.jpg"
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/aa/38/aa38452661f7b7adea8c51cf1adab6bb.jpg",
+    "edited": null
   },
   {
     "id": 8494,
@@ -1050,7 +1166,8 @@
     "autor": "Liliana Cinetto, Lucía Mancilla Prieto",
     "editorial": "del Naranjo",
     "año": "2012",
-    "portada_url": "https://delnaranjo.com/wp-content/uploads/2025/06/monstruo-cama.jpg"
+    "portada_url": "https://delnaranjo.com/wp-content/uploads/2025/06/monstruo-cama.jpg",
+    "edited": null
   },
   {
     "id": 103,
@@ -1059,7 +1176,8 @@
     "autor": "Michael Dahl",
     "editorial": "Latinbooks",
     "año": "2014",
-    "portada_url": "https://latinbooksint.com/img/tapitas_lb/1448462942-Arte_HPH_1%20copy.png"
+    "portada_url": "https://latinbooksint.com/img/tapitas_lb/1448462942-Arte_HPH_1%20copy.png",
+    "edited": null
   },
   {
     "id": 130,
@@ -1068,7 +1186,8 @@
     "autor": "Michael Dahl",
     "editorial": "Latinbooks",
     "año": "2018",
-    "portada_url": "https://entelequia.com.ar/storage/product_arch/2020/08/slayers_special_tapa_03-DESKTOP-EAEOSF4-11.webp"
+    "portada_url": "https://entelequia.com.ar/storage/product_arch/2020/08/slayers_special_tapa_03-DESKTOP-EAEOSF4-11.webp",
+    "edited": null
   },
   {
     "id": 112,
@@ -1077,7 +1196,8 @@
     "autor": "Michael Dahl",
     "editorial": "Latinbooks",
     "año": "2013",
-    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_737647-MLA43474186619_092020-O.webp"
+    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_737647-MLA43474186619_092020-O.webp",
+    "edited": null
   },
   {
     "id": 117,
@@ -1086,7 +1206,8 @@
     "autor": "Michael Dahl",
     "editorial": "Latinbooks",
     "año": "2013",
-    "portada_url": "https://entelequia.com.ar/storage/product_arch/2020/08/slayers_special_tapa_03-DESKTOP-EAEOSF4-13.webp"
+    "portada_url": "https://entelequia.com.ar/storage/product_arch/2020/08/slayers_special_tapa_03-DESKTOP-EAEOSF4-13.webp",
+    "edited": null
   },
   {
     "id": 114,
@@ -1095,7 +1216,8 @@
     "autor": "Michael Dahl",
     "editorial": "Latinbooks",
     "año": "2016",
-    "portada_url": "https://entelequia.com.ar/storage/product_arch/2020/08/slayers_special_tapa_03-DESKTOP-EAEOSF4-8.webp"
+    "portada_url": "https://entelequia.com.ar/storage/product_arch/2020/08/slayers_special_tapa_03-DESKTOP-EAEOSF4-8.webp",
+    "edited": null
   },
   {
     "id": 121,
@@ -1104,7 +1226,8 @@
     "autor": "Michael Dahl",
     "editorial": "Latinbooks",
     "año": "2016",
-    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_706469-MLU46335537357_062021-O.webp"
+    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_706469-MLU46335537357_062021-O.webp",
+    "edited": null
   },
   {
     "id": 304,
@@ -1113,7 +1236,8 @@
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
     "año": "2010",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 192,
@@ -1122,7 +1246,8 @@
     "autor": "Korky Korky, Korky Paul, Valerie Thomas",
     "editorial": "El Mundo de Winnie",
     "año": "2006-06",
-    "portada_url": "http://books.google.com/books/content?id=8AABAgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=8AABAgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 2691,
@@ -1131,7 +1256,8 @@
     "autor": "Dan Green",
     "editorial": "Planeta Junior",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/08/9504952824.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/08/9504952824.jpg",
+    "edited": null
   },
   {
     "id": 5090,
@@ -1140,7 +1266,8 @@
     "autor": "Franco Vaccarini, Iñaki Echeverría",
     "editorial": "Hola Chicos",
     "año": "2011",
-    "portada_url": "https://acdn-us.mitiendanube.com/stores/001/081/567/products/lacasadelarisa1-c83bcee577c93cfa1615816911493271-640-0.jpg"
+    "portada_url": "https://acdn-us.mitiendanube.com/stores/001/081/567/products/lacasadelarisa1-c83bcee577c93cfa1615816911493271-640-0.jpg",
+    "edited": null
   },
   {
     "id": 194,
@@ -1149,7 +1276,8 @@
     "autor": "Korky Korky, Valerie Thomas, Korky Paul",
     "editorial": "El Mundo de Winnie",
     "año": "2006",
-    "portada_url": "http://books.google.com/books/content?id=yXVVPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=yXVVPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 9446,
@@ -1157,8 +1285,9 @@
     "titulo": "La isla del tesoro",
     "autor": "Robert Louis Stevenson",
     "editorial": "Desconocido",
-    "año": "2004",
-    "portada_url": ""
+    "año": "20044",
+    "portada_url": "",
+    "edited": "True"
   },
   {
     "id": 434,
@@ -1167,7 +1296,8 @@
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
     "año": "2010",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 3309,
@@ -1176,7 +1306,8 @@
     "autor": "Roberta Iannamico",
     "editorial": "Editorial Albatros",
     "año": "2009",
-    "portada_url": "http://books.google.com/books/content?id=4rrb8haxresC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=4rrb8haxresC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "edited": null
   },
   {
     "id": 2966,
@@ -1185,7 +1316,8 @@
     "autor": "Valerie Thomas, Korky Paul",
     "editorial": "Oceano Travesia",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2019/02/6077352327.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2019/02/6077352327.jpg",
+    "edited": null
   },
   {
     "id": 3640,
@@ -1194,7 +1326,8 @@
     "autor": "Pablo Bernasconi",
     "editorial": "Primera Sudamericana",
     "año": "2015",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJoUEDYpF4hjtqqCXY2o3Lji5U3L8G4ZsomA&s"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJoUEDYpF4hjtqqCXY2o3Lji5U3L8G4ZsomA&s",
+    "edited": null
   },
   {
     "id": 1215,
@@ -1203,7 +1336,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "2020",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500737234_9789500737234_2022-11-26_08_00_06.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500737234_9789500737234_2022-11-26_08_00_06.jpg",
+    "edited": null
   },
   {
     "id": 1214,
@@ -1212,7 +1346,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "2014",
-    "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/4e/0c/4e0c624b5bed6fde7d26ba5f70ccc26f.jpg"
+    "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/4e/0c/4e0c624b5bed6fde7d26ba5f70ccc26f.jpg",
+    "edited": null
   },
   {
     "id": 1123,
@@ -1221,7 +1356,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "2014",
-    "portada_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/6c/86/6c86c3e59ce17f36e843fe9418e503d1.jpg"
+    "portada_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/6c/86/6c86c3e59ce17f36e843fe9418e503d1.jpg",
+    "edited": null
   },
   {
     "id": 1175,
@@ -1230,7 +1366,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500751605_9789500751605_2022-11-08_11_12_58.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500751605_9789500751605_2022-11-08_11_12_58.jpg",
+    "edited": null
   },
   {
     "id": 1172,
@@ -1239,7 +1376,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500755740_9789500755740_2022-11-08_11_12_58.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500755740_9789500755740_2022-11-08_11_12_58.jpg",
+    "edited": null
   },
   {
     "id": 1173,
@@ -1248,7 +1386,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/16/c0/16c0f9d8d6b4b932075c2d8d2e13e452.jpg"
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/16/c0/16c0f9d8d6b4b932075c2d8d2e13e452.jpg",
+    "edited": null
   },
   {
     "id": 1085,
@@ -1257,7 +1396,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500763547_9789500763547_2022-11-08_11_12_58.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500763547_9789500763547_2022-11-08_11_12_58.jpg",
+    "edited": null
   },
   {
     "id": 3392,
@@ -1266,7 +1406,8 @@
     "autor": "Roy Berocay",
     "editorial": "Loqueleo",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/06/9504655022.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/06/9504655022.jpg",
+    "edited": null
   },
   {
     "id": 8513,
@@ -1275,7 +1416,8 @@
     "autor": "Silvina Rocha",
     "editorial": "del Naranjo",
     "año": "2012",
-    "portada_url": "https://delnaranjo.com/wp-content/uploads/2025/06/lala.jpg"
+    "portada_url": "https://delnaranjo.com/wp-content/uploads/2025/06/lala.jpg",
+    "edited": null
   },
   {
     "id": 86,
@@ -1284,7 +1426,8 @@
     "autor": "Enid Blyton",
     "editorial": "Juventud",
     "año": "2016-03-10",
-    "portada_url": "http://books.google.com/books/content?id=tUyTjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=tUyTjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 87,
@@ -1293,7 +1436,8 @@
     "autor": "Enid Blyton",
     "editorial": "Juventud",
     "año": "2016-03-10",
-    "portada_url": "http://books.google.com/books/content?id=bQ6IjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=bQ6IjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 3405,
@@ -1302,7 +1446,8 @@
     "autor": "Roverto Santiago",
     "editorial": "SM",
     "año": "Desconocido",
-    "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/4b/8b/4b8b9b8ce6110a6bda350aa491b39310.jpg"
+    "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/4b/8b/4b8b9b8ce6110a6bda350aa491b39310.jpg",
+    "edited": null
   },
   {
     "id": 3736,
@@ -1311,7 +1456,8 @@
     "autor": "Roberto Santiago",
     "editorial": "SM",
     "año": "Desconocido",
-    "portada_url": "https://m.media-amazon.com/images/I/81klBbXPRmL._SL1500_.jpg"
+    "portada_url": "https://m.media-amazon.com/images/I/81klBbXPRmL._SL1500_.jpg",
+    "edited": null
   },
   {
     "id": 3738,
@@ -1320,7 +1466,8 @@
     "autor": "Roverto Santiago",
     "editorial": "SM",
     "año": "Desconocido",
-    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_753671-MLA30928639413_062019-O.webp"
+    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_753671-MLA30928639413_062019-O.webp",
+    "edited": null
   },
   {
     "id": 7,
@@ -1329,7 +1476,8 @@
     "autor": "Max Brallier",
     "editorial": "Editorial Hidra",
     "año": "2016-05",
-    "portada_url": "http://books.google.com/books/content?id=un7zDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=un7zDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 10,
@@ -1338,7 +1486,8 @@
     "autor": "Max Brallier",
     "editorial": "Editorial Hidra",
     "año": "2018",
-    "portada_url": "http://books.google.com/books/content?id=iFEtuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=iFEtuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 9,
@@ -1347,7 +1496,8 @@
     "autor": "Max Brallier",
     "editorial": "Editorial Hidra",
     "año": "2021",
-    "portada_url": "https://app.masterlibros.com.ar/admin/files/libros/194544/9788418002755.jpg"
+    "portada_url": "https://app.masterlibros.com.ar/admin/files/libros/194544/9788418002755.jpg",
+    "edited": null
   },
   {
     "id": 6,
@@ -1356,7 +1506,8 @@
     "autor": "Max Brallier",
     "editorial": "Editorial Hidra",
     "año": "2019",
-    "portada_url": "http://books.google.com/books/content?id=ZABPwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=ZABPwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 5,
@@ -1365,7 +1516,8 @@
     "autor": "Max Brallier",
     "editorial": "Editorial Hidra",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2024/03/8419266132.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2024/03/8419266132.jpg",
+    "edited": null
   },
   {
     "id": 11,
@@ -1374,7 +1526,8 @@
     "autor": "Max Brallier",
     "editorial": "Editorial Hidra",
     "año": "2017",
-    "portada_url": "http://books.google.com/books/content?id=uc2DswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=uc2DswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 3742,
@@ -1383,7 +1536,8 @@
     "autor": "Silvina Rocha",
     "editorial": "Quipu",
     "año": "Desconocido",
-    "portada_url": "https://cdn.livriz.com/media/mediaspace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/4369579e-00fc-41be-b4f9-6d6d211ada68/9789875042094.jpg"
+    "portada_url": "https://cdn.livriz.com/media/mediaspace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/4369579e-00fc-41be-b4f9-6d6d211ada68/9789875042094.jpg",
+    "edited": null
   },
   {
     "id": 3409,
@@ -1392,7 +1546,8 @@
     "autor": "Silvina Rocha",
     "editorial": "Quipu",
     "año": "Desconocido",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9875042100_9789875042100_2022-11-08_11_12_58.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9875042100_9789875042100_2022-11-08_11_12_58.jpg",
+    "edited": null
   },
   {
     "id": 204,
@@ -1401,7 +1556,8 @@
     "autor": "José Montero",
     "editorial": "Quipu",
     "año": "2016",
-    "portada_url": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/618420-b815d4a985664e084d17274508870810-1024-1024.jpg"
+    "portada_url": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/618420-b815d4a985664e084d17274508870810-1024-1024.jpg",
+    "edited": null
   },
   {
     "id": 205,
@@ -1410,7 +1566,8 @@
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
     "año": "2011",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 9234,
@@ -1419,7 +1576,8 @@
     "autor": "Nícolas Schuff",
     "editorial": "Edelvives",
     "año": "2018",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 8530,
@@ -1428,7 +1586,8 @@
     "autor": "Silvina Rocha",
     "editorial": "del Naranjo",
     "año": "Desconocido",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9871343249_9789871343249_2023-10-21_08_01_05.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9871343249_9789871343249_2023-10-21_08_01_05.jpg",
+    "edited": null
   },
   {
     "id": 5551,
@@ -1437,7 +1596,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "2014",
-    "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5060207/wjPXXRm07n-hp0iuVCsD5sW7Alk-.jpg?v=638852939477900000"
+    "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5060207/wjPXXRm07n-hp0iuVCsD5sW7Alk-.jpg?v=638852939477900000",
+    "edited": null
   },
   {
     "id": 511,
@@ -1446,7 +1606,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5060445/25E-OoBUjiGdr8ihfG9QzAiIwDA-.jpg?v=638852943084730000"
+    "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5060445/25E-OoBUjiGdr8ihfG9QzAiIwDA-.jpg?v=638852943084730000",
+    "edited": null
   },
   {
     "id": 966,
@@ -1455,7 +1616,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "2010",
-    "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5060447/WG1-nfLrDgIUW92L7sTnEZgYWa0-.jpg?v=638852943096930000"
+    "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5060447/WG1-nfLrDgIUW92L7sTnEZgYWa0-.jpg?v=638852943096930000",
+    "edited": null
   },
   {
     "id": 965,
@@ -1464,7 +1626,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5065548/DOTyiv6NbsVZiY11jgx42GJImT8-.jpg?v=638853684205100000"
+    "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5065548/DOTyiv6NbsVZiY11jgx42GJImT8-.jpg?v=638853684205100000",
+    "edited": null
   },
   {
     "id": 967,
@@ -1473,7 +1636,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "2015",
-    "portada_url": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/552139-f12f43a48119abce3a17273550713368-1024-1024.jpg"
+    "portada_url": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/552139-f12f43a48119abce3a17273550713368-1024-1024.jpg",
+    "edited": null
   },
   {
     "id": 968,
@@ -1482,7 +1646,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "2014",
-    "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5062828/nPqG-82RbYSKF7kb5Tso7KJ28Qg-.jpg?v=638853289295800000"
+    "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5062828/nPqG-82RbYSKF7kb5Tso7KJ28Qg-.jpg?v=638853289295800000",
+    "edited": null
   },
   {
     "id": 969,
@@ -1491,7 +1656,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "2014",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2019/02/9500747943.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2019/02/9500747943.jpg",
+    "edited": null
   },
   {
     "id": 970,
@@ -1500,7 +1666,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "2015",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2019/02/9500752749.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2019/02/9500752749.jpg",
+    "edited": null
   },
   {
     "id": 1091,
@@ -1509,7 +1676,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500754750_9789500754750_2022-11-08_11_12_58.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500754750_9789500754750_2022-11-08_11_12_58.jpg",
+    "edited": null
   },
   {
     "id": 1366,
@@ -1518,7 +1686,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789500756853_1.jpg?id_com=1156"
+    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789500756853_1.jpg?id_com=1156",
+    "edited": null
   },
   {
     "id": 1329,
@@ -1527,7 +1696,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "2017",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500758215_9789500758215_2022-11-08_13_00_12.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500758215_9789500758215_2022-11-08_13_00_12.jpg",
+    "edited": null
   },
   {
     "id": 1330,
@@ -1536,7 +1706,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "2017",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/e80a621ffa7c449d28b86999589a6b70/9/5/9500759465_9789500759465_2025-02-05_22_20_06.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/e80a621ffa7c449d28b86999589a6b70/9/5/9500759465_9789500759465_2025-02-05_22_20_06.jpg",
+    "edited": null
   },
   {
     "id": 1374,
@@ -1545,7 +1716,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500761284_9789500761284_2022-11-08_11_12_58.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500761284_9789500761284_2022-11-08_11_12_58.jpg",
+    "edited": null
   },
   {
     "id": 1473,
@@ -1554,7 +1726,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2019/10/mayor-y-menor-14.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2019/10/mayor-y-menor-14.jpg",
+    "edited": null
   },
   {
     "id": 1672,
@@ -1563,7 +1736,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500762724_9789500762724_2022-11-08_11_12_58.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500762724_9789500762724_2022-11-08_11_12_58.jpg",
+    "edited": null
   },
   {
     "id": 543,
@@ -1572,7 +1746,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/08/9500764049.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/08/9500764049.jpg",
+    "edited": null
   },
   {
     "id": 847,
@@ -1581,7 +1756,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500765121_9789500765121_2022-11-08_11_12_58.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500765121_9789500765121_2022-11-08_11_12_58.jpg",
+    "edited": null
   },
   {
     "id": 764,
@@ -1590,7 +1766,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2021/11/9500766210-scaled.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2021/11/9500766210-scaled.jpg",
+    "edited": null
   },
   {
     "id": 689,
@@ -1599,7 +1776,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/04/9500766944.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/04/9500766944.jpg",
+    "edited": null
   },
   {
     "id": 690,
@@ -1608,7 +1786,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500768559_9789500768559_2023-03-31_09_00_19.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500768559_9789500768559_2023-03-31_09_00_19.jpg",
+    "edited": null
   },
   {
     "id": 610,
@@ -1617,7 +1796,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2024/04/9500770392.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2024/04/9500770392.jpg",
+    "edited": null
   },
   {
     "id": 616,
@@ -1626,7 +1806,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/12/9500768160.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/12/9500768160.jpg",
+    "edited": null
   },
   {
     "id": 1270,
@@ -1635,7 +1816,8 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500764872_9789500764872_2022-11-08_11_12_58.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500764872_9789500764872_2022-11-08_11_12_58.jpg",
+    "edited": null
   },
   {
     "id": 2651,
@@ -1644,16 +1826,18 @@
     "autor": "Chanti",
     "editorial": "Primera sudamericana",
     "año": "2024",
-    "portada_url": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/722795-7baa9a5e719ee5792317298672379469-1024-1024.jpg"
+    "portada_url": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/722795-7baa9a5e719ee5792317298672379469-1024-1024.jpg",
+    "edited": null
   },
   {
-    "id": 9559,
+    "id": 10224,
     "isbn": "9789871337705",
     "titulo": "Mi perro Lucas",
     "autor": "Rodolfo Javier Garrido",
-    "editorial": "La Brujita de Papel",
+    "editorial": "Desconocido",
     "año": "2015",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 4779,
@@ -1662,7 +1846,8 @@
     "autor": "Stephen O'Brien",
     "editorial": "Espasa",
     "año": "Desconocido",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoADxMkbl8qh15FHha80LiFcfD9KHialDciA&s"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoADxMkbl8qh15FHha80LiFcfD9KHialDciA&s",
+    "edited": null
   },
   {
     "id": 2923,
@@ -1671,7 +1856,8 @@
     "autor": "DK",
     "editorial": "National Geographic Books",
     "año": "2023-04-25",
-    "portada_url": "http://books.google.com/books/content?id=TtWOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=TtWOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 447,
@@ -1680,7 +1866,8 @@
     "autor": "Luis María Pescetti",
     "editorial": "Loqueleo",
     "año": "2015",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9504643562_9789504643562_2022-11-08_11_12_58.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9504643562_9789504643562_2022-11-08_11_12_58.jpg",
+    "edited": null
   },
   {
     "id": 51,
@@ -1689,7 +1876,8 @@
     "autor": "Marvel",
     "editorial": "Panini Comics",
     "año": "2024",
-    "portada_url": "https://i1.whakoom.com/large/1e/2f/578308e4c61e40dc93b08935aa30f692.jpg"
+    "portada_url": "https://i1.whakoom.com/large/1e/2f/578308e4c61e40dc93b08935aa30f692.jpg",
+    "edited": null
   },
   {
     "id": 96,
@@ -1698,7 +1886,8 @@
     "autor": "Enid Blyton",
     "editorial": "Juventud",
     "año": "2016-03-10",
-    "portada_url": "http://books.google.com/books/content?id=x0ubjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=x0ubjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 2694,
@@ -1707,7 +1896,8 @@
     "autor": "Jane Cadwallader",
     "editorial": "HUB",
     "año": "Desconocido",
-    "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5069266/n1NaydtTnpKXcPrHedyq596mMCU-.jpg?v=638853754031900000"
+    "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5069266/n1NaydtTnpKXcPrHedyq596mMCU-.jpg?v=638853754031900000",
+    "edited": null
   },
   {
     "id": 9266,
@@ -1716,7 +1906,8 @@
     "autor": "Graciela Pérez Aguilar",
     "editorial": "Desconocido",
     "año": "2018",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 9267,
@@ -1725,7 +1916,8 @@
     "autor": "Graciela Pérez Aguilar",
     "editorial": "Desconocido",
     "año": "2011",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 1,
@@ -1734,7 +1926,8 @@
     "autor": "Rick Riordan",
     "editorial": "Salamandra",
     "año": "2021",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxP4RL7qpAjfn7ZPCg-CNYg3_QkhJnVjy6NA&s"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxP4RL7qpAjfn7ZPCg-CNYg3_QkhJnVjy6NA&s",
+    "edited": null
   },
   {
     "id": 452,
@@ -1743,7 +1936,8 @@
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
     "año": "2010",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 5198,
@@ -1752,7 +1946,8 @@
     "autor": "Carlos Campos Salvá",
     "editorial": "VISOR",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 44,
@@ -1761,7 +1956,8 @@
     "autor": "Margarita Mainé",
     "editorial": "SM",
     "año": "2016",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN9vTdJEWx-I1fk9cchdMZQ8wnofqIotinPw&s"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN9vTdJEWx-I1fk9cchdMZQ8wnofqIotinPw&s",
+    "edited": null
   },
   {
     "id": 43,
@@ -1770,7 +1966,8 @@
     "autor": "Margarita Maine",
     "editorial": "SM",
     "año": "2018",
-    "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/78/01/7801921b3298051b342a2925a53cd4b0.jpg"
+    "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/78/01/7801921b3298051b342a2925a53cd4b0.jpg",
+    "edited": null
   },
   {
     "id": 327,
@@ -1779,7 +1976,8 @@
     "autor": "Fabián Sevilla",
     "editorial": "Quipu",
     "año": "2017",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875041929.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875041929.jpg",
+    "edited": null
   },
   {
     "id": 322,
@@ -1788,7 +1986,8 @@
     "autor": "Fabián Sevilla",
     "editorial": "Quipu",
     "año": "2017",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875041844.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875041844.jpg",
+    "edited": null
   },
   {
     "id": 326,
@@ -1797,7 +1996,8 @@
     "autor": "Fabián Sevilla",
     "editorial": "Quipu",
     "año": "2017",
-    "portada_url": "https://image.isu.pub/170630153711-5f815fad98c57f354bec91924b5fdfe3/jpg/page_1_thumb_large.jpg"
+    "portada_url": "https://image.isu.pub/170630153711-5f815fad98c57f354bec91924b5fdfe3/jpg/page_1_thumb_large.jpg",
+    "edited": null
   },
   {
     "id": 2409,
@@ -1806,7 +2006,8 @@
     "autor": "Margarita Mainé, Iñaki Echeverría",
     "editorial": "Desconocido",
     "año": "2011",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/10/9874007704.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/10/9874007704.jpg",
+    "edited": null
   },
   {
     "id": 8803,
@@ -1815,7 +2016,8 @@
     "autor": "Pablo Bernasconi",
     "editorial": "Primera Sudamericana",
     "año": "2009",
-    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500730556_9789500730556_2022-11-08_11_12_58.jpg"
+    "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500730556_9789500730556_2022-11-08_11_12_58.jpg",
+    "edited": null
   },
   {
     "id": 71,
@@ -1824,7 +2026,8 @@
     "autor": "Marissa Meyer",
     "editorial": "V&R Ediciones",
     "año": "2018-02",
-    "portada_url": "http://books.google.com/books/content?id=smeWuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=smeWuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 3752,
@@ -1833,7 +2036,8 @@
     "autor": "Roy Berocay",
     "editorial": "Alfaguara",
     "año": "Desconocido",
-    "portada_url": "https://www.mosca.com.uy/media/catalog/product/5/1/51937.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700"
+    "portada_url": "https://www.mosca.com.uy/media/catalog/product/5/1/51937.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+    "edited": null
   },
   {
     "id": 3418,
@@ -1842,7 +2046,8 @@
     "autor": "Roy Berocay",
     "editorial": "Alfaguara",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/06/9504643975.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/06/9504643975.jpg",
+    "edited": null
   },
   {
     "id": 3753,
@@ -1851,7 +2056,8 @@
     "autor": "Roy Berocay",
     "editorial": "Alfaguara",
     "año": "Desconocido",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/06/9504644026.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/06/9504644026.jpg",
+    "edited": null
   },
   {
     "id": 3413,
@@ -1860,7 +2066,8 @@
     "autor": "Diego Javier Rojas",
     "editorial": "La Brujita de Papel",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 2566,
@@ -1869,7 +2076,8 @@
     "autor": "Paula Bombara",
     "editorial": "El Barco De Vapor",
     "año": "Desconocido",
-    "portada_url": "https://paulabombara.ar/wp-content/uploads/2021/01/Sin-rueditas.jpg"
+    "portada_url": "https://paulabombara.ar/wp-content/uploads/2021/01/Sin-rueditas.jpg",
+    "edited": null
   },
   {
     "id": 72,
@@ -1878,7 +2086,8 @@
     "autor": "Marissa Meyer",
     "editorial": "V&R Ediciones",
     "año": "2021",
-    "portada_url": "https://vreditoras.com.ar//uploads/libros/7a8189ac326ec17d2af180faf02d6b2eSupernova-TAPA-BAJA.jpg"
+    "portada_url": "https://vreditoras.com.ar//uploads/libros/7a8189ac326ec17d2af180faf02d6b2eSupernova-TAPA-BAJA.jpg",
+    "edited": null
   },
   {
     "id": 3422,
@@ -1887,7 +2096,8 @@
     "autor": "Cecilia Pisos",
     "editorial": "La Brujita de Papel",
     "año": "Desconocido",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2rIcPu2nHjOy6-7xf6zgVeAgyolorEGNSGQ&s"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2rIcPu2nHjOy6-7xf6zgVeAgyolorEGNSGQ&s",
+    "edited": null
   },
   {
     "id": 8579,
@@ -1896,7 +2106,8 @@
     "autor": "Graciela Montes, Random House Mondadori",
     "editorial": "Sudamericana",
     "año": "1999",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS41VX5Q_H1SH_OK2p84hKVeYAskHK_Yn68pA&s"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS41VX5Q_H1SH_OK2p84hKVeYAskHK_Yn68pA&s",
+    "edited": null
   },
   {
     "id": 2413,
@@ -1905,7 +2116,8 @@
     "autor": "Françoize Boucher",
     "editorial": "Guadal",
     "año": "2016",
-    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789873202278_1.jpg?id_com=717"
+    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789873202278_1.jpg?id_com=717",
+    "edited": null
   },
   {
     "id": 3425,
@@ -1914,7 +2126,8 @@
     "autor": "Guillermo del Toro",
     "editorial": "Puck",
     "año": "Desconocido",
-    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_923593-MLA28364599497_102018-O.webp"
+    "portada_url": "https://http2.mlstatic.com/D_NQ_NP_923593-MLA28364599497_102018-O.webp",
+    "edited": null
   },
   {
     "id": 330,
@@ -1923,7 +2136,8 @@
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
     "año": "2010",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 42,
@@ -1932,7 +2146,8 @@
     "autor": "Naomi Novik",
     "editorial": "Umbriel",
     "año": "2020",
-    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789874777744_1.jpg?id_com=1156"
+    "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789874777744_1.jpg?id_com=1156",
+    "edited": null
   },
   {
     "id": 472,
@@ -1941,7 +2156,8 @@
     "autor": "Lemony Snicket",
     "editorial": "Montena",
     "año": "Desconocido",
-    "portada_url": "https://www.penguinlibros.com/ar/1594475-home_default/el-aserradero-lugubre-una-serie-de-catastroficas-desdichas-4.webp"
+    "portada_url": "https://www.penguinlibros.com/ar/1594475-home_default/el-aserradero-lugubre-una-serie-de-catastroficas-desdichas-4.webp",
+    "edited": null
   },
   {
     "id": 541,
@@ -1950,7 +2166,8 @@
     "autor": "Lemony Snicket",
     "editorial": "Montena",
     "año": "Desconocido",
-    "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/06/7c/067cb203dde3024f914db600491ca441.jpg"
+    "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/06/7c/067cb203dde3024f914db600491ca441.jpg",
+    "edited": null
   },
   {
     "id": 542,
@@ -1959,7 +2176,8 @@
     "autor": "Lemony Snicket",
     "editorial": "Montena",
     "año": "Desconocido",
-    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/64/e8/64e85dd9d376a44f219b5ad1cbf3e967.jpg"
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/64/e8/64e85dd9d376a44f219b5ad1cbf3e967.jpg",
+    "edited": null
   },
   {
     "id": 2064,
@@ -1968,7 +2186,8 @@
     "autor": "Lemony Snicket",
     "editorial": "Montena",
     "año": "Desconocido",
-    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/6a/f8/6af8c92bc9ae00c40dbda298bcc1f892.jpg"
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/6a/f8/6af8c92bc9ae00c40dbda298bcc1f892.jpg",
+    "edited": null
   },
   {
     "id": 3118,
@@ -1977,7 +2196,8 @@
     "autor": "Disney, Pixar",
     "editorial": "Clarin",
     "año": "Desconocido",
-    "portada_url": "https://static.wikia.nocookie.net/doblaje/images/e/e2/Up-poster.jpg/revision/latest?cb=20201004143137&path-prefix=es"
+    "portada_url": "https://static.wikia.nocookie.net/doblaje/images/e/e2/Up-poster.jpg/revision/latest?cb=20201004143137&path-prefix=es",
+    "edited": null
   },
   {
     "id": 8589,
@@ -1986,7 +2206,8 @@
     "autor": "Silvia Graciela Schujer, José Olmos",
     "editorial": "Desconocido",
     "año": "2006",
-    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/76/90/7690e452af06d6c67a7fe7fd1de6904d.jpg"
+    "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/76/90/7690e452af06d6c67a7fe7fd1de6904d.jpg",
+    "edited": null
   },
   {
     "id": 333,
@@ -1995,7 +2216,8 @@
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
     "año": "2010",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 3119,
@@ -2004,7 +2226,8 @@
     "autor": "Disney, Pixar",
     "editorial": "Clarin",
     "año": "Desconocido",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzdJpuuZ6jG0nKdyNyRsxjea2p3khEQH6kHDp5sI7FalOB7iK1sls9tGj2EahgXP0CzE0&usqp=CAU"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzdJpuuZ6jG0nKdyNyRsxjea2p3khEQH6kHDp5sI7FalOB7iK1sls9tGj2EahgXP0CzE0&usqp=CAU",
+    "edited": null
   },
   {
     "id": 2071,
@@ -2013,7 +2236,8 @@
     "autor": "Korky Korky, Laura Owen",
     "editorial": "El Mundo de Winnie",
     "año": "2015",
-    "portada_url": "http://books.google.com/books/content?id=sHqOjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=sHqOjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 216,
@@ -2022,7 +2246,8 @@
     "autor": "Korky Korky, Valerie Thomas",
     "editorial": "El Mundo de Winnie",
     "año": "2015-06",
-    "portada_url": "http://books.google.com/books/content?id=XvyGjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=XvyGjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 217,
@@ -2031,7 +2256,8 @@
     "autor": "Korky Korky, Valerie Thomas",
     "editorial": "El Mundo de Winnie",
     "año": "2015-06",
-    "portada_url": "http://books.google.com/books/content?id=h_PqjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=h_PqjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 218,
@@ -2040,7 +2266,8 @@
     "autor": "Korky Korky, Valerie Thomas",
     "editorial": "El Mundo de Winnie",
     "año": "2016-09",
-    "portada_url": "http://books.google.com/books/content?id=AAR5AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=AAR5AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 219,
@@ -2049,7 +2276,8 @@
     "autor": "Korky Paul, Valerie Thomas",
     "editorial": "El Mundo de Winnie",
     "año": "2013-08",
-    "portada_url": "http://books.google.com/books/content?id=lBfzoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=lBfzoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 220,
@@ -2058,7 +2286,8 @@
     "autor": "Korky Korky, Valerie Thomas",
     "editorial": "El Mundo de Winnie",
     "año": "2013-09",
-    "portada_url": "http://books.google.com/books/content?id=UOh8AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=UOh8AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 2953,
@@ -2067,7 +2296,8 @@
     "autor": "Korky Korky, Valerie Thomas",
     "editorial": "El Mundo de Winnie",
     "año": "2018-07",
-    "portada_url": "http://books.google.com/books/content?id=vFM7zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=vFM7zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 221,
@@ -2076,7 +2306,8 @@
     "autor": "Korky Paul, Valérie Thomas",
     "editorial": "Oceano",
     "año": "2006",
-    "portada_url": "https://cdn.oceano.com.ar/titulos/9786077352310.jpg"
+    "portada_url": "https://cdn.oceano.com.ar/titulos/9786077352310.jpg",
+    "edited": null
   },
   {
     "id": 2976,
@@ -2085,7 +2316,8 @@
     "autor": "Valerie Thomas, Korky Paul",
     "editorial": "Oceano Travesia",
     "año": "Desconocido",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4jaNy8Jvyn4KS_fmwKJSmzGIq1rwEsj_jeA&s"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4jaNy8Jvyn4KS_fmwKJSmzGIq1rwEsj_jeA&s",
+    "edited": null
   },
   {
     "id": 2817,
@@ -2094,7 +2326,8 @@
     "autor": "Korky Korky, Korky Paul, Valerie Thomas",
     "editorial": "Oceano Travesia",
     "año": "2017-10",
-    "portada_url": "http://books.google.com/books/content?id=fZp0tQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada_url": "http://books.google.com/books/content?id=fZp0tQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "edited": null
   },
   {
     "id": 222,
@@ -2103,7 +2336,8 @@
     "autor": "Valérie Thomas",
     "editorial": "Oceano Travesia",
     "año": "2013",
-    "portada_url": "https://cdn.oceano.com.ar/titulos/9786077352389.jpg"
+    "portada_url": "https://cdn.oceano.com.ar/titulos/9786077352389.jpg",
+    "edited": null
   },
   {
     "id": 223,
@@ -2112,7 +2346,8 @@
     "autor": "Valerie Thomas, Korky Paul",
     "editorial": "Oceano Travesia",
     "año": "2010",
-    "portada_url": "https://m.media-amazon.com/images/I/81wxjevxezL._UF1000,1000_QL80_.jpg"
+    "portada_url": "https://m.media-amazon.com/images/I/81wxjevxezL._UF1000,1000_QL80_.jpg",
+    "edited": null
   },
   {
     "id": 279,
@@ -2121,7 +2356,8 @@
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
     "año": "2010",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 224,
@@ -2130,7 +2366,8 @@
     "autor": "Valérie Thomas",
     "editorial": "Oceano Travesia",
     "año": "2008",
-    "portada_url": "https://cdn.oceano.com.ar/titulos/9786077352341.jpg"
+    "portada_url": "https://cdn.oceano.com.ar/titulos/9786077352341.jpg",
+    "edited": null
   },
   {
     "id": 8607,
@@ -2139,7 +2376,8 @@
     "autor": "Silvina Rocha",
     "editorial": "Quipu",
     "año": "2014",
-    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875041103.jpg"
+    "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875041103.jpg",
+    "edited": null
   },
   {
     "id": 3421,
@@ -2148,7 +2386,8 @@
     "autor": "Elsa Bornemann",
     "editorial": "Alfaguara",
     "año": "Desconocido",
-    "portada_url": ""
+    "portada_url": "",
+    "edited": null
   },
   {
     "id": 3388,
@@ -2157,7 +2396,8 @@
     "autor": "Natalia Schapiro",
     "editorial": "La Brujita de Papel",
     "año": "Desconocido",
-    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpSu2Lx-cFljn0BXnf0d85RA4Re-JrwrSR-w&s"
+    "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpSu2Lx-cFljn0BXnf0d85RA4Re-JrwrSR-w&s",
+    "edited": null
   },
   {
     "id": 2563,
@@ -2166,7 +2406,8 @@
     "autor": "Ángeles Durini",
     "editorial": "SM",
     "año": "Desconocido",
-    "portada_url": "https://acdn-us.mitiendanube.com/stores/001/200/434/products/aaab61-b46bce5e1c519a2b7316805342745551-640-0.jpg"
+    "portada_url": "https://acdn-us.mitiendanube.com/stores/001/200/434/products/aaab61-b46bce5e1c519a2b7316805342745551-640-0.jpg",
+    "edited": null
   },
   {
     "id": 3427,
@@ -2175,6 +2416,7 @@
     "autor": "Ángeles Durini",
     "editorial": "SM",
     "año": "Desconocido",
-    "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/88/a9/88a90676e8cd97b5b07e0659bd783836.jpg"
+    "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/88/a9/88a90676e8cd97b5b07e0659bd783836.jpg",
+    "edited": null
   }
 ]

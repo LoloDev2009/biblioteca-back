@@ -20,7 +20,8 @@ db.serialize(() => {
     autor TEXT,
     editorial TEXT,
     año TEXT,
-    portada_url TEXT
+    portada_url TEXT,
+    edited BOOL
   )`);
 });
 
@@ -40,13 +41,17 @@ async function hacerBackup() {
       VALUES (?, ?, ?, ?, ?, ?)`);
 
     libros.forEach(libro => {
+      if (libro.edited == "True"){
+        db.run(`DELETE FROM libros WHERE isbn = ?`,(libro.isbn))
+      }
       stmt.run(
         libro.isbn,
         libro.titulo,
         libro.autor,
         libro.editorial,
         libro.año,
-        libro.portada_url
+        libro.portada_url,
+        null
       );
       console.log(libro.titulo)
     });
