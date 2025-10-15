@@ -102,7 +102,23 @@ app.post("/api/libro/manual", (req, res) => {
   stmt.finalize();
 });
 
+app.put("/api/libro/editar", (req, res) => {
+  const { isbn, titulo, autor, editorial, año, portada_url } = req.body;
+
+  const stmt = db.prepare(`UPDATE libros 
+    SET titulo = ?, autor = ?, editorial = ?, año = ?, portada_url = ?
+    WHERE isbn = ?`);
+
+  stmt.run(titulo, autor, editorial, año, portada_url, isbn, function(err) {
+    if (err) return res.status(500).json({ error: err.message });
+    if (this.changes === 0) return res.status(404).json({ error: "Libro no encontrado" });
+    res.json({ mensaje: "Libro actualizado", titulo });
+  });
+
+  stmt.finalize();
+});
+
 
 app.listen(port, () => {
-  console.log(`Servidor corriendo en https://localhost:${port}`);
+  console.log(`Servidor corriendo en http://localhost:${port}`);
 });
