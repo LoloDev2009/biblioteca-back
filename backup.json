@@ -108,7 +108,7 @@
     "portada_url": "https://http2.mlstatic.com/D_NQ_NP_899909-MLA93499532139_092025-O.webp"
   },
   {
-    "id": 9079,
+    "id": 9090,
     "isbn": "9789505115181",
     "titulo": "Belisario y el Violin",
     "autor": "María Cristina Ramos",
@@ -117,7 +117,7 @@
     "portada_url": "http://books.google.com/books/content?id=1bEJAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 9082,
+    "id": 9091,
     "isbn": "9789870422273",
     "titulo": "Belisario y los Fantasmas",
     "autor": "María Cristina Ramos",
@@ -126,7 +126,7 @@
     "portada_url": ""
   },
   {
-    "id": 9083,
+    "id": 9092,
     "isbn": "9789504639145",
     "titulo": "Bicho hambriento",
     "autor": "Iris Rivera",
@@ -144,7 +144,7 @@
     "portada_url": ""
   },
   {
-    "id": 9086,
+    "id": 9094,
     "isbn": "9789876421256",
     "titulo": "Cachorrito es el mejor",
     "autor": "Gabriela Keselman",
@@ -153,7 +153,7 @@
     "portada_url": ""
   },
   {
-    "id": 9085,
+    "id": 9095,
     "isbn": "9789876426145",
     "titulo": "Cachorrito, no te aburras",
     "autor": "Gabriela Keselman",
@@ -1152,7 +1152,7 @@
     "portada_url": "http://books.google.com/books/content?id=yXVVPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": 9092,
+    "id": 9446,
     "isbn": "9789875710030",
     "titulo": "La isla del tesoro",
     "autor": "Robert Louis Stevenson",
@@ -1413,7 +1413,7 @@
     "portada_url": ""
   },
   {
-    "id": 9084,
+    "id": 9234,
     "isbn": "9789876422789",
     "titulo": "Martín viaja al Espacio",
     "autor": "Nícolas Schuff",
@@ -1647,6 +1647,15 @@
     "portada_url": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/722795-7baa9a5e719ee5792317298672379469-1024-1024.jpg"
   },
   {
+    "id": 9559,
+    "isbn": "9789871337705",
+    "titulo": "Mi perro Lucas",
+    "autor": "Rodolfo Javier Garrido",
+    "editorial": "La Brujita de Papel",
+    "año": "2015",
+    "portada_url": ""
+  },
+  {
     "id": 4779,
     "isbn": "9789508522771",
     "titulo": "Minecraft la guia definitiva ",
@@ -1701,7 +1710,7 @@
     "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5069266/n1NaydtTnpKXcPrHedyq596mMCU-.jpg?v=638853754031900000"
   },
   {
-    "id": 9078,
+    "id": 9266,
     "isbn": "9789876421942",
     "titulo": "Pequeño Dragón aprende a viajar solo",
     "autor": "Graciela Pérez Aguilar",
@@ -1710,7 +1719,7 @@
     "portada_url": ""
   },
   {
-    "id": 9091,
+    "id": 9267,
     "isbn": "9789876420600",
     "titulo": "Pequeño Dragón aprende a volar",
     "autor": "Graciela Pérez Aguilar",

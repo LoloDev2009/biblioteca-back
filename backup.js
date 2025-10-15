@@ -48,6 +48,7 @@ async function hacerBackup() {
         libro.año,
         libro.portada_url
       );
+      console.log(libro.titulo)
     });
 
     stmt.finalize();

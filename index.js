@@ -103,13 +103,13 @@ app.post("/api/libro/manual", (req, res) => {
 });
 
 app.put("/api/libro/editar", (req, res) => {
-  const { isbn, titulo, autor, editorial, año, portada_url } = req.body;
+  const { isbn, titulo, autor, editorial, año, portada_url, edited } = req.body;
 
   const stmt = db.prepare(`UPDATE libros 
-    SET titulo = ?, autor = ?, editorial = ?, año = ?, portada_url = ?
+    SET titulo = ?, autor = ?, editorial = ?, año = ?, portada_url = ?, edited = ?
     WHERE isbn = ?`);
 
-  stmt.run(titulo, autor, editorial, año, portada_url, isbn, function(err) {
+  stmt.run(titulo, autor, editorial, año, portada_url,edited , isbn, function(err) {
     if (err) return res.status(500).json({ error: err.message });
     if (this.changes === 0) return res.status(404).json({ error: "Libro no encontrado" });
     res.json({ mensaje: "Libro actualizado", titulo });
