@@ -1,6 +1,6 @@
 [
   {
-    "id": 10991,
+    "id": 12703,
     "isbn": "9789874387158",
     "titulo": "",
     "autor": "",
@@ -8,16 +8,6 @@
     "año": "",
     "portada_url": "",
     "edited": null
-  },
-  {
-    "id": 10954,
-    "isbn": "9789500437523",
-    "titulo": "Alem",
-    "autor": "Miguel Angel de Marco",
-    "editorial": "Emecé",
-    "año": "2015",
-    "portada_url": "https://proassets.planetadelibros.com.ar/usuaris/libros/fotos/206/original/portada_alem-caudillo-popular-profeta-de-la-republica_miguel-angel-de-marco_201508281652.jpg",
-    "edited": "True"
   },
   {
     "id": 8389,
@@ -140,24 +130,24 @@
     "edited": null
   },
   {
-    "id": 10968,
+    "id": 13784,
     "isbn": "9789505812752",
     "titulo": "Aventuras y desventuras de Casiperro del Hambre",
     "autor": "Graciela Montes",
     "editorial": "Ediciones Colihue SRL",
     "año": "1995",
     "portada_url": "http://books.google.com/books/content?id=RfE6KIO6fNkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "edited": "True"
+    "edited": null
   },
   {
-    "id": 10951,
+    "id": 13785,
     "isbn": "9789500434614",
     "titulo": "Belgrano",
     "autor": "Miguel Angel de Marco",
     "editorial": "Emecé",
     "año": "2012",
     "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789500434614_1.jpg?id_com=1156",
-    "edited": "True"
+    "edited": null
   },
   {
     "id": 9090,
@@ -260,17 +250,17 @@
     "edited": null
   },
   {
-    "id": 10984,
+    "id": 13796,
     "isbn": "9789502407463",
     "titulo": "Ciencia con Todo",
     "autor": "Shar Levine, Leslie Johnstone",
     "editorial": "Albatros",
     "año": "1997",
     "portada_url": "http://books.google.com/books/content?id=VaakYmFv-dUC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "edited": "True"
+    "edited": null
   },
   {
-    "id": 10996,
+    "id": 13797,
     "isbn": "9789871387158",
     "titulo": "Claromecó Ayer y Hoy",
     "autor": "Federico Javier Blanco",
@@ -570,14 +560,14 @@
     "edited": null
   },
   {
-    "id": 10958,
+    "id": 13827,
     "isbn": "9789870714699",
     "titulo": "Crimen y castigo ",
     "autor": "Fiodor Dostoevski",
     "editorial": "Clarin",
     "año": "",
     "portada_url": "",
-    "edited": "True"
+    "edited": null
   },
   {
     "id": 185,
@@ -930,34 +920,34 @@
     "edited": null
   },
   {
-    "id": 10957,
+    "id": 13863,
     "isbn": "9789500752442",
     "titulo": "El amante japonés",
     "autor": "Isabel Allende",
     "editorial": "Sudamericana",
     "año": "2015",
     "portada_url": "",
-    "edited": "True"
+    "edited": null
   },
   {
-    "id": 10980,
+    "id": 13864,
     "isbn": "9789500837187",
     "titulo": "El arte de los Argentinos",
     "autor": "Ignacio Gutierrez Zaldivar",
     "editorial": "Gente",
     "año": "2009",
     "portada_url": "",
-    "edited": "True"
+    "edited": null
   },
   {
-    "id": 10982,
+    "id": 13865,
     "isbn": "9789500837163",
     "titulo": "El arte de los Argentinos",
     "autor": "Ignacio Gutierrez Zaldivar",
     "editorial": "Gente",
     "año": "2009",
     "portada_url": "",
-    "edited": "True"
+    "edited": null
   },
   {
     "id": 8694,
@@ -970,14 +960,14 @@
     "edited": null
   },
   {
-    "id": 10959,
+    "id": 13867,
     "isbn": "9789870714705",
     "titulo": "El corazón de las tinieblas",
     "autor": "Joseph Conrad",
     "editorial": "Clarin",
     "año": "",
     "portada_url": "",
-    "edited": "True"
+    "edited": null
   },
   {
     "id": 3104,
@@ -1010,14 +1000,14 @@
     "edited": null
   },
   {
-    "id": 10956,
+    "id": 13871,
     "isbn": "9789500746601",
     "titulo": "El juego de Ripper",
     "autor": "Isabel Allende",
     "editorial": "Desconocido",
     "año": "2014",
     "portada_url": "https://entelequia.com.ar/storage/product_arch/2021/01/IMG-20201230-WA0028-DESKTOP-EAEOSF4-DESKTOP-EAEOSF4-53.webp",
-    "edited": "True"
+    "edited": null
   },
   {
     "id": 2350,
@@ -1040,24 +1030,24 @@
     "edited": null
   },
   {
-    "id": 10966,
+    "id": 13874,
     "isbn": "9789505291618",
     "titulo": "El querido Pappo",
     "autor": "Maire Soula Febre",
     "editorial": "Artes Gráficas Integradas",
     "año": "",
     "portada_url": "",
-    "edited": "True"
+    "edited": null
   },
   {
-    "id": 10961,
+    "id": 13875,
     "isbn": "9789870714682",
     "titulo": "El retrato de Dorian Gray",
     "autor": "Oscar Wilde",
     "editorial": "Clarin",
     "año": "",
     "portada_url": "",
-    "edited": "True"
+    "edited": null
   },
   {
     "id": 8474,
@@ -1080,14 +1070,14 @@
     "edited": null
   },
   {
-    "id": 10983,
+    "id": 13878,
     "isbn": "9789871683222",
     "titulo": "Escenarios lúdicos y de aprendizaje",
     "autor": "María Fernandez Méndez",
     "editorial": "Puerto Creativo ",
     "año": "",
     "portada_url": "",
-    "edited": "True"
+    "edited": null
   },
   {
     "id": 2827,
@@ -1220,14 +1210,14 @@
     "edited": null
   },
   {
-    "id": 10974,
+    "id": 13892,
     "isbn": "9789870305941",
     "titulo": "Guía Teórico-Práctiva de Cálculo Financiero",
     "autor": "Silvia Ail",
     "editorial": "La Ley",
     "año": "",
     "portada_url": "",
-    "edited": "True"
+    "edited": null
   },
   {
     "id": 2568,
@@ -1330,14 +1320,14 @@
     "edited": null
   },
   {
-    "id": 10975,
+    "id": 13903,
     "isbn": "9789870291596",
     "titulo": "Hijos de la guerra civil",
     "autor": "José Luis Pubul Martín",
     "editorial": "Dunken",
     "año": "2016",
     "portada_url": "",
-    "edited": "True"
+    "edited": null
   },
   {
     "id": 103,
@@ -1410,14 +1400,14 @@
     "edited": null
   },
   {
-    "id": 10967,
+    "id": 13911,
     "isbn": "9789875437678",
     "titulo": "Hórreo",
     "autor": "Amalia Odino Carballada",
     "editorial": "Martin",
     "año": "",
     "portada_url": "",
-    "edited": "True"
+    "edited": null
   },
   {
     "id": 192,
@@ -1450,14 +1440,14 @@
     "edited": null
   },
   {
-    "id": 10955,
+    "id": 13915,
     "isbn": "9789500756419",
     "titulo": "La comida en la historia argentina",
     "autor": "Daniel Balmaceda",
     "editorial": "Desconocido",
     "año": "2016",
     "portada_url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExMVFRUWFxYYGRgYFxgVGBcXGBUaFxgVFRUYHSggGB0lHxcWIjEhJikrLi4uGh8zODMtNygtLisBCgoKDg0OGhAQGy0lICUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAREAuAMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAEAAIDBQYHAQj/xABCEAABAwIEAwUECAMHBQEBAAABAgMRAAQFEiExQVFxBhMiYYEykaGxBxQjQlLB0fBy4fEkMzRigqKyFUNzksKzFv/EABkBAAMBAQEAAAAAAAAAAAAAAAABAgMEBf/EACMRAQEAAgIDAAICAwAAAAAAAAABAhEhMQMSQRNhInEyUcH/2gAMAwEAAhEDEQA/ACqVKlVOMqVKlQCpUqVAKlSpUAqVKlQCpUqVAKlSpUAqVKlQCpUqVAKlSpUAqVKlQCpUqVAKlSpUBpmbG3/s6FNHM82CVhagQcgM5dqBwXD0KecS4MyGwqdSNQoJGx61bsWy1LslhJKUtDMeA8AiaDsi33d04tRCFu5QpOp9oq065hUbXpDh+GoN240tMpTngSRpIy6gzsagvsOS2wokeNL5Rmk6pySNNtdDVxlH1wrGzjGYe4D8qFxi4Dlk2vipac38QQpJP+0UbuxrhG9hrQumWwnwLQCoSdTC9ZmeAoLEls5u7bZyFLkFWdSpAJBEHadDVxcf423/APGn5LoHGhcKXLiTkS4QgwAIKtNRvoBRBQfaC2S2+pCBCQE6STuAdzTuztqhx3KtOZOVRiSNRHKje09i4XluZDkhPi4bAfOo+yift/8AQr5inv8AiWv5IsStmiw2+2gt5lFJSVFQO+oJ6fGp77DG02qVgfaANqUZOy5A0mP6VPirbjlu2XhDveZU8CUkcUj0+FH3qW1fWG0lRWGgMseEBsSmDzlQpbPTPYlaoSzbrSIUsKKjJ1jLGh23O1EnDkGyDoT9pqZk6gOZTpMbEVNfWTjlvbZElUJVMcJyx8jRmEEZLZJ2WH0n/wB83/zT3wNcq3tFhzbSGsiYUcwUZJkgDmec07tDhjbTaCgQQrIvUmVFAUNzp/Oibj7YWx3zvOn07yflT8VKHGbnIpSlJcStUjQHRHh5iEmlsWRCmytkd204mC43nLpXlykjYDbn8N6Ewy3aDDrrjfeFCwBCinQwOHWasbvDS+tg6hvuRKxECAT+lQYEpwWzxZ1XnTl0BnadDptNHwa5DYSyy6859lCA2VBGZWhGUe1vz99RYnbN9y2+2koCyUlJUVQROoJ6GjcDbc+sPd4CFqaWSIiSpSeAptzaqFtbMrGVanT4TvBJE/7hT+jXBuK4Y2i3QpIhY7vOZJ9pM7EwNYqhrYYmW1pukpUoqCUqII0T3f4fdWPp4lkVKlSqknRXkVNlrwpoBG4XGXOvLERmMRyiYimZzGWTlmYkxPONpr3LTmmwVAEwCQCeQnU0gMw2xuHj9nnMeHMVFIA/DmJ+ArzE8OcYIacUNQF5UqJAmRJBA10NbBhqb5DSRDTDWZKRtKhGbzPi38j51S40yq4vFpQJMhI8gkQSTwEzQu46iiDipCsypGgMmQOQPCpVOrUIUtRHmon5mr1nsyVLLYebK0iVAZjHwqqvLbu1qRIOUxI5jehFliFT6yIK1kcioke6aa2SkykkHmCR8qNs7ArQt1SkttNglbizCUgCT1gVmcSxZal2yLHu7n60XA2fEhQU2YUFtLAKBuZOkAnhRuKmGV6XSlqJBKiSNiSSR0NehapJzKk7mTJ6njVXiGCXoUpgYhbm7Q0XjbNtKkpSASO+Ok6iAQJkcNaD7FYff39u5cpum20NrKftEAhWVCVlUiAB4gPQ0tq/Dk0KXlgQFrAHAKIHzpoUrTxHSY1Ok7xyqsewPElWqbpu6tHUbq7laciUgwpReV4SE65tREHeKIxW2u7eyTdzb3LehUppalABRACkmAFpkwSIjluQbg/FksrOxfcEtBZDeuhjLO+XXc8hQfiEwo+LfU69edXPY7EHVWK7tKkNtnPIWJ1bJSVJM6agjXlUWGYWt+SkgJT7S1Hwjjvx5003GzUV9qw+sFDYcUnilOYp15gaa60OHFoJSFKTBMgKI1GmsGt72dtksMuuBaVjUymYhCdtfOax9lhbj68qBJ3JOgHmTQLNaAfWVzmzrzRE5jMcpmaap5ROYqUVDjJn371obXsmXCoIfaVk0VGYweW3kazzqIURMwSJ5wd6CssIPKknMqTuZMmd5PGmV7FKKZPKVexSoA/u6aW6PDegphapAAUUg3RhaqRtigNB2IYCUuuHbQeiQVH5ipey4hL75HiJPyKz75HupmF3raWSyrMnNmlQg+1pt0iibVh23ByJD7atdDB25a8OtJrPiHsinR51R3Ik9JUo/EVzfH+0yBnyKzLUSSfupkydeJ14Vou0XbtdirujbJIWkkIVLYA2008YOs1x68vi6pSoSnMScqRlSJMwlI2SOAotXjhLJt1T6QHCzgNqhH/eUxnI0nMhT6p6qSKrfoFwqX7i5KTCG0tpVHhlapWAeJAQnoFedBYZ2+e+o/V3LFq8ZZCEFTk5UjZoOJKVAnSBt7PU0HhH0iXbFz3gQ2tJSG02zYLTSRmlIZCQcqpnXWZI1gRLVb/R9jaxiGKXSoLfduuuqUNU5XD3LaTwkZhHHuxyq+vbxTXZlS1pQhb7RGVptLSEpuXMqUobTAADax56Gax3aXtPdXil2bFkm2KlKU602JcccQCol1WVMxlmImRuaix7tc9f2bVmi07ttoIVLbhcJQ02UiU5BCQCCTwgUBq2h9U7Kn8T7R6n605p7kL+FO7TNm07MtMgQtxDKSBwLiu/d/8Ausj2s7ZuXlo1aC37lDSkGUuFeYIQUJSRkTprPoKLxL6QbsWbLD1myVZEKaecGeQmUJeS0oZc+h1mJ1iDFAaHthNn2bYY9lbqbdB/iUe/dH+1Yoi9xBdh2ftVJErdDObMTMugvKEnyBT0rIv/AErvOWyWHbdhx1GWHXE954k6Bzulad5H3piZ0jSvB9J7jloLa4tGbopAhx8lQJHsqcay+IjyUmaBp09u/DeEsrchsvob0JjV7x5esE0Xg7ZasnXAIUoKIPlGVJ6bn1rkqvpXuFWwt3ra2eWIAdWkKTI9lZYjLmHMECdY4Ud2C+kp5J+q3SfrAdWcq1HxBSz7BAEKSTsBETG0APaLh9dM7Op7mzdc4nOR/pTAHvBrDqbrZJxdxLZSppGVWYJBEJEaFOXiBWbdYqnPlZqSK7LSy0SpqvO7oSHy0qI7uvKAvUo0HQV4W6IQnQdBSKKDDBqiGmae23RjbVA0F7qqHtD21XYFKGglaj4lJVOUA6DYggmtWUVwrtbiHf3DyxsVEJ/hT4R8p9aVaeLHkez2hTfYo1cX/dhqCMpnuglCFltCp+6VkEk6HMZ02t8Ku7CEF36opTi7hbkttqADdr3TbZWGxkzuS5mSEgqByyIJ520iYET8KJRMQECpdLYdkHrX6qyzcOtISq9C30qKknukMZUBWhlJWTKiQANJmiPr9mbvDpVbJSgBx9bQShCXUuKcKFZUpBAyISnnI5zWGas1L6eQ/cVKtvKAk7DgPz66UBvW76zeUl9Tluhblm+VEt+IXLrp8TiUpylbaFmPvK896JevrNLbvdPtNrNmGMsBQyG4OZZUjMFvdzGYDNJ4mucBa1CBtyA/c14izcP3Y66UB0HEsSs203RaFotaEOptwkBSSlxTSGgQoZVrSG3VqJCiM++pFNunsPW+pZcsgAixQgFACO7Lma7WGyjJ3ntJCdSkGdNxhmczZ8Q/Qg8DUV60CrTQH9YP5UBpMHFkq6vHHTbNg3LQZC0pLQtzcnviy2UlKj3SUpBjQKJEb1dIXZF9lsIsXUvPX61nukLQjWLNgKKJbHhTtpqd801zZpRBgkeu1H2F8W3EqTKIgyP3AoDfYxZWtslSViy+soYs0KSUNoTmJU5cOEBqDnzISQBmyggZc00rK+wtNyhSXLNAt7tGReVKFrabsIz94lMrC3zqVGBlneJwd4tS3llxalqWSrOo5iSfxHiNI6R6VblspK8pHSgO+9mMVZet2z3zLrwYHeZR/wB1S/GrKpI28xtFXWRkKKvs4KlGCARAR4QARoCddK4H2PxH6vcNqnQkA/wnQ/Ou5d3Iqpy5s/41SOM1F3VWrzNDlumyBd1So3u68oA5saDoPlToprZ0HQfKnig0rKaNQmhrejQKFQBjV2hllbjhhIBHmSdAAOc18736tVcDP5nT5V2D6TbxORpmdSrMegBA+JrmthhhuLkJiQNT0nT5n3VOVdHixBWGGOrEpA9avWezN4R4UI95H5V0fCsHSiABwFXqLasveur8WMnLldt2JvF/3jiUDykn0ECryx7BMo9qVnjP6Vv+4FODY4a0bpSYz4yh7ONhMJSB6VW3ODwK3a2jymqa+bABmprXHVc2xm00IS2SfSPnWYdaWFeMRI01AjrXS79gHas5iNileigDFXjkx8mGmVdUCvMOQPU8T14+lPNuVyWxGhPIE+U7HyqLE7MpUSOdF2KVEBKiZMx+Wnp8KtkqnLgnXiD+xRN1cBYChuBBqC9a8Znnr151CEwTrpBH7+FIJQYIUNoiOoMR0NfQHZV/vLRlZ3yAHqnw/lXz5bt5hl2kgA+ZmK7x9HzwVaJAEFKiCOROp+dPFl5ItrhuhCirK4TQKhVueostKpKVAeN7DoKeKa2nQdB8qeE1Oz0JtqNoW1TRkU1Ryb6QXc105JgJGUde7Sr/AOqh+jzClKcU6VHKkkBP8vWhPpJuP7W7lEjMARtqEBJPwq++iazBZW6SZUSnU8AajPp1+L43lo3R3dwKHtlgTT37oRvArKN8t2nBP72p4VwEVAh46QD1NMW9qYn0FVuF61ItehmZ+Hz61UXxOpFHvAyN9vn5Cq3FrhLScziwkfH0FTWmOop75rlWffTqTSv+0xUqGUqUOhM+eg2oRu/KzlUgpPwP6VUxrPPyS9KzFm0kEH5VSW74TGpJ9wjjrxNaa4bmR5VnVtZVeJPGNDodekirjCo1NzroZJJHLQmflVYpPKdzVliScgSQRJBkfH8x8aBs4za7fqD/ACoA/CWQpQJ0GZJnzTqfnFdn+j0DuDHEpP8AsG/nvXH8PbG/tAFKuUKkE/Dh512X6O2lC38QicpHIgpGo6mac7Z5r64FALqzfTQCk1TCxDXlS5K9o2Wjm2tB0Hyp6WqKbT4R0Hyp6U1yTyx0ejy2bovu6TKaIy1pj5Nj0cB7aNf2i54kOn3b/nWq+ipwC0UJ2Wr461nPpDaKby4AkHMFe9IoXs5duG2LaFRmeOY+WRJG3rWl5jXG6dbZIJ3HqaMS0lW8CPdXOf8A+XuVJzJe1/zKy/CaiavL21PiWFjkTnFZ+ra5366YhogwOszw61G4sZYBBOnlVb2dxfvwDASQCIBkfHbfahsVbKAvoSNxHSaLwuc8pO0PaFLA8JleXbSBpFYJNrcXqu8eWG29gpZgHySONH2VmlSS45KiDt8gOvOrV/AlG2cuFZgrL4UJmEJmNfvSBrGnrVY3dZZy62hRaW7SMiVg+YA1POZqrvbALEpOo21qhucPJuShp51aMwyqVAKhAJUUawJnfWIq2wxC25zqzCY8qdR2HUhUkHU/Os7iSlpMj2TPDUVtbpATB48+BEVn8ZCQOGtOFWZWtROYbDSf61Anc8/LaaIbbIClHQDgeJnaKisU5lSedBLhS8jaUp33PlOproP0RXys7rKiSFJ7weSgQlXvBHuFc/tkDU8a6B9EzH9qX5Mq/wCaKZXp0Z9NALTV28xQarWpuTK4q6KVHi1pUexep7SAUp6D5U8NVkrfGFAATVnb44I1rzcvD5I6pY0DYipQqs25jE7U5u8POrwwynYrEfS/YQ+h5Oy28p/iTsfcR7qqfotZSpTzSwDHduJ6glKj/uRW97SWguGSk7jUdaxPZhv6vfNCMqXAppX+seH1zBFd2Flmk9NDYsKubtdstwttN7wIU4Z2STwHP3c6y2J4WtC1Nlp7vg6rxZlKT3MeEIEc9cxPDzNbG7ss7xVJSsga+Y0Ioi2wxajquR61My+SN74982oMAYCQCnQ5UzrpmjU6axJO9Ox56SEniIo9u2SlUJ15k8T5RVb2gQAUkcDU1rJwFt0oR4SDBMhQMQRqmrezZfIIQpUSSfEDJOs69aht2kqGwMiibN5SJSSdPf5daePCbOFfdYIobwid4/lAqvcw8SEpByjSfPjWpFsXfv6cedQ3zaUiOWtXUyTph8VbKdOVZrE0ZkkVrcbO/nWcfa1FPFj5Jqsmm3UVFJ2EnXaIr2xEqgacf5U+9ABPCvcKRqTVIWjOg6V1P6J2xmeMa5Ee4k/oK5gymT5b/wAq6h9FbZzvq/ytj3lR/KlSdCXUCqmUajNY55HpETSqTKKVRujTl6XNK9DtBh+pUPCuqxEo1l+j0XFVIWKnadqLira0Q/WT7ULKHUOACUrQsc5QoK/KtCh2qjtOxmaKuXypYzVPbaKyqURpkMKSryUAQRTkWpiMxjlVH2Sv+8s2gfbbJaPkE6pB/wBJSPSrsXNTnNV0+O24mwAschp7xVfjjJ4iKOdVqngJGvwGtSdpbT7PMFSeO23OnrhcurIzmD3aQfFpHHyrRuW+aFpOse8VjWm0lRlQAg8avOyj5WVtAyE6g8vKaWJXc5WwBSD5/Cq15yc2m3rV2g7pUNf3rVJi7cSf37qqnhzWfxNOaSOFZq/EfGtIFTmrL42uAT+4PEfviKMGXmZa+Op5/PzqTCePpQbyiTO/51e9kWAc5UAQE8ddyB+daML0sbFnidq6r9GFtFsp7g6slJ5oR4QehIUR5GuP4lZuLuhatmAtSQkTwUkHU7nc13vCWEsMNso9ltCUj0FZ+TLQnKxdXUHe0Lc3FBKuqy3s1x3opVTi7pUyc3XSSuo1mmg12MoMQ5RDblCIRT0Glo9rBDlOuxmbUPKggupEPVNxGzvo+XDzjKjo7qOPjSCf+JVNavuylSkneueqcLN2hxOhlKhJ00MmeutdHvrpKlIcTqlaAoHmCAQfcRUZzh0+HLV0hVcO6hsgK03EjTgRVLjjl1ljJIPBEkDy6Vd4eoyoqEFQzAeR2+FWbzrKQErVBO0SffGwqJ1y0t54jmVn2acWe8fRlE6CZP8AKtdhVsGwA2MoG8Tr1orFcTbSA2gZ9ZJMjSBG41NVB7RIk+EyD/F12otOYXW11dvEfv5Ggrp3Oj9+6pkXiXmzAVI5pUNPKRVS+koSdeY9Yo2IoL94pCorG4jd5pBmfh+/1rUYgM01lMRagxxq8enPneVWUTtWiwgd2wo8VrSkdB4j+VU7DBKtt6t7xcFKBsjfqd6pLV2WDqN41eApyhvb72bLlGnKDWybxIisdgeKApQ3BJgkkbJEgDNymTHQ1bLuQNzSuMqN6XjmIA0ObgHjVGbsExS701P41e68LlKqlN5Ar2j0P2jOJc1qcVXpe1PU0QlzSttstC0uRUyDVcaLZc0oCcqFOkVVu3BzUUy7NOUWPMTbCkzE5TPpxrQdlb0PWykGc1uYk7ltUkGfIhQ9BVOhQFTYAsMvhQPhXKFz+FUQfQwfSpyx2rDPTVvMLLYyq8ZjKfhrFS2uCIkl51alcVTl2GwA1+NNYzZwk6ZT8BtUt0/wG/GsZ+3ZLeoEu27NKtG1OKH4gSNPNVVmKYvrlbSEj+VW7OHBXCSPkaAXhqQonjz5GlbWk5+m2D2VPiOpoLFbsFB141NeIyaHlWaxO6iQSKnssrIHKpNUV6zKiZ0o368IJqluronatpw5LyJaeSjXjw686dY2i3lwnSd1nUJ/U+XvplrYgQp5WQHZP3z0A1FXa7TvAkAd02kHTZRHGeQo2QIXCIQhrMEpUVKUYlatgokeU1dh4rg86q0WzC8yWlkRvqY6wrdM8RTsJfKM7at0n+vpsfWqhVZB2DRjTsiqlbtSsvRRLpFmxzz8V7VW+9NKnsaALOp6n50TbroVZ1PU/OnoNJSySZpy1wKgtzTnqdqPqEnjU9suglmpG3YFJY3v9alD1Vfe1K0qaqVNxdAsr8LQlWoIHH7yQcp14lOx4+yfvCjkXCQrUVmrDDUtgDvvtnEIdUzok5IVkU2sj2xJJGxBIIgzUb2NSDmBBQcpMHQj8Y1KPiNiDWWeva6dHjy1OW5t30lWlVmMvpBUdB+zwrMW/aZIiHE+ih+tVGM9owonWp5rT2xl3tYYpfzpM1j8YvdTH9aHvcYniP30pi2SMhjvHFz4T7IAjWAfmaeOOmeefsiQhSxySNSdkjzJoq3eabGYIU6r8UEIHQmi3GxlHfERMBKZCc3kkSVn3+lB4vcuAZQ2ptG0nQnTbTQCOFV2zWGDfaqLqokkhPJAHKpiouOLC/7tByBM6KM+0rn8qbgqcrSRxVr0G5NAtXmRxZI8ClKI1SFQTuEk+s0BO/b5XGltgJOYJIGxBmdOgM1C9c/bqPCQk+gAPxpO4gQoKgZUhWUE6lREZjHIGqts1UKtDmpwXQts7KQamIoJKulXiDSpbIMoanqfnUiCBTyzqepp31el7B4h+l3hJgAk+WtOTbVdWlhkYCo8ThOv+UaD45vhSyzki/Hh7ZaUC5G4I614TVzc24yGdf1oZOFq/CR10+dKeSfV+TxXG8K4JqVn2hWhbwRltHePLWqATkaSZ011UoT7knrUL7ls5aF1hrJDgSSqSr2SY1J5inj5J7T+0XGycr3EH0d2lciXHLWDyUUM5Eg8IAmOvOshitvnvHSEIUkpSfFoQSNAkgGDoR6UPZYqUqSImNCqVaIG0kGIBy7yABtRd0+palONFBKkiRObKvXinh4tjyFFllOXcVVwwk5SdArwkK8UEyBrzkbztWXWkjcmtDiqlIS0ImMpJ3BUkbepzVUYon7Vz+NXxM/nThB7a3zrSn8RA/WtKkoK1rROmVEzIkb5fLUeoNVeBNgFbitkJJ9Tp796fgjhkog66iJOUjn5cKAtpSbiPvBtIRxglJMj3j4VHjJlBRupaoSnjuIMHUACda8xCxSVh5a8iQkDeJUnaFb7RtrUT94ltOZpvMDoHDtPH/MfWKQHOPJbGUaqIA02CR57Db3VQOX6s5yEhM8NJ8zxJ60ew046AtZlJTOXRKT41iFRrkGQqPu40Jd3afZCc0aSqUjT8LaSAkddaqAMVEmTTk0yakbE6DeqIdhrsKg7GrR1fKh2mG7YBy4hSz7Le/qfP4UfY31q6DILWsTsJ6SR6TNRc4PUGCaVWd1YFGuhSdlDY/ofKlR7ypBqc1PU05Llab6nhGZSfrLy1IkqgpygAwo5g3EDrVhgrOGuLU2yl8rABJJeSkpKQoEqTlBBBEDjWNy/S5hWYwi0LziUahJPiVEhKeJ68q2OL27SylKSUoQkJA4mBFDYqSjQAiOFUxxMaiazuVrrw8XpysVuttapTrzOp9/Cq7ELoq/fx/fnQFziQjWgLi7WuMo05nSlI12t2sTnQyTVY40pi1cSspSVvZ0pB12gj98qdZshOqjKvKRHTWvXXTJOZf8A7K+U1pjlqsfJhclRhTxDgTkkKmTBkQCdFcBzHEEg1NaYWColSFRmUrQEGMxCBI12BPqmpn1kkHOvQ6jOqD5ETUFxeZMoBStRASATrOuVfxMz5cq23bzHPcfUWbZeRQKVuKCl5ZSSTlhTesSTOx41sLH6KmlrU7dOOFS4PdtlKEo0GilkEqVPKB1rnuIXXdthsKlfEg66nMTPDgB5CrjEu1Fw222tl5akqlJBcWcpgRBzacdPKpu/hN059G9gELbR3qcwEq7zMZGxgiNDrWKxDBDZJcSCFZEKUFx7atgSnhEjT51K+q/7sOo791cJlADzsKO4hJgR5+dEYfhtxdnIph0d6nKe8QtoIiCSFKTGhE6TrwNKe29/D4V1jZJ7tKlgOrPiKlDN96CBOgjTT9KF+qJDq2YBaUjvCOCFZsspPAK3EeXnXTOz3YZm2TDq1XJ0kKCUtp5QnckDmfSj8X7J2zyVFpIZdV99I+8kQnOiRmAnaR5Gj21byHGW3VNtxsloKEn76u8WUpA81FJPkg7DfP0fj2GvWz62HvbQd5JCgRIUnyIg/wBKrimtpEve8rS9mrZGUughTmojgjyA5+dZdVPtLtbSsyD1HAjkaWU3BFw5hji3Sp4kg/e14zAGmkGNDpRbDC2QUlKXWjM5QMwEakj725G/6Ubh2KJdT4TCuKeI/WormxdCitlYg7oI0njA+7PlFZ7+UxVneLQSpsl1tQhTZjQyITrxg7HluKVApeGbxjunPxCMp4ASZkbaaGlU3CVW01vdtNXylBSAEqCUZBI1TCjnBAA1VJMneeddO7OOpU0HUnMFiQQCNAcoKQek+6s7/wBBt3HkqU2VqnckH1UIhUb6ztWxQpKEgQEpGwHIbQKXvMorHHV2qO0fszuTzEf0rC3NuoEBOqlHQfma2faK7SRpv854eZobC8OIGdXtn4D8IqL26Z0Ewrs222kLcHeObkHbeISNv2JrzFrNBEpABHCII8iOFXq0ECJ6Tw6VT4k5wJlR0HM+QFVROGQdXBMmAONCLvZ9kE+mnvNaR/s2oiVaqOscE/qdRrVHdW5bMHSnjIjPd5gJS1n7sdTXrlkp5OXMhGXmCSr1A0AqQu03vCNeVaRjlyarDkKaMpCVpK0EiQMyEhQUOYUCPfXR+wXYFkMNvXMPLVC0tmS0gkT4kzC1DbXTroawmIXQSyVEFJKVQDvmVomRwOUAmtN2Nx5LCWrZbiwopHiCvYJjI2qZGusA7CNqLbpnI6xmjjAHAAAD9KifugONZ13EXRP2gP8AEnX1KSKr3u0Ck+0Gz0zD9a57nVzBrLx9IEg7edU13iuXRGunhO4HFMDiCNPSqB3tOojZvX+I0C9isoGbLlTrtt56k1nZu8LmOld9J9ul5tq7ChmTDKh+IGVoUDxI8Wnn5VzoitTj9rdXCs0haB7CEqgJHQ8TxP8ASs5c2q0e2hSeoI+Nd3jmsdVjl2HIqMink14apJiFFJkEgjiKvLHtERo4OHtDf1qkNOt2CtSUDdRj+dKw25tbtLqZHiB4wPjwNKmsIS0gIRtMcCSTuTtJpVjtTXdlVti6ggDvQtCDA9pIBO3HwuDffrWjxBshCtdeHI/vpWE7MPxfIBOiEKIMgxljMojgZ5/h866Piv2luHJ1AIMc0khUeoNTJxppMuWZt7MEhbhlQ25D986NCwfIcKrWbwHfp6Ux+7CRHtHgEiZ8p2FEdFh2P4yllMJlbitEpGpJNeYTYLS33jpBeVqf8o/CnpxPH3Q7CsJlzvXPb4D8I5Dzo6/GXjTQrV3JB1OvDl7uX704ZjtIse0dB++NWeLYklIkmAPj5CsZe3Knlgq0TOg5dfOnJsZZamkS350R7/0pzAIMmSakQzlNFts+JIUPaC48ilOcSORE1owv7VtwlTj7aVapJTA8t1T56GaKUvvrl1ppoud6QkBO5KRvJ0AmdeGh4VHh1v8A21KASEg6a7BSZj/dWy7FWn1VROXMYc8USQNchJ4aD4mlcpO0zlch/u2kIeXmdCUhcBRBUBBOYgTQDz6dR3aZ8zQd++4okhPHnQdwHCSY0gceQ/rWdxxdMmjf+oJzEZE6eQ4Hl76mOLhOyEj/AEifLWKpvqyyowAdefT9+tSGzc45fef0qfWQbWdxijigSVbfr/WqNzGXNp/OrI2iimMw9069aoLiyUhUSk+8frVyROVon/qTm0iD5CoHGW3PaGU80wD6jY1ArOPuz0IpzZPERVa/0z3vtVXTORRTM8jzFXHZ23KQp3irwI9+p8v61V4kqVeg/OtRbIyobH4UAepAJ36mqyvDP6c2fHE6JEeqtTp7vfXtMYclKlcJV6cPy+NKs9Gfgv8AiVf+J7/ga61b/wCAX/E7/wDoqvKVXf8Ah49z+2Rtf7w/vhR1p7R/fGlSrHF2ZLey/fvqqxjj60qVUznbA9o90dT8qr3NhSpVePTO90Vbe031Hzqwd4dFf8BXtKi9oqswb/HK6K/4VuLT/DL/AIx/xNe0qnP/ACg8fYDCt19KkuvYV0PyNeUqd6bfVQx7R/fGn3FKlUKesbe6qrGN6VKnE5dAKYqlSrRgrr/2h0/M1o8D/wAO3/G5SpU8+k/Xth/co6j5ilSpVnTf/9k=",
-    "edited": "True"
+    "edited": null
   },
   {
     "id": 194,
@@ -1480,14 +1470,14 @@
     "edited": null
   },
   {
-    "id": 10960,
+    "id": 13918,
     "isbn": "9789870714675",
     "titulo": "La metamorfosis",
     "autor": "Franz Kafka",
     "editorial": "Clarin",
     "año": "",
     "portada_url": "",
-    "edited": "True"
+    "edited": null
   },
   {
     "id": 434,
@@ -1760,14 +1750,14 @@
     "edited": null
   },
   {
-    "id": 10963,
+    "id": 13946,
     "isbn": "9789870310396",
     "titulo": "Manual de finanzas públicas",
     "autor": "Luis Omar Fernández, Hernán Miguel D'Agostino",
     "editorial": "La Ley",
     "año": "2007",
     "portada_url": "",
-    "edited": "True"
+    "edited": null
   },
   {
     "id": 205,
@@ -2040,14 +2030,14 @@
     "edited": null
   },
   {
-    "id": 10224,
+    "id": 13974,
     "isbn": "9789871337705",
     "titulo": "Mi perro Lucas",
     "autor": "Rodolfo Javier Garrido",
     "editorial": "La Brujita de Papel",
     "año": "2015",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9871337705_9789871337705_2022-11-08_11_12_58.jpg",
-    "edited": "True"
+    "edited": null
   },
   {
     "id": 4779,
@@ -2110,24 +2100,24 @@
     "edited": null
   },
   {
-    "id": 10990,
+    "id": 13981,
     "isbn": "9789504985372",
     "titulo": "Padre Mugica",
     "autor": "Ceferino Reato",
     "editorial": "Desconocido",
     "año": "2024",
     "portada_url": "",
-    "edited": "True"
+    "edited": null
   },
   {
-    "id": 10962,
+    "id": 13982,
     "isbn": "9789871690893",
     "titulo": "Pappo",
     "autor": "Rolling Stone",
     "editorial": "Rolling Stone",
     "año": "",
     "portada_url": "",
-    "edited": "True"
+    "edited": null
   },
   {
     "id": 9266,
@@ -2240,14 +2230,14 @@
     "edited": null
   },
   {
-    "id": 10952,
+    "id": 13994,
     "isbn": "9789500440110",
     "titulo": "Quiroga",
     "autor": "Miguel Angel de Marco",
     "editorial": "Emecé",
     "año": "2020",
     "portada_url": "https://http2.mlstatic.com/D_NQ_NP_836311-MLA40974668940_032020-O.webp",
-    "edited": "True"
+    "edited": null
   },
   {
     "id": 8803,
@@ -2300,14 +2290,14 @@
     "edited": null
   },
   {
-    "id": 10953,
+    "id": 14000,
     "isbn": "9789500438339",
     "titulo": "Sarmiento",
     "autor": "Miguel Angel de Marco",
     "editorial": "Emecé",
     "año": "2016",
     "portada_url": "https://proassets.planetadelibros.com.ar/usuaris/libros/fotos/223/original/portada_sarmiento_miguel-angel-de-marco_201608291401.jpg",
-    "edited": "True"
+    "edited": null
   },
   {
     "id": 3413,
@@ -2600,14 +2590,14 @@
     "edited": null
   },
   {
-    "id": 10979,
+    "id": 14030,
     "isbn": "9789870407959",
     "titulo": "Y el fútbol contó un cuento",
     "autor": "",
     "editorial": "Alfaguara",
     "año": "2007",
     "portada_url": "",
-    "edited": "True"
+    "edited": null
   },
   {
     "id": 279,
@@ -2680,13 +2670,13 @@
     "edited": null
   },
   {
-    "id": 10992,
+    "id": 14038,
     "isbn": "9789509122437",
     "titulo": "Ética para Amador",
     "autor": "Fernando Savater",
     "editorial": "Ariel",
     "año": "2009",
     "portada_url": "",
-    "edited": "True"
+    "edited": null
   }
 ]
