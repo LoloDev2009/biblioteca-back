@@ -37,12 +37,13 @@ async function hacerBackup() {
 
     // Guardar en la base de datos local
     const stmt = db.prepare(`INSERT OR IGNORE INTO libros
-      (isbn, titulo, autor, editorial, año, portada_url)
-      VALUES (?, ?, ?, ?, ?, ?)`);
+      (isbn, titulo, autor, editorial, año, portada_url, edited)
+      VALUES (?, ?, ?, ?, ?, ?,?)`);
 
     libros.forEach(libro => {
       if (libro.edited == "True"){
-        db.run(`DELETE FROM libros WHERE isbn = ?`,(libro.isbn))
+        db.run(`DELETE FROM libros WHERE isbn = ?`,(libro.isbn));
+        console.log(libro.titulo)
       }
       stmt.run(
         libro.isbn,
@@ -53,7 +54,7 @@ async function hacerBackup() {
         libro.portada_url,
         null
       );
-      console.log(libro.titulo)
+      
     });
 
     stmt.finalize();
