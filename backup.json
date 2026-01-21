@@ -1,15 +1,5 @@
 [
   {
-    "id": 14309,
-    "isbn": "9199124411821",
-    "titulo": "",
-    "autor": "",
-    "editorial": "",
-    "año": "",
-    "portada_url": "",
-    "edited": null
-  },
-  {
     "id": 8389,
     "isbn": "9789875040946",
     "titulo": "Amadeo y su sombrero",
@@ -770,34 +760,34 @@
     "edited": null
   },
   {
-    "id": 14311,
+    "id": 15466,
     "isbn": "9789878120256",
     "titulo": "Diario de Greg 16: EL NÚMERO 1",
     "autor": "Jeff Kinney",
     "editorial": "Molino",
     "año": "",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhoaN0BK45SBtL2qAtoqsmL8xVIGKl46EiBQ&s",
-    "edited": "True"
+    "edited": null
   },
   {
-    "id": 14312,
+    "id": 15467,
     "isbn": "9789878121185",
     "titulo": "Diario de Greg 18: Descerebrados",
     "autor": "Jeff Kinney",
     "editorial": "Molino",
     "año": "2025",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0e131FXVqyVjKDeQQVAevb5VjkS7XrMIe7g&s",
-    "edited": "True"
+    "edited": null
   },
   {
-    "id": 14313,
+    "id": 15468,
     "isbn": "9789878121307",
     "titulo": "Diario de Greg 19: En su salsa ",
     "autor": "Jeff Kinney",
     "editorial": "Molino",
     "año": "2025",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2025/02/9878121307.jpg",
-    "edited": "True"
+    "edited": null
   },
   {
     "id": 46,
@@ -950,14 +940,14 @@
     "edited": null
   },
   {
-    "id": 14310,
+    "id": 15484,
     "isbn": "9789874831330",
     "titulo": "El Ultimo Graduado",
     "autor": "Naomi Novik",
     "editorial": "Umbriel",
     "año": "2022",
     "portada_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/0b/b8/0bb89f1b8df3b338eb0c0e127d5be14a.jpg",
-    "edited": "True"
+    "edited": null
   },
   {
     "id": 13863,
@@ -1700,6 +1690,16 @@
     "edited": null
   },
   {
+    "id": 15663,
+    "isbn": "9789878945538",
+    "titulo": "Los enclaves dorados",
+    "autor": "Naomi Novik",
+    "editorial": "Umbriel",
+    "año": "2023",
+    "portada_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/25/c4/25c49b3e0c4c3cc2cfe5eb1ade8a4d53.jpg",
+    "edited": null
+  },
+  {
     "id": 7,
     "isbn": "9788415709794",
     "titulo": "Los Últimos Frikis del Mundo",
@@ -2067,6 +2067,16 @@
     "editorial": "Primera sudamericana",
     "año": "2024",
     "portada_url": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/722795-7baa9a5e719ee5792317298672379469-1024-1024.jpg",
+    "edited": null
+  },
+  {
+    "id": 15662,
+    "isbn": "9789506444945",
+    "titulo": "Mentes Peligrosas",
+    "autor": "Gwenda Bond",
+    "editorial": "Penguin Libros",
+    "año": "2019",
+    "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/14/13/1413ecca424e4b44f109b42a09fe85a2.jpg",
     "edited": null
   },
   {
@@ -2470,7 +2480,7 @@
     "edited": null
   },
   {
-    "id": 14307,
+    "id": 14818,
     "isbn": "9788411322997",
     "titulo": "Una breve historia de casi todo",
     "autor": "Desconocido",
