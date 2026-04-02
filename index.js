@@ -74,7 +74,9 @@ app.post("/api/libro", async (req, res) => {
 
 //Delete Book by ISBN
 app.delete("/api/libro", async (req, res) => {
-  const { isbn } = req.body; //Get ISBN from request body
+  //Get ISBN from root query
+  const { isbn } = req.query;
+  //Delete book from DB
   db.run("DELETE FROM libros WHERE isbn = ?", [isbn], function(err) {
     if (err) {
       return res.status(500).json({ error: "Error al eliminar el libro" });
