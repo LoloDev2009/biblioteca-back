@@ -7,6 +7,7 @@
     "editorial": "Quipu",
     "año": "2013",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3b8AR4YON_aHjs2JAB1kikp_vN9vtBLTosg&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -17,6 +18,7 @@
     "editorial": "Primera Sudamericana",
     "año": "2007",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO-fvikEqYShCJPL0GvMraD_5-N6KoH7tRvQ&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -27,6 +29,7 @@
     "editorial": "Panini Comics",
     "año": "2021",
     "portada_url": "https://http2.mlstatic.com/D_NQ_NP_639370-MLA83999442646_052025-O.webp",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -37,6 +40,7 @@
     "editorial": "Panini Comics",
     "año": "2021",
     "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/b5/f5/b5f56ebf4505da5e1e5d95f6a0f74d35.jpg",
+    "estado": "Disponible",
     "edited": ""
   },
   {
@@ -47,6 +51,7 @@
     "editorial": "Desconocido",
     "año": "2001",
     "portada_url": "https://contentv2.tap-commerce.com/cover/large/9500825538_1.jpg?id_com=717",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -57,6 +62,7 @@
     "editorial": "Salamandra",
     "año": "Desconocido",
     "portada_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/10/3b/103ba9d8f74a302f92f6c67d75680413.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -67,6 +73,7 @@
     "editorial": "Salamandra Bolsillo",
     "año": "Desconocido",
     "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/3b/a2/3ba21bf22b2d06e6635322fd8df535ab.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -77,6 +84,7 @@
     "editorial": "Desconocido",
     "año": "Desconocido",
     "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/64/12/6412f80c9b873f59e39cd8cd19745901.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -87,6 +95,7 @@
     "editorial": "Desconocido",
     "año": "1994",
     "portada_url": "http://books.google.com/books/content?id=aKzPJgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -97,6 +106,7 @@
     "editorial": "El Barco De Vapor",
     "año": "Desconocido",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBa-1xvthZayvIXl9lEW5LKT5TUTxkTJc79Q&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -107,6 +117,7 @@
     "editorial": "V&R Ediciones",
     "año": "2021",
     "portada_url": "https://vreditoras.com.ar//uploads/libros/5cd161a0977de07d18d7b90f74a9df2bArchienemigos.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -117,6 +128,7 @@
     "editorial": "Quipu",
     "año": "2015",
     "portada_url": "https://http2.mlstatic.com/D_NQ_NP_899909-MLA93499532139_092025-O.webp",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -127,6 +139,7 @@
     "editorial": "Ediciones Colihue SRL",
     "año": "1995",
     "portada_url": "http://books.google.com/books/content?id=RfE6KIO6fNkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -137,6 +150,7 @@
     "editorial": "Emecé",
     "año": "2012",
     "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789500434614_1.jpg?id_com=1156",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -147,6 +161,7 @@
     "editorial": "Alfaguara",
     "año": "2001",
     "portada_url": "http://books.google.com/books/content?id=1bEJAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -157,6 +172,7 @@
     "editorial": "Alfaguara",
     "año": "2012",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -167,6 +183,7 @@
     "editorial": "Alfaguara",
     "año": "2015",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -177,6 +194,18 @@
     "editorial": "Atlantida",
     "año": "1985",
     "portada_url": "",
+    "estado": "Disponible",
+    "edited": null
+  },
+  {
+    "id": 15870,
+    "isbn": "9788419096029",
+    "titulo": "Blue Lock: 01",
+    "autor": "Muneyuki Kaneshiro",
+    "editorial": "Ivrea",
+    "año": null,
+    "portada_url": "",
+    "estado": null,
     "edited": null
   },
   {
@@ -187,6 +216,7 @@
     "editorial": "Desconocido",
     "año": "2017",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -197,6 +227,7 @@
     "editorial": "Edelvives",
     "año": "2018",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -207,6 +238,7 @@
     "editorial": "Alfaguara",
     "año": "2011",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -217,6 +249,7 @@
     "editorial": "Panini Comics",
     "año": "2024",
     "portada_url": "https://acdn-us.mitiendanube.com/stores/001/161/337/products/cci-448929786075785356-57d2d9276c645acc9d17290202906384-1024-1024.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -227,6 +260,7 @@
     "editorial": "Atlantida",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -237,6 +271,7 @@
     "editorial": "Alfaguara",
     "año": "2010",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -247,6 +282,7 @@
     "editorial": "Albatros",
     "año": "1997",
     "portada_url": "http://books.google.com/books/content?id=VaakYmFv-dUC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -257,6 +293,7 @@
     "editorial": "Tres Arroyos",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -267,6 +304,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -277,6 +315,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -287,6 +326,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -297,6 +337,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -307,6 +348,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -317,6 +359,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -327,6 +370,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -337,6 +381,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -347,6 +392,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -357,6 +403,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -367,6 +414,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -377,6 +425,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -387,6 +436,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -397,6 +447,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -407,6 +458,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -417,6 +469,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -427,6 +480,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -437,6 +491,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -447,6 +502,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -457,6 +513,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -467,6 +524,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -477,6 +535,7 @@
     "editorial": "Genios",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -487,6 +546,7 @@
     "editorial": "Quipu",
     "año": "2011",
     "portada_url": "https://dcdn-us.mitiendanube.com/stores/004/823/848/products/1000181917-6c0b38029fd273a68117303103155026-480-0.webp",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -497,6 +557,7 @@
     "editorial": "Quipu",
     "año": "2015",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875040694.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -507,6 +568,7 @@
     "editorial": "Quipu",
     "año": "2015",
     "portada_url": "https://www.editorialelcuervo.com/wp-content/uploads/2023/05/10.-COLEGIO-MALDITO-III.jpeg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -517,6 +579,7 @@
     "editorial": "Quipu",
     "año": "-",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9875041462_9789875041462_2022-12-27_12_00_05.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -527,6 +590,7 @@
     "editorial": "Quipu",
     "año": "-",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875041783.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -537,6 +601,7 @@
     "editorial": "Ala Delta",
     "año": "-",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0gL2nrexx1WZ2bgZJNp0M9Z2Sb13whYcTCg&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -547,6 +612,7 @@
     "editorial": "Desconocido",
     "año": "2016",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -557,6 +623,7 @@
     "editorial": "Clarin",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -567,6 +634,7 @@
     "editorial": "Alfaguara",
     "año": "2010",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -577,6 +645,7 @@
     "editorial": "Editorial Albatros",
     "año": "2010",
     "portada_url": "http://books.google.com/books/content?id=CUMgc23nzJQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -587,6 +656,7 @@
     "editorial": "Alfaguara",
     "año": "-",
     "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789504634157_1.jpg?id_com=717",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -597,6 +667,7 @@
     "editorial": "Desconocido",
     "año": "2008",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -607,6 +678,7 @@
     "editorial": "Santillana USA Publishing Company",
     "año": "2000",
     "portada_url": "http://books.google.com/books/content?id=r3QBAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -617,6 +689,7 @@
     "editorial": "Molino",
     "año": "2021",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/08/9878120003.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -627,6 +700,7 @@
     "editorial": "Molino",
     "año": "-",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120010.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -637,6 +711,7 @@
     "editorial": "Molino",
     "año": "-",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120027.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -647,6 +722,7 @@
     "editorial": "Molino",
     "año": "-",
     "portada_url": "https://cdn.livriz.com/media/mediaspace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/f23cd717-f1af-45d5-922f-6d9578f21bee/9789878120034.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -657,6 +733,7 @@
     "editorial": "Molino",
     "año": "-",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120041.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -667,6 +744,7 @@
     "editorial": "Molino",
     "año": "-",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120102.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -677,6 +755,7 @@
     "editorial": "Molino",
     "año": "-",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120119.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -687,6 +766,7 @@
     "editorial": "Molino",
     "año": "-",
     "portada_url": "https://www.quade.com.ar/1524958-large_default/diario-de-greg-8.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -697,6 +777,7 @@
     "editorial": "Molino",
     "año": "-",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120133.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -707,6 +788,7 @@
     "editorial": "Molino",
     "año": "-",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9878120140_9789878120140_2022-11-08_11_12_58.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -717,6 +799,7 @@
     "editorial": "Molino",
     "año": "-",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9878120164_9789878120164_2022-11-08_11_12_58.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -727,6 +810,7 @@
     "editorial": "Molino",
     "año": "-",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/05/9878120171.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -737,6 +821,7 @@
     "editorial": "Molino",
     "año": "-",
     "portada_url": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/690556-c70a4abd1556a1524f17285627539956-1024-1024.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -747,6 +832,7 @@
     "editorial": "RBA",
     "año": "2019",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/08/9874404503.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -757,6 +843,7 @@
     "editorial": "Molino",
     "año": "-",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/e80a621ffa7c449d28b86999589a6b70/9/8/9878120058_9789878120058_2022-11-08_11_12_58.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -767,6 +854,7 @@
     "editorial": "Molino",
     "año": "",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhoaN0BK45SBtL2qAtoqsmL8xVIGKl46EiBQ&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -777,6 +865,7 @@
     "editorial": "Molino",
     "año": "2025",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0e131FXVqyVjKDeQQVAevb5VjkS7XrMIe7g&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -787,6 +876,7 @@
     "editorial": "Molino",
     "año": "2025",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2025/02/9878121307.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -797,6 +887,7 @@
     "editorial": "Loqueleo",
     "año": "2015",
     "portada_url": "https://www.loqueleo.com/ar/uploads/2015/11/resized/800_9789504643241.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -807,6 +898,7 @@
     "editorial": "Loqueleo",
     "año": "-",
     "portada_url": "https://www.loqueleo.com/ar/uploads/2016/03/tapa-diminuto-y-el-campamento-de-los-zombis.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -817,6 +909,7 @@
     "editorial": "Alfaguara",
     "año": "-",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4d5j9pnVM3a-OF6KcflZeNTmKGyw4F5Puw&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -827,6 +920,7 @@
     "editorial": "Alfaguara",
     "año": "-",
     "portada_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1335993961i/13628297.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -837,6 +931,7 @@
     "editorial": "Libros del Zorro Rojo",
     "año": "2014",
     "portada_url": "https://imaginaria.com.ar/wp-content/uploads/2010/03/DiscursoDelOso1.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -847,6 +942,7 @@
     "editorial": "Alfaguara",
     "año": "2010",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -857,6 +953,7 @@
     "editorial": "Quipu",
     "año": "2012",
     "portada_url": "https://acdn-us.mitiendanube.com/stores/881/926/products/edelmira-latele1-c0fdb69930310ced1516210450703692-480-0.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -867,6 +964,7 @@
     "editorial": "Loqueleo",
     "año": "Desconocido",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdYcnInmDyzfBuAjx6eavEPyzkUUE_Mj0o5w&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -877,6 +975,7 @@
     "editorial": "Desconocido",
     "año": "-",
     "portada_url": "https://http2.mlstatic.com/D_NQ_NP_859862-MLA40173644101_122019-O.webp",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -887,6 +986,7 @@
     "editorial": "Desconocido",
     "año": "2016",
     "portada_url": "https://http2.mlstatic.com/D_NQ_NP_699750-MLU54983799724_042023-O.webp",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -897,6 +997,7 @@
     "editorial": "Loqueleo",
     "año": "Desconocido",
     "portada_url": "https://www.loqueleo.com/ar/uploads/2015/11/9789504643333.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -907,6 +1008,7 @@
     "editorial": "Unaluna",
     "año": "2007",
     "portada_url": "http://books.google.com/books/content?id=T_T3KAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -917,6 +1019,7 @@
     "editorial": "Gradifco",
     "año": "-",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWBDRO57rTix20TcX9hipSgTzXKguJDqde7w&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -927,6 +1030,7 @@
     "editorial": "Alfaguara",
     "año": "2010",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -937,6 +1041,7 @@
     "editorial": "Alfaguara",
     "año": "-",
     "portada_url": "https://www.lanormallibros.com.ar/media/libros/a0415f50a4fd043e74d55f5985089194.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -947,6 +1052,7 @@
     "editorial": "Umbriel",
     "año": "2022",
     "portada_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/0b/b8/0bb89f1b8df3b338eb0c0e127d5be14a.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -957,6 +1063,7 @@
     "editorial": "Sudamericana",
     "año": "2015",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -967,6 +1074,7 @@
     "editorial": "Gente",
     "año": "2009",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -977,6 +1085,7 @@
     "editorial": "Gente",
     "año": "2009",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -987,6 +1096,7 @@
     "editorial": "Primera Sudamericana",
     "año": "2006-04-25",
     "portada_url": "http://books.google.com/books/content?id=XXWIGAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -997,6 +1107,7 @@
     "editorial": "Clarin",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1007,6 +1118,7 @@
     "editorial": "Alfaguara",
     "año": "2010",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1017,6 +1129,7 @@
     "editorial": "Primera Sudamericana",
     "año": "2007",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500770330_9789500770330_2024-04-20_07_20_05.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1027,6 +1140,7 @@
     "editorial": "AZ",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1037,6 +1151,7 @@
     "editorial": "Desconocido",
     "año": "2014",
     "portada_url": "https://entelequia.com.ar/storage/product_arch/2021/01/IMG-20201230-WA0028-DESKTOP-EAEOSF4-DESKTOP-EAEOSF4-53.webp",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1047,6 +1162,7 @@
     "editorial": "Primera Sudamericana",
     "año": "2001",
     "portada_url": "http://books.google.com/books/content?id=cwINPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1057,6 +1173,7 @@
     "editorial": "Desconocido",
     "año": "2015",
     "portada_url": "https://acdn-us.mitiendanube.com/stores/945/047/products/pirata-valiente_000011-84437c45c6652ec94116663702458562-640-0.png",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1067,6 +1184,7 @@
     "editorial": "Artes Gráficas Integradas",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1077,6 +1195,7 @@
     "editorial": "Clarin",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1087,6 +1206,7 @@
     "editorial": "Salvat",
     "año": "2024",
     "portada_url": "https://www.salvat.com/41429-large_default/rey-leon.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1097,6 +1217,7 @@
     "editorial": "Quipu",
     "año": "2012",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0aQRzJeXWFO_JbEyWEdOAAtfXp7PMMsGMRA&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1107,6 +1228,7 @@
     "editorial": "Puerto Creativo ",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1117,6 +1239,7 @@
     "editorial": "Primera Sudamericana",
     "año": "-",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_zmpUA1IecgmA5eIGR-3yAqrVCBhpBivFA&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1127,6 +1250,7 @@
     "editorial": "Destino",
     "año": "2004-04-01",
     "portada_url": "http://books.google.com/books/content?id=BUQ7AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1137,6 +1261,7 @@
     "editorial": "Destino",
     "año": "Desconocido",
     "portada_url": "https://images-eu.ssl-images-amazon.com/images/I/61JUDwdzOgL._AC_UL210_SR210,210_.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1147,6 +1272,7 @@
     "editorial": "Destino",
     "año": "Desconocido",
     "portada_url": "https://www.planetadelibros.com.ar/usuaris/libros/fotos/222/original/portada_stilton-3-el-misterioso-manuscrito-de-nostrarratus_geronimo-stilton_201607271258.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1157,6 +1283,7 @@
     "editorial": "Destino",
     "año": "Desconocido",
     "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789507323638_1.jpg?id_com=717",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1167,6 +1294,7 @@
     "editorial": "Destino",
     "año": "Desconocido",
     "portada_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/9e/2b/9e2bcdba208918c0032435ee20898dbf.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1177,6 +1305,7 @@
     "editorial": "Destino",
     "año": "Desconocido",
     "portada_url": "https://tienda.planetadelibros.com.ar/cdn/shop/products/D_710189-MLA42306521228_062020-O.jpg?v=1684361809",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1187,6 +1316,7 @@
     "editorial": "Destino",
     "año": "2011",
     "portada_url": "https://pictures.abebooks.com/isbn/9788408052630-us.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1197,6 +1327,7 @@
     "editorial": "Destino",
     "año": "Desconocido",
     "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789507324185_1.jpg?id_com=717",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1207,6 +1338,7 @@
     "editorial": "Destino",
     "año": "Desconocido",
     "portada_url": "https://tienda.planetadelibros.com.ar/cdn/shop/products/D_943355-MLA42672501121_072020-O.jpg?v=1684350047",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1217,6 +1349,7 @@
     "editorial": "Destino",
     "año": "-",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxRBV9frwTAPxmSCcs1NTZKvBKwLRwBGv87w&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1227,6 +1360,7 @@
     "editorial": "Destino",
     "año": "Desconocido",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPjzHG5S25axV4l7YCRfyluDq60QO_tIPGmw&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1237,6 +1371,7 @@
     "editorial": "Destino",
     "año": "Desconocido",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ppRGFHh57qummtsaqWpq-rBSczeit39wSw&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1247,6 +1382,7 @@
     "editorial": "La Ley",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1257,6 +1393,7 @@
     "editorial": "Vértice",
     "año": "-",
     "portada_url": "https://acdn-us.mitiendanube.com/stores/742/264/products/5967_hp-all-about-the-hogwarts-h-9b27767429a6a2d38817231216308766-640-0.png",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1267,6 +1404,7 @@
     "editorial": "Salamandra",
     "año": "2020",
     "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789878000190_1.jpg?id_com=717",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1277,6 +1415,7 @@
     "editorial": "Salamandra Bolsillo",
     "año": "-",
     "portada_url": "https://www.penguinlibros.com/ar/6419844/harry-potter-y-el-caliz-de-fuego-harry-potter-4.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1287,6 +1426,7 @@
     "editorial": "Salamandra",
     "año": "-",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/8498387544.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1297,6 +1437,7 @@
     "editorial": "Salamandra Bolsillo",
     "año": "-",
     "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/ac/d2/acd22d20d3bd39e68e81b69ebcbe4c54.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1307,6 +1448,7 @@
     "editorial": "Salamandra Bolsillo",
     "año": "2020",
     "portada_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/1a/1b/1a1b975ace9d300841c305826a644bea.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1317,6 +1459,7 @@
     "editorial": "Salamandra Bolsillo",
     "año": "-",
     "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/c4/e9/c4e93e876288b4a0021a0cef47efc8bf.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1327,6 +1470,7 @@
     "editorial": "Salamandra Bolsillo",
     "año": "-",
     "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/a0/b4/a0b46533ad541c885d6a406da0e9c429.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1337,6 +1481,7 @@
     "editorial": "Salamandra Bolsillo",
     "año": "-",
     "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/aa/38/aa38452661f7b7adea8c51cf1adab6bb.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1347,6 +1492,7 @@
     "editorial": "del Naranjo",
     "año": "2012",
     "portada_url": "https://delnaranjo.com/wp-content/uploads/2025/06/monstruo-cama.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1357,6 +1503,7 @@
     "editorial": "Dunken",
     "año": "2016",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1367,6 +1514,7 @@
     "editorial": "Latinbooks",
     "año": "2014",
     "portada_url": "https://latinbooksint.com/img/tapitas_lb/1448462942-Arte_HPH_1%20copy.png",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1377,6 +1525,7 @@
     "editorial": "Latinbooks",
     "año": "2018",
     "portada_url": "https://entelequia.com.ar/storage/product_arch/2020/08/slayers_special_tapa_03-DESKTOP-EAEOSF4-11.webp",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1387,6 +1536,7 @@
     "editorial": "Latinbooks",
     "año": "2013",
     "portada_url": "https://http2.mlstatic.com/D_NQ_NP_737647-MLA43474186619_092020-O.webp",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1397,6 +1547,7 @@
     "editorial": "Latinbooks",
     "año": "2013",
     "portada_url": "https://entelequia.com.ar/storage/product_arch/2020/08/slayers_special_tapa_03-DESKTOP-EAEOSF4-13.webp",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1407,6 +1558,7 @@
     "editorial": "Latinbooks",
     "año": "2016",
     "portada_url": "https://entelequia.com.ar/storage/product_arch/2020/08/slayers_special_tapa_03-DESKTOP-EAEOSF4-8.webp",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1417,6 +1569,7 @@
     "editorial": "Latinbooks",
     "año": "2016",
     "portada_url": "https://http2.mlstatic.com/D_NQ_NP_706469-MLU46335537357_062021-O.webp",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1427,6 +1580,7 @@
     "editorial": "Alfaguara",
     "año": "2010",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1437,6 +1591,7 @@
     "editorial": "Martin",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1447,6 +1602,7 @@
     "editorial": "El Mundo de Winnie",
     "año": "2006-06",
     "portada_url": "http://books.google.com/books/content?id=8AABAgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1457,6 +1613,7 @@
     "editorial": "Planeta Junior",
     "año": "-",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/08/9504952824.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1467,6 +1624,7 @@
     "editorial": "Hola Chicos",
     "año": "2011",
     "portada_url": "https://acdn-us.mitiendanube.com/stores/001/081/567/products/lacasadelarisa1-c83bcee577c93cfa1615816911493271-640-0.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1477,6 +1635,7 @@
     "editorial": "Desconocido",
     "año": "2016",
     "portada_url": "data:image/jpeg;base64,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",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1487,6 +1646,7 @@
     "editorial": "El Mundo de Winnie",
     "año": "2006",
     "portada_url": "http://books.google.com/books/content?id=yXVVPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1497,6 +1657,7 @@
     "editorial": "Desconocido",
     "año": "20044",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1507,6 +1668,7 @@
     "editorial": "Clarin",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1517,6 +1679,7 @@
     "editorial": "Alfaguara",
     "año": "2010",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1527,6 +1690,7 @@
     "editorial": "Editorial Albatros",
     "año": "2009",
     "portada_url": "http://books.google.com/books/content?id=4rrb8haxresC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1537,6 +1701,7 @@
     "editorial": "Oceano Travesia",
     "año": "-",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2019/02/6077352327.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1547,6 +1712,7 @@
     "editorial": "Primera Sudamericana",
     "año": "2015",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJoUEDYpF4hjtqqCXY2o3Lji5U3L8G4ZsomA&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1557,6 +1723,7 @@
     "editorial": "Primera sudamericana",
     "año": "2020",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500737234_9789500737234_2022-11-26_08_00_06.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1567,6 +1734,7 @@
     "editorial": "Primera sudamericana",
     "año": "2014",
     "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/4e/0c/4e0c624b5bed6fde7d26ba5f70ccc26f.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1577,6 +1745,7 @@
     "editorial": "Primera sudamericana",
     "año": "2014",
     "portada_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/6c/86/6c86c3e59ce17f36e843fe9418e503d1.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1587,6 +1756,7 @@
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500751605_9789500751605_2022-11-08_11_12_58.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1597,6 +1767,7 @@
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500755740_9789500755740_2022-11-08_11_12_58.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1607,6 +1778,7 @@
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
     "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/16/c0/16c0f9d8d6b4b932075c2d8d2e13e452.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1617,6 +1789,7 @@
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500763547_9789500763547_2022-11-08_11_12_58.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1627,6 +1800,7 @@
     "editorial": "Loqueleo",
     "año": "-",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/06/9504655022.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1637,6 +1811,7 @@
     "editorial": "del Naranjo",
     "año": "2012",
     "portada_url": "https://delnaranjo.com/wp-content/uploads/2025/06/lala.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1647,6 +1822,7 @@
     "editorial": "Juventud",
     "año": "2016-03-10",
     "portada_url": "http://books.google.com/books/content?id=tUyTjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1657,6 +1833,7 @@
     "editorial": "Juventud",
     "año": "2016-03-10",
     "portada_url": "http://books.google.com/books/content?id=bQ6IjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1667,6 +1844,7 @@
     "editorial": "SM",
     "año": "-",
     "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/4b/8b/4b8b9b8ce6110a6bda350aa491b39310.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1677,6 +1855,7 @@
     "editorial": "SM",
     "año": "-",
     "portada_url": "https://m.media-amazon.com/images/I/81klBbXPRmL._SL1500_.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1687,16 +1866,18 @@
     "editorial": "SM",
     "año": "-",
     "portada_url": "https://http2.mlstatic.com/D_NQ_NP_753671-MLA30928639413_062019-O.webp",
+    "estado": "Disponible",
     "edited": null
   },
   {
-    "id": 15663,
+    "id": 15831,
     "isbn": "9789878945538",
     "titulo": "Los enclaves dorados",
     "autor": "Naomi Novik",
     "editorial": "Umbriel",
     "año": "2023",
     "portada_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/25/c4/25c49b3e0c4c3cc2cfe5eb1ade8a4d53.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1707,6 +1888,7 @@
     "editorial": "Editorial Hidra",
     "año": "2016-05",
     "portada_url": "http://books.google.com/books/content?id=un7zDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1717,6 +1899,7 @@
     "editorial": "Editorial Hidra",
     "año": "2018",
     "portada_url": "http://books.google.com/books/content?id=iFEtuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1727,6 +1910,7 @@
     "editorial": "Editorial Hidra",
     "año": "2021",
     "portada_url": "https://app.masterlibros.com.ar/admin/files/libros/194544/9788418002755.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1737,6 +1921,7 @@
     "editorial": "Editorial Hidra",
     "año": "2019",
     "portada_url": "http://books.google.com/books/content?id=ZABPwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1747,6 +1932,7 @@
     "editorial": "Editorial Hidra",
     "año": "Desconocido",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2024/03/8419266132.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1757,6 +1943,7 @@
     "editorial": "Editorial Hidra",
     "año": "2017",
     "portada_url": "http://books.google.com/books/content?id=uc2DswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1767,6 +1954,7 @@
     "editorial": "Quipu",
     "año": "-",
     "portada_url": "https://cdn.livriz.com/media/mediaspace/F9AFB48D-741D-4834-B760-F59344EEFF34/45/4369579e-00fc-41be-b4f9-6d6d211ada68/9789875042094.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1777,6 +1965,7 @@
     "editorial": "Quipu",
     "año": "-",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9875042100_9789875042100_2022-11-08_11_12_58.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1787,6 +1976,7 @@
     "editorial": "Quipu",
     "año": "2016",
     "portada_url": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/618420-b815d4a985664e084d17274508870810-1024-1024.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1797,6 +1987,7 @@
     "editorial": "La Ley",
     "año": "2007",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1807,6 +1998,7 @@
     "editorial": "Alfaguara",
     "año": "2011",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1817,6 +2009,7 @@
     "editorial": "Edelvives",
     "año": "2018",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1827,6 +2020,7 @@
     "editorial": "del Naranjo",
     "año": "-",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9871343249_9789871343249_2023-10-21_08_01_05.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1837,6 +2031,7 @@
     "editorial": "Primera sudamericana",
     "año": "2014",
     "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5060207/wjPXXRm07n-hp0iuVCsD5sW7Alk-.jpg?v=638852939477900000",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1847,6 +2042,7 @@
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
     "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5060445/25E-OoBUjiGdr8ihfG9QzAiIwDA-.jpg?v=638852943084730000",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1857,6 +2053,7 @@
     "editorial": "Primera sudamericana",
     "año": "2010",
     "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5060447/WG1-nfLrDgIUW92L7sTnEZgYWa0-.jpg?v=638852943096930000",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1867,6 +2064,7 @@
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
     "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5065548/DOTyiv6NbsVZiY11jgx42GJImT8-.jpg?v=638853684205100000",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1877,6 +2075,7 @@
     "editorial": "Primera sudamericana",
     "año": "2015",
     "portada_url": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/552139-f12f43a48119abce3a17273550713368-1024-1024.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1887,6 +2086,7 @@
     "editorial": "Primera sudamericana",
     "año": "2014",
     "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5062828/nPqG-82RbYSKF7kb5Tso7KJ28Qg-.jpg?v=638853289295800000",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1897,6 +2097,7 @@
     "editorial": "Primera sudamericana",
     "año": "2014",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2019/02/9500747943.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1907,6 +2108,7 @@
     "editorial": "Primera sudamericana",
     "año": "2015",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2019/02/9500752749.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1917,6 +2119,7 @@
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500754750_9789500754750_2022-11-08_11_12_58.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1927,6 +2130,7 @@
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
     "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789500756853_1.jpg?id_com=1156",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1937,6 +2141,7 @@
     "editorial": "Primera sudamericana",
     "año": "2017",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500758215_9789500758215_2022-11-08_13_00_12.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1947,6 +2152,7 @@
     "editorial": "Primera sudamericana",
     "año": "2017",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/e80a621ffa7c449d28b86999589a6b70/9/5/9500759465_9789500759465_2025-02-05_22_20_06.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1957,6 +2163,7 @@
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500761284_9789500761284_2022-11-08_11_12_58.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1967,6 +2174,7 @@
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2019/10/mayor-y-menor-14.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1977,6 +2185,7 @@
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500762724_9789500762724_2022-11-08_11_12_58.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1987,6 +2196,7 @@
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/08/9500764049.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1997,6 +2207,7 @@
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500765121_9789500765121_2022-11-08_11_12_58.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2007,6 +2218,7 @@
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2021/11/9500766210-scaled.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2017,6 +2229,7 @@
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/04/9500766944.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2027,6 +2240,7 @@
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500768559_9789500768559_2023-03-31_09_00_19.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2037,6 +2251,7 @@
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2024/04/9500770392.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2047,6 +2262,7 @@
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2022/12/9500768160.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2057,6 +2273,7 @@
     "editorial": "Primera sudamericana",
     "año": "Desconocido",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500764872_9789500764872_2022-11-08_11_12_58.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2067,16 +2284,18 @@
     "editorial": "Primera sudamericana",
     "año": "2024",
     "portada_url": "https://acdn-us.mitiendanube.com/stores/004/088/117/products/722795-7baa9a5e719ee5792317298672379469-1024-1024.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
-    "id": 15662,
+    "id": 15869,
     "isbn": "9789506444945",
     "titulo": "Mentes Peligrosas",
     "autor": "Gwenda Bond",
     "editorial": "Penguin Libros",
     "año": "2019",
     "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/14/13/1413ecca424e4b44f109b42a09fe85a2.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2087,6 +2306,7 @@
     "editorial": "La Brujita de Papel",
     "año": "2015",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/8/9871337705_9789871337705_2022-11-08_11_12_58.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2097,6 +2317,7 @@
     "editorial": "Espasa",
     "año": "-",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoADxMkbl8qh15FHha80LiFcfD9KHialDciA&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2107,6 +2328,7 @@
     "editorial": "National Geographic Books",
     "año": "2023-04-25",
     "portada_url": "http://books.google.com/books/content?id=TtWOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2117,6 +2339,7 @@
     "editorial": "Loqueleo",
     "año": "2015",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9504643562_9789504643562_2022-11-08_11_12_58.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2127,6 +2350,7 @@
     "editorial": "Panini Comics",
     "año": "2024",
     "portada_url": "https://i1.whakoom.com/large/1e/2f/578308e4c61e40dc93b08935aa30f692.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2137,6 +2361,7 @@
     "editorial": "Juventud",
     "año": "2016-03-10",
     "portada_url": "http://books.google.com/books/content?id=x0ubjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2147,6 +2372,7 @@
     "editorial": "HUB",
     "año": "-",
     "portada_url": "https://sbslibreria.vtexassets.com/arquivos/ids/5069266/n1NaydtTnpKXcPrHedyq596mMCU-.jpg?v=638853754031900000",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2157,6 +2383,7 @@
     "editorial": "Desconocido",
     "año": "2024",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2167,6 +2394,7 @@
     "editorial": "Rolling Stone",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2177,6 +2405,7 @@
     "editorial": "Desconocido",
     "año": "2018",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2187,6 +2416,7 @@
     "editorial": "Desconocido",
     "año": "2011",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2197,6 +2427,7 @@
     "editorial": "Salamandra",
     "año": "2021",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxP4RL7qpAjfn7ZPCg-CNYg3_QkhJnVjy6NA&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2207,6 +2438,7 @@
     "editorial": "Alfaguara",
     "año": "2010",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2217,6 +2449,7 @@
     "editorial": "VISOR",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2227,6 +2460,7 @@
     "editorial": "SM",
     "año": "2016",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN9vTdJEWx-I1fk9cchdMZQ8wnofqIotinPw&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2237,6 +2471,7 @@
     "editorial": "SM",
     "año": "2018",
     "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/78/01/7801921b3298051b342a2925a53cd4b0.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2247,6 +2482,7 @@
     "editorial": "Quipu",
     "año": "2017",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875041929.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2257,6 +2493,7 @@
     "editorial": "Quipu",
     "año": "2017",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875041844.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2267,6 +2504,7 @@
     "editorial": "Quipu",
     "año": "2017",
     "portada_url": "https://image.isu.pub/170630153711-5f815fad98c57f354bec91924b5fdfe3/jpg/page_1_thumb_large.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2277,6 +2515,7 @@
     "editorial": "Desconocido",
     "año": "2011",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/10/9874007704.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2287,6 +2526,7 @@
     "editorial": "Emecé",
     "año": "2020",
     "portada_url": "https://http2.mlstatic.com/D_NQ_NP_836311-MLA40974668940_032020-O.webp",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2297,6 +2537,7 @@
     "editorial": "Primera Sudamericana",
     "año": "2009",
     "portada_url": "https://www.librosdelaarena.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/9/5/9500730556_9789500730556_2022-11-08_11_12_58.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2307,6 +2548,7 @@
     "editorial": "V&R Ediciones",
     "año": "2018-02",
     "portada_url": "http://books.google.com/books/content?id=smeWuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2317,6 +2559,7 @@
     "editorial": "Alfaguara",
     "año": "-",
     "portada_url": "https://www.mosca.com.uy/media/catalog/product/5/1/51937.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2327,6 +2570,7 @@
     "editorial": "Alfaguara",
     "año": "-",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/06/9504643975.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2337,6 +2581,7 @@
     "editorial": "Alfaguara",
     "año": "-",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/06/9504644026.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2347,6 +2592,7 @@
     "editorial": "Emecé",
     "año": "2016",
     "portada_url": "https://proassets.planetadelibros.com.ar/usuaris/libros/fotos/223/original/portada_sarmiento_miguel-angel-de-marco_201608291401.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2357,6 +2603,7 @@
     "editorial": "La Brujita de Papel",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2367,6 +2614,7 @@
     "editorial": "El Barco De Vapor",
     "año": "-",
     "portada_url": "https://paulabombara.ar/wp-content/uploads/2021/01/Sin-rueditas.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2377,6 +2625,7 @@
     "editorial": "V&R Ediciones",
     "año": "2021",
     "portada_url": "https://vreditoras.com.ar//uploads/libros/7a8189ac326ec17d2af180faf02d6b2eSupernova-TAPA-BAJA.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2387,6 +2636,7 @@
     "editorial": "La Brujita de Papel",
     "año": "-",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2rIcPu2nHjOy6-7xf6zgVeAgyolorEGNSGQ&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2397,6 +2647,7 @@
     "editorial": "Sudamericana",
     "año": "1999",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS41VX5Q_H1SH_OK2p84hKVeYAskHK_Yn68pA&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2407,6 +2658,7 @@
     "editorial": "Guadal",
     "año": "2016",
     "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789873202278_1.jpg?id_com=717",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2417,6 +2669,7 @@
     "editorial": "Puck",
     "año": "-",
     "portada_url": "https://http2.mlstatic.com/D_NQ_NP_923593-MLA28364599497_102018-O.webp",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2427,6 +2680,7 @@
     "editorial": "Alfaguara",
     "año": "2010",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2437,6 +2691,7 @@
     "editorial": "Umbriel",
     "año": "2020",
     "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789874777744_1.jpg?id_com=1156",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2447,6 +2702,7 @@
     "editorial": "Montena",
     "año": "Desconocido",
     "portada_url": "https://www.penguinlibros.com/ar/1594475-home_default/el-aserradero-lugubre-una-serie-de-catastroficas-desdichas-4.webp",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2457,6 +2713,7 @@
     "editorial": "Montena",
     "año": "Desconocido",
     "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/06/7c/067cb203dde3024f914db600491ca441.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2467,6 +2724,7 @@
     "editorial": "Montena",
     "año": "Desconocido",
     "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/64/e8/64e85dd9d376a44f219b5ad1cbf3e967.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2477,6 +2735,7 @@
     "editorial": "Montena",
     "año": "Desconocido",
     "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/6a/f8/6af8c92bc9ae00c40dbda298bcc1f892.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2487,6 +2746,7 @@
     "editorial": "Desconocido",
     "año": "Desconocido",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2497,6 +2757,7 @@
     "editorial": "Clarin",
     "año": "-",
     "portada_url": "https://static.wikia.nocookie.net/doblaje/images/e/e2/Up-poster.jpg/revision/latest?cb=20201004143137&path-prefix=es",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2507,6 +2768,7 @@
     "editorial": "Desconocido",
     "año": "2006",
     "portada_url": "https://images.cdn1.buscalibre.com/fit-in/360x360/76/90/7690e452af06d6c67a7fe7fd1de6904d.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2517,6 +2779,7 @@
     "editorial": "Alfaguara",
     "año": "2010",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2527,6 +2790,7 @@
     "editorial": "Clarin",
     "año": "-",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzdJpuuZ6jG0nKdyNyRsxjea2p3khEQH6kHDp5sI7FalOB7iK1sls9tGj2EahgXP0CzE0&usqp=CAU",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2537,6 +2801,7 @@
     "editorial": "El Mundo de Winnie",
     "año": "2015",
     "portada_url": "http://books.google.com/books/content?id=sHqOjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2547,6 +2812,7 @@
     "editorial": "El Mundo de Winnie",
     "año": "2015-06",
     "portada_url": "http://books.google.com/books/content?id=XvyGjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2557,6 +2823,7 @@
     "editorial": "El Mundo de Winnie",
     "año": "2015-06",
     "portada_url": "http://books.google.com/books/content?id=h_PqjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2567,6 +2834,7 @@
     "editorial": "El Mundo de Winnie",
     "año": "2016-09",
     "portada_url": "http://books.google.com/books/content?id=AAR5AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2577,6 +2845,7 @@
     "editorial": "El Mundo de Winnie",
     "año": "2013-08",
     "portada_url": "http://books.google.com/books/content?id=lBfzoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2587,6 +2856,7 @@
     "editorial": "El Mundo de Winnie",
     "año": "2013-09",
     "portada_url": "http://books.google.com/books/content?id=UOh8AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2597,6 +2867,7 @@
     "editorial": "El Mundo de Winnie",
     "año": "2018-07",
     "portada_url": "http://books.google.com/books/content?id=vFM7zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2607,6 +2878,7 @@
     "editorial": "Oceano",
     "año": "2006",
     "portada_url": "https://cdn.oceano.com.ar/titulos/9786077352310.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2617,6 +2889,7 @@
     "editorial": "Oceano Travesia",
     "año": "-",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4jaNy8Jvyn4KS_fmwKJSmzGIq1rwEsj_jeA&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2627,6 +2900,7 @@
     "editorial": "Oceano Travesia",
     "año": "2017-10",
     "portada_url": "http://books.google.com/books/content?id=fZp0tQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2637,6 +2911,7 @@
     "editorial": "Oceano Travesia",
     "año": "2013",
     "portada_url": "https://cdn.oceano.com.ar/titulos/9786077352389.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2647,6 +2922,7 @@
     "editorial": "Oceano Travesia",
     "año": "2010",
     "portada_url": "https://m.media-amazon.com/images/I/81wxjevxezL._UF1000,1000_QL80_.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2657,6 +2933,7 @@
     "editorial": "Alfaguara",
     "año": "2007",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2667,6 +2944,7 @@
     "editorial": "Alfaguara",
     "año": "2010",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2677,6 +2955,7 @@
     "editorial": "Oceano Travesia",
     "año": "2008",
     "portada_url": "https://cdn.oceano.com.ar/titulos/9786077352341.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2687,6 +2966,7 @@
     "editorial": "Quipu",
     "año": "2014",
     "portada_url": "https://calibroscopio.com.ar/wp-content/uploads/2020/07/9875041103.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2697,6 +2977,7 @@
     "editorial": "Alfaguara",
     "año": "-",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2707,6 +2988,7 @@
     "editorial": "La Brujita de Papel",
     "año": "-",
     "portada_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpSu2Lx-cFljn0BXnf0d85RA4Re-JrwrSR-w&s",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2717,6 +2999,7 @@
     "editorial": "SM",
     "año": "-",
     "portada_url": "https://acdn-us.mitiendanube.com/stores/001/200/434/products/aaab61-b46bce5e1c519a2b7316805342745551-640-0.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2727,6 +3010,7 @@
     "editorial": "SM",
     "año": "-",
     "portada_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/88/a9/88a90676e8cd97b5b07e0659bd783836.jpg",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -2737,6 +3021,7 @@
     "editorial": "Ariel",
     "año": "2009",
     "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   }
 ]

@@ -72,8 +72,8 @@ app.post("/api/libro", async (req, res) => {
   
 });
 
-//Delete Book by ISBN
-app.delete("/api/libro", async (req, res) => {
+//Delete Book by ISBN from query
+app.delete("/api/libro", (req, res) => {
   //Get ISBN from root query
   const { isbn } = req.query;
   //Delete book from DB
@@ -102,15 +102,16 @@ app.post("/api/libro/save", (req, res) => {
   const { isbn, titulo, autor, editorial, año, portada_url, estado } = req.body;
   //Insert or update book in DB
   const stmt = db.prepare(`INSERT INTO libros
-    (isbn, titulo, autor, editorial, año, portada_url)
-    VALUES (?, ?, ?, ?, ?, ?)
+    (isbn, titulo, autor, editorial, año, portada_url, estado)
+    VALUES (?, ?, ?, ?, ?, ?, ?)
     ON CONFLICT(isbn) DO UPDATE SET
     titulo = excluded.titulo,
     autor = excluded.autor,
     editorial = excluded.editorial,
     año = excluded.año,
-    portada_url = excluded.portada_url`);
-  stmt.run(isbn, titulo, autor, editorial, año, portada_url, function(err) {
+    portada_url = excluded.portada_url,
+    estado = excluded.estado`);
+  stmt.run(isbn, titulo, autor, editorial, año, portada_url, estado, function(err) {
     if (err) return res.status(500).json({ error: err.message });
     res.json({ message: "Libro guardado correctamente", titulo });
   });
