@@ -198,14 +198,47 @@
     "edited": null
   },
   {
-    "id": 15870,
+    "id": 15888,
     "isbn": "9788419096029",
     "titulo": "Blue Lock: 01",
     "autor": "Muneyuki Kaneshiro",
     "editorial": "Ivrea",
     "año": null,
     "portada_url": "",
-    "estado": null,
+    "estado": "Disponible",
+    "edited": null
+  },
+  {
+    "id": 16145,
+    "isbn": "9788419096494",
+    "titulo": "Blue Lock: 02",
+    "autor": "Muneyuki Kaneshiro",
+    "editorial": "Ivrea",
+    "año": null,
+    "portada_url": "",
+    "estado": "Disponible",
+    "edited": null
+  },
+  {
+    "id": 16146,
+    "isbn": "9788419185747",
+    "titulo": "Blue Lock: 03",
+    "autor": "Muneyuki Kaneshiro",
+    "editorial": "Ivrea",
+    "año": null,
+    "portada_url": "",
+    "estado": "Disponible",
+    "edited": null
+  },
+  {
+    "id": 16147,
+    "isbn": "9788419306494",
+    "titulo": "Blue Lock: 04",
+    "autor": "Muneyuki Kaneshiro",
+    "editorial": "Ivrea",
+    "año": null,
+    "portada_url": "",
+    "estado": "Disponible",
     "edited": null
   },
   {
@@ -1793,6 +1826,17 @@
     "edited": null
   },
   {
+    "id": 16148,
+    "isbn": "9788497946421",
+    "titulo": "Las Aventuras de Sherlock Holmes",
+    "autor": "Arthur Conan Doyle",
+    "editorial": "Edimat",
+    "año": null,
+    "portada_url": "",
+    "estado": "Disponible",
+    "edited": null
+  },
+  {
     "id": 3392,
     "isbn": "9789504643166",
     "titulo": "Las aventuras del Sapo Ruperto",
@@ -2742,9 +2786,9 @@
     "id": 14818,
     "isbn": "9788411322997",
     "titulo": "Una breve historia de casi todo",
-    "autor": "Desconocido",
-    "editorial": "Desconocido",
-    "año": "Desconocido",
+    "autor": "Bill Bryson",
+    "editorial": "RBA",
+    "año": null,
     "portada_url": "",
     "estado": "Disponible",
     "edited": null

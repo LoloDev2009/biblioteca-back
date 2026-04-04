@@ -3,7 +3,9 @@ const bodyParser = require("body-parser");
 const axios = require("axios");
 const sqlite3 = require("sqlite3").verbose();
 const cors = require("cors");
+const pkg = require("pg");
 
+const { Pool } = pkg;
 const app = express();
 const port = process.env.PORT || 3000;
 
@@ -15,8 +17,22 @@ app.use(express.static("public"));
 
 
 // Base de datos
-const db = new sqlite3.Database("biblioteca.db");
+const pool = new Pool({
+  connectionString: process.env.DATABASE_URL,
+  ssl: {
+    rejectUnauthorized: false
+  }
+});
 
+pool.query(`SELECT NOW()`, (err, res) => {
+  if (err) {
+    console.error("Error al conectar a la base de datos:", err);
+  } else {
+    console.log("Conexión a la base de datos exitosa:", res.rows[0]);
+  }
+});
+
+/*
 db.serialize(() => {
   db.run(`CREATE TABLE IF NOT EXISTS libros (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -118,6 +134,7 @@ app.post("/api/libro/save", (req, res) => {
   stmt.finalize();
 });
 
+*/
 app.listen(port, () => {
   console.log(`Servidor corriendo en http://localhost:${port}`);
 });
