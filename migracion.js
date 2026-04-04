@@ -4,7 +4,7 @@ import pkg from "pg";
 
 const { Pool } = pkg;
 
-const databasee = "postgresql://administrados:FAGJSaErBml13CfRybHlvDwIhDrsGozU@dpg-d78inns50q8c73eur820-a.oregon-postgres.render.com/biblioteca_pu3i"
+const databasee = "postgresql://postgres:7wFCJxpmuL@hFu$@db.hjjbminlkjxolgzlibrb.supabase.co:5432/postgres"
 // 🔌 PostgreSQL (Render)
 const pool = new Pool({
   connectionString: databasee,
