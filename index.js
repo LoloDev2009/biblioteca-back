@@ -9,9 +9,9 @@ const port = process.env.PORT || 3000;
 
 
 // Middlewares
-app.use(cors());
 app.use(bodyParser.json());
 app.use(express.static("public"));
+app.use(cors());
 
 
 // Base de datos
