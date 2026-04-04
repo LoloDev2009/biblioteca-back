@@ -14,6 +14,7 @@ app.use(cors());
 app.use(bodyParser.json());
 app.use(express.static("public"));
 
+console.log(process.env.DATABASE_URL);
 
 // Base de datos
 const pool = new Pool({
