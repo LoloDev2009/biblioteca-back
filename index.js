@@ -1,11 +1,8 @@
 import express from "express";
 import bodyParser from "body-parser";
 import cors from "cors";
-import pkg from "pg";
-import dns from "dns";
+import postgres from "postgres";
 
-dns.setDefaultResultOrder("ipv4first");
-const { Pool } = pkg;
 const app = express();
 const port = process.env.PORT || 3000;
 
@@ -16,15 +13,11 @@ app.use(express.static("public"));
 
 console.log(process.env.DATABASE_URL);
 
-// Base de datos
-const pool = new Pool({
-  connectionString: process.env.DATABASE_URL,
-  ssl: {
-    rejectUnauthorized: false
-  }
-});
+const connectionString = process.env.DATABASE_URL
+const sql = postgres(connectionString)
 
-pool.query(`SELECT NOW()`, (err, res) => {
+
+sql(`SELECT NOW()`, (err, res) => {
   if (err) {
     console.error("Error al conectar a la base de datos:", err);
   } else {
@@ -32,7 +25,7 @@ pool.query(`SELECT NOW()`, (err, res) => {
   }
 });
 
-await pool.query(`CREATE TABLE IF NOT EXISTS libros (
+await sql(`CREATE TABLE IF NOT EXISTS libros (
   id SERIAL PRIMARY KEY,
   isbn TEXT UNIQUE,
   titulo TEXT,
@@ -50,7 +43,7 @@ app.post("/api/libro", async (req, res) => {
   const { isbn } = req.body; //Get ISBN from request body
   //Try to find book in Database
   try {
-    pool.query("SELECT * FROM libros WHERE isbn = $1", [isbn], async (err, row) => {
+    sql("SELECT * FROM libros WHERE isbn = $1", [isbn], async (err, row) => {
       if (err) {
         return res.status(500).json({ error: "Error al consultar la base de datos" });
       }
@@ -91,7 +84,7 @@ app.delete("/api/libro", (req, res) => {
   //Get ISBN from root query
   const { isbn } = req.query;
   //Delete book from DB
-  pool.query("DELETE FROM libros WHERE isbn = $1", [isbn], (err, result) => {
+  sql("DELETE FROM libros WHERE isbn = $1", [isbn], (err, result) => {
     if (err) {
       return res.status(500).json({ error: "Error al eliminar el libro" });
     }
@@ -104,7 +97,7 @@ app.delete("/api/libro", (req, res) => {
 
 //Get all Books
 app.get("/api/libros", (req, res) => {
-  pool.query("SELECT * FROM libros ORDER BY titulo", (err, result) => {
+  sql("SELECT * FROM libros ORDER BY titulo", (err, result) => {
     if (err) return res.status(500).json({ error: err.message });
     res.json(result.rows);
   });
@@ -115,7 +108,7 @@ app.post("/api/libro/save", (req, res) => {
   //Get book as JSON from request body
   const { isbn, titulo, autor, editorial, año, portada_url, estado } = req.body;
   //Insert or update book in DB
-  pool.query(`INSERT INTO libros
+  sql(`INSERT INTO libros
     (isbn, titulo, autor, editorial, año, portada_url, estado)
     VALUES ($1, $2, $3, $4, $5, $6, $7)
     ON CONFLICT(isbn) DO UPDATE SET
@@ -133,3 +126,44 @@ app.post("/api/libro/save", (req, res) => {
 app.listen(port, () => {
   console.log(`Servidor corriendo en http://localhost:${port}`);
 });
+
+
+/*
+1. Install dependencies
+Run this command to install the required dependencies.
+Code:
+File: Code
+```
+npm install postgres
+```
+
+2. Add files
+Add the following files to your project.
+Details:
+host:aws-1-us-east-2.pooler.supabase.comport:5432database:postgresuser:postgres.hjjbminlkjxolgzlibrb
+Code:
+File: db.js
+```
+1import postgres from 'postgres'
+2
+3const connectionString = process.env.DATABASE_URL
+4const sql = postgres(connectionString)
+5
+6export default sql
+```
+
+File: .env
+```
+DATABASE_URL=postgresql://postgres.hjjbminlkjxolgzlibrb:laputamadrepassorddelorto@aws-1-us-east-2.pooler.supabase.com:5432/postgres
+```
+
+3. Install Agent Skills (Optional)
+Agent Skills give AI coding tools ready-made instructions, scripts, and resources for working with Supabase more accurately and efficiently.
+Details:
+npx skills add supabase/agent-skills
+Code:
+File: Code
+```
+npx skills add supabase/agent-skills
+```
+*/

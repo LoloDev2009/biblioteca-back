@@ -1,18 +1,13 @@
 import sqlite3 from "sqlite3";
 import { open } from "sqlite";
-import pkg from "pg";
-
-const { Pool } = pkg;
-
-const databasee = "postgresql://postgres.hjjbminlkjxolgzlibrb:7wFCJxpmuL@hFu$@aws-1-us-east-2.pooler.supabase.com:5432/postgres"
+import postgres from "postgres";
 
 
+const databasee = "postgresql://postgres.hjjbminlkjxolgzlibrb:laputamadrepassorddelorto@aws-1-us-east-2.pooler.supabase.com:6543/postgres";
 
-// 🔌 PostgreSQL (Render)
-const pool = new Pool({
-  connectionString: databasee,
-  ssl: { rejectUnauthorized: false }
-});
+const connectionString = databasee;
+const sql = postgres(connectionString)
+export default sql
 
 async function migrar() {
   // 📂 Abrir SQLite
@@ -28,9 +23,9 @@ async function migrar() {
 
   console.log(`📚 ${libros.length} libros encontrados`);
 
-  // 📤 Insertar en PostgreSQL
+    //📤 Insertar en PostgreSQL
   for (const libro of libros) {
-    await pool.query(`
+    await sql(`
       INSERT INTO libros (isbn, titulo, autor, editorial, portada_url, estado)
       VALUES ($1, $2, $3, $4, $5, $6)
       ON CONFLICT (isbn) DO NOTHING
@@ -45,7 +40,7 @@ async function migrar() {
 
     console.log(`✔ Migrado: ${libro.titulo}`);
   }
-
+  
   console.log("🚀 Migración completa");
   process.exit();
 }
