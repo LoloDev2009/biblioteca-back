@@ -1,7 +1,5 @@
 const express = require("express");
 const bodyParser = require("body-parser");
-const axios = require("axios");
-const sqlite3 = require("sqlite3").verbose();
 const cors = require("cors");
 const pkg = require("pg");
 
