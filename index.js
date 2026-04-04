@@ -1,8 +1,7 @@
-const express = require("express");
-const bodyParser = require("body-parser");
-const cors = require("cors");
-const pkg = require("pg");
-
+import express from "express";
+import bodyParser from "body-parser";
+import cors from "cors";
+import pkg from "pg";
 const { Pool } = pkg;
 const app = express();
 const port = process.env.PORT || 3000;
