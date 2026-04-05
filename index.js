@@ -17,15 +17,15 @@ const connectionString = process.env.DATABASE_URL
 const sql = postgres(connectionString)
 
 
-sql(`SELECT NOW()`, (err, res) => {
+sql`SELECT NOW()`, (err, res) => {
   if (err) {
     console.error("Error al conectar a la base de datos:", err);
   } else {
     console.log("Conexión a la base de datos exitosa:", res.rows[0]);
   }
-});
+};
 
-await sql(`CREATE TABLE IF NOT EXISTS libros (
+await sql`CREATE TABLE IF NOT EXISTS libros (
   id SERIAL PRIMARY KEY,
   isbn TEXT UNIQUE,
   titulo TEXT,
@@ -34,7 +34,7 @@ await sql(`CREATE TABLE IF NOT EXISTS libros (
   año TEXT,
   portada_url TEXT,
   estado TEXT
-)`);
+)`;
 
 //Endpoints
 
@@ -43,7 +43,7 @@ app.post("/api/libro", async (req, res) => {
   const { isbn } = req.body; //Get ISBN from request body
   //Try to find book in Database
   try {
-    sql("SELECT * FROM libros WHERE isbn = $1", [isbn], async (err, row) => {
+    sql`SELECT * FROM libros WHERE isbn = $1`, [isbn], async (err, row) => {
       if (err) {
         return res.status(500).json({ error: "Error al consultar la base de datos" });
       }
@@ -71,7 +71,7 @@ app.post("/api/libro", async (req, res) => {
           res.json({ type: "manual" });
         }
       }
-    });
+    };
   } catch (error) {
     console.error(error);
     res.status(500).json({ error: "Ocurrió un error" });
@@ -84,7 +84,7 @@ app.delete("/api/libro", (req, res) => {
   //Get ISBN from root query
   const { isbn } = req.query;
   //Delete book from DB
-  sql("DELETE FROM libros WHERE isbn = $1", [isbn], (err, result) => {
+  sql`DELETE FROM libros WHERE isbn = $1`, [isbn], (err, result) => {
     if (err) {
       return res.status(500).json({ error: "Error al eliminar el libro" });
     }
@@ -92,15 +92,15 @@ app.delete("/api/libro", (req, res) => {
       return res.status(404).json({ error: "Libro no encontrado" });
     }
     res.json({ message: "Libro eliminado correctamente" });
-  });
+  };
 });
 
 //Get all Books
 app.get("/api/libros", (req, res) => {
-  sql("SELECT * FROM libros ORDER BY titulo", (err, result) => {
+  sql`SELECT * FROM libros ORDER BY titulo`, (err, result) => {
     if (err) return res.status(500).json({ error: err.message });
     res.json(result.rows);
-  });
+  };
 });
 
 //Save Book
@@ -108,7 +108,7 @@ app.post("/api/libro/save", (req, res) => {
   //Get book as JSON from request body
   const { isbn, titulo, autor, editorial, año, portada_url, estado } = req.body;
   //Insert or update book in DB
-  sql(`INSERT INTO libros
+  sql`INSERT INTO libros
     (isbn, titulo, autor, editorial, año, portada_url, estado)
     VALUES ($1, $2, $3, $4, $5, $6, $7)
     ON CONFLICT(isbn) DO UPDATE SET
@@ -120,7 +120,7 @@ app.post("/api/libro/save", (req, res) => {
     estado = EXCLUDED.estado`, [isbn, titulo, autor, editorial, año, portada_url, estado], (err, result) => {
     if (err) return res.status(500).json({ error: err.message });
     res.json({ message: "Libro guardado correctamente", titulo });
-  });
+  };
 });
 
 app.listen(port, () => {
