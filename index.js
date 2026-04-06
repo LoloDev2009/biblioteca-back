@@ -2,6 +2,8 @@ import express from "express";
 import bodyParser from "body-parser";
 import cors from "cors";
 import postgres from "postgres";
+import axios from "axios";
+
 
 const app = express();
 const port = process.env.PORT || 3000;
@@ -102,6 +104,7 @@ app.delete("/api/libro", async (req, res) => {
 
 //Get all Books
 app.get("/api/libros", async (req, res) => {
+  console.log("Entró al endpoint: /api/libros");
   try {
     const rows = await sql`
       SELECT * FROM libros ORDER BY titulo
