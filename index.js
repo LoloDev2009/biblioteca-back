@@ -14,8 +14,9 @@ app.use(bodyParser.json());
 app.use(express.static("public"));
 
 console.log(process.env.DATABASE_URL);
+const databasee = "postgresql://postgres.hjjbminlkjxolgzlibrb:laputamadrepassorddelorto@aws-1-us-east-2.pooler.supabase.com:6543/postgres";
 
-const connectionString = process.env.DATABASE_URL
+const connectionString = databasee;
 const sql = postgres(connectionString)
 
 
@@ -122,7 +123,7 @@ app.post("/api/libro/save", async (req, res) => {
   try {
     await sql`
       INSERT INTO libros (isbn, titulo, autor, editorial, año, portada_url, estado)
-      VALUES (${isbn}, ${titulo}, ${autor}, ${editorial}, ${año}, ${portada_url}, ${estado})
+      VALUES (${isbn}, ${titulo || "Desconocido"}, ${autor || "Desconocido"}, ${editorial || "Desconocido"}, ${año || "Desconocido"}, ${portada_url || null}, ${estado || null})
       ON CONFLICT (isbn) DO UPDATE SET
         titulo = EXCLUDED.titulo,
         autor = EXCLUDED.autor,
