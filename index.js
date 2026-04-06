@@ -25,7 +25,7 @@ sql`SELECT NOW()`, (err, res) => {
   }
 };
 
-await sql`CREATE TABLE IF NOT EXISTS libros (
+sql`CREATE TABLE IF NOT EXISTS libros (
   id SERIAL PRIMARY KEY,
   isbn TEXT UNIQUE,
   titulo TEXT,
@@ -35,6 +35,8 @@ await sql`CREATE TABLE IF NOT EXISTS libros (
   portada_url TEXT,
   estado TEXT
 )`;
+
+console.log("Tabla 'libros' creada o verificada correctamente.");
 
 //Endpoints
 
