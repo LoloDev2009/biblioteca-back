@@ -25,18 +25,18 @@ async function migrar() {
 
     //📤 Insertar en PostgreSQL
   for (const libro of libros) {
-    await sql(`
+    await sql`
       INSERT INTO libros (isbn, titulo, autor, editorial, portada_url, estado)
-      VALUES ($1, $2, $3, $4, $5, $6)
+      VALUES (${libro.isbn}, ${libro.titulo}, ${libro.autor}, ${libro.editorial}, ${libro.portada_url}, ${libro.estado})
       ON CONFLICT (isbn) DO NOTHING
-    `, [
-      libro.isbn,
+    `;
+
       libro.titulo,
       libro.autor,
       libro.editorial,
       libro.portada_url,
       libro.estado
-    ]);
+    ;
 
     console.log(`✔ Migrado: ${libro.titulo}`);
   }

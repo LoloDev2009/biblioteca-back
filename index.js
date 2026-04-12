@@ -2,6 +2,8 @@ import express from "express";
 import bodyParser from "body-parser";
 import cors from "cors";
 import postgres from "postgres";
+import axios from "axios";
+
 
 const app = express();
 const port = process.env.PORT || 3000;
@@ -15,24 +17,27 @@ const connectionString = process.env.DATABASE_URL
 const sql = postgres(connectionString)
 
 
-sql(`SELECT NOW()`, (err, res) => {
-  if (err) {
-    console.error("Error al conectar a la base de datos:", err);
-  } else {
-    console.log("Conexión a la base de datos exitosa:", res.rows[0]);
-  }
-});
+try {
+  const result = await sql`SELECT NOW()`;
+  console.log("Conectado:", result);
+} catch (err) {
+  console.error("Error DB:", err);
+}
 
-await sql(`CREATE TABLE IF NOT EXISTS libros (
-  id SERIAL PRIMARY KEY,
-  isbn TEXT UNIQUE,
-  titulo TEXT,
-  autor TEXT,
-  editorial TEXT,
-  año TEXT,
-  portada_url TEXT,
-  estado TEXT
-)`);
+await sql`
+  CREATE TABLE IF NOT EXISTS libros (
+    id SERIAL PRIMARY KEY,
+    isbn TEXT UNIQUE,
+    titulo TEXT,
+    autor TEXT,
+    editorial TEXT,
+    año TEXT,
+    portada_url TEXT,
+    estado TEXT
+  )
+`;
+
+console.log("Tabla 'libros' creada o verificada correctamente.");
 
 //Endpoints
 
@@ -41,13 +46,13 @@ app.post("/api/libro", async (req, res) => {
   const { isbn } = req.body; //Get ISBN from request body
   //Try to find book in Database
   try {
-    sql("SELECT * FROM libros WHERE isbn = $1", [isbn], async (err, row) => {
-      if (err) {
-        return res.status(500).json({ error: "Error al consultar la base de datos" });
-      }
-      if (row) {
-        return res.json({ type: "edit", libro: row });
-      } else {
+    const rows = await sql`
+      SELECT * FROM libros WHERE isbn = ${isbn}
+    `;
+
+    if (rows.length > 0) {
+      return res.json({ type: "edit", libro: rows[0] });
+    } else {
         //If not found in DB, try Google Books API
         let r = await axios.get(`https://www.googleapis.com/books/v1/volumes?q=isbn:${isbn}`);
         let info = null;
@@ -69,99 +74,69 @@ app.post("/api/libro", async (req, res) => {
           res.json({ type: "manual" });
         }
       }
-    });
   } catch (error) {
     console.error(error);
-    res.status(500).json({ error: "Ocurrió un error" });
+    res.status(500).json({ error: "Error DB" });
   }
-  
 });
 
 //Delete Book by ISBN from query
-app.delete("/api/libro", (req, res) => {
-  //Get ISBN from root query
+app.delete("/api/libro", async (req, res) => {
   const { isbn } = req.query;
-  //Delete book from DB
-  sql("DELETE FROM libros WHERE isbn = $1", [isbn], (err, result) => {
-    if (err) {
-      return res.status(500).json({ error: "Error al eliminar el libro" });
-    }
-    if (result.rowCount === 0) {
+
+  try {
+    const result = await sql`
+      DELETE FROM libros WHERE isbn = ${isbn}
+    `;
+
+    if (result.count === 0) {
       return res.status(404).json({ error: "Libro no encontrado" });
     }
-    res.json({ message: "Libro eliminado correctamente" });
-  });
+
+    res.json({ message: "Libro eliminado" });
+
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
 });
 
 //Get all Books
-app.get("/api/libros", (req, res) => {
-  sql("SELECT * FROM libros ORDER BY titulo", (err, result) => {
-    if (err) return res.status(500).json({ error: err.message });
-    res.json(result.rows);
-  });
+app.get("/api/libros", async (req, res) => {
+  console.log("Entró al endpoint: /api/libros");
+  try {
+    const rows = await sql`
+      SELECT * FROM libros ORDER BY titulo
+    `;
+    res.json(rows);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
 });
 
 //Save Book
-app.post("/api/libro/save", (req, res) => {
-  //Get book as JSON from request body
+app.post("/api/libro/save", async (req, res) => {
   const { isbn, titulo, autor, editorial, año, portada_url, estado } = req.body;
-  //Insert or update book in DB
-  sql(`INSERT INTO libros
-    (isbn, titulo, autor, editorial, año, portada_url, estado)
-    VALUES ($1, $2, $3, $4, $5, $6, $7)
-    ON CONFLICT(isbn) DO UPDATE SET
-    titulo = EXCLUDED.titulo,
-    autor = EXCLUDED.autor,
-    editorial = EXCLUDED.editorial,
-    año = EXCLUDED.año,
-    portada_url = EXCLUDED.portada_url,
-    estado = EXCLUDED.estado`, [isbn, titulo, autor, editorial, año, portada_url, estado], (err, result) => {
-    if (err) return res.status(500).json({ error: err.message });
-    res.json({ message: "Libro guardado correctamente", titulo });
-  });
+
+  try {
+    await sql`
+      INSERT INTO libros (isbn, titulo, autor, editorial, año, portada_url, estado)
+      VALUES (${isbn}, ${titulo || "Desconocido"}, ${autor || "Desconocido"}, ${editorial || "Desconocido"}, ${año || "Desconocido"}, ${portada_url || null}, ${estado || null})
+      ON CONFLICT (isbn) DO UPDATE SET
+        titulo = EXCLUDED.titulo,
+        autor = EXCLUDED.autor,
+        editorial = EXCLUDED.editorial,
+        año = EXCLUDED.año,
+        portada_url = EXCLUDED.portada_url,
+        estado = EXCLUDED.estado
+    `;
+
+    res.json({ message: "Libro guardado", titulo });
+
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
 });
 
 app.listen(port, () => {
   console.log(`Servidor corriendo en http://localhost:${port}`);
 });
-
-
-/*
-1. Install dependencies
-Run this command to install the required dependencies.
-Code:
-File: Code
-```
-npm install postgres
-```
-
-2. Add files
-Add the following files to your project.
-Details:
-host:aws-1-us-east-2.pooler.supabase.comport:5432database:postgresuser:postgres.hjjbminlkjxolgzlibrb
-Code:
-File: db.js
-```
-1import postgres from 'postgres'
-2
-3const connectionString = process.env.DATABASE_URL
-4const sql = postgres(connectionString)
-5
-6export default sql
-```
-
-File: .env
-```
-DATABASE_URL=postgresql://postgres.hjjbminlkjxolgzlibrb:laputamadrepassorddelorto@aws-1-us-east-2.pooler.supabase.com:5432/postgres
-```
-
-3. Install Agent Skills (Optional)
-Agent Skills give AI coding tools ready-made instructions, scripts, and resources for working with Supabase more accurately and efficiently.
-Details:
-npx skills add supabase/agent-skills
-Code:
-File: Code
-```
-npx skills add supabase/agent-skills
-```
-*/
