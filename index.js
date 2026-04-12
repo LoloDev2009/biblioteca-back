@@ -16,6 +16,16 @@ app.use(express.static("public"));
 const connectionString = process.env.DATABASE_URL
 const sql = postgres(connectionString)
 
+// Error handling class
+class AppError extends Error {
+  constructor(message, statusCode = 500, code = "INTERNAL_ERROR", details = null) {
+    super(message);
+    this.statusCode = statusCode;
+    this.code = code;
+    this.details = details;
+  }
+}
+
 
 try {
   const result = await sql`SELECT NOW()`;
@@ -43,9 +53,14 @@ console.log("Tabla 'libros' creada o verificada correctamente.");
 
 //Search Book by ISBN
 app.post("/api/libro", async (req, res) => {
-  const { isbn } = req.body; //Get ISBN from request body
+  
   //Try to find book in Database
   try {
+    const { isbn } = req.body; //Get ISBN from request body
+
+    if (!isbn) {
+      throw new AppError("ISBN requerido", 400, "VALIDATION_ERROR");
+    }
     const rows = await sql`
       SELECT * FROM libros WHERE isbn = ${isbn}
     `;
@@ -53,12 +68,17 @@ app.post("/api/libro", async (req, res) => {
     if (rows.length > 0) {
       return res.json({ type: "edit", libro: rows[0] });
     } else {
+
         //If not found in DB, try Google Books API
-        let r = await axios.get(`https://www.googleapis.com/books/v1/volumes?q=isbn:${isbn}`);
-        let info = null;
+        let r;
+        try{
+          r = await axios.get(`https://www.googleapis.com/books/v1/volumes?q=isbn:${isbn}`);
+        } catch (err) {
+          throw new AppError("Error al consultar Google Books API", 502, "EXTERNAL_API_ERROR");}
+
         if (r.data.totalItems > 0) {
           const vol = r.data.items[0].volumeInfo;
-          info = {
+          const info = {
             isbn,
             titulo: vol.title,
             autor: vol.authors ? vol.authors.join(", ") : "Desconocido",
@@ -74,29 +94,39 @@ app.post("/api/libro", async (req, res) => {
           res.json({ type: "manual" });
         }
       }
-  } catch (error) {
-    console.error(error);
-    res.status(500).json({ error: "Error DB" });
+  } catch (err) {
+    next(err)
   }
+app.use((err, req, res, next) => {
+  console.error("🔥 ERROR:", err);
+
+  res.status(err.statusCode || 500).json({
+    error: {
+      code: err.code || "INTERNAL_ERROR",
+      message: err.message || "Error interno",
+      details: err.details || null
+    }
+  });
+});
 });
 
 //Delete Book by ISBN from query
-app.delete("/api/libro", async (req, res) => {
-  const { isbn } = req.query;
-
+app.delete("/api/libro", async (req, res, next) => {
   try {
+    const { isbn } = req.query;
+    if (!isbn) {
+      throw new AppError("ISBN requerido", 400, "VALIDATION_ERROR");
+    }
     const result = await sql`
       DELETE FROM libros WHERE isbn = ${isbn}
     `;
 
     if (result.count === 0) {
-      return res.status(404).json({ error: "Libro no encontrado" });
+      throw new AppError("Libro no encontrado", 404, "BOOK_NOT_FOUND");
     }
-
     res.json({ message: "Libro eliminado" });
-
   } catch (err) {
-    res.status(500).json({ error: err.message });
+    next(err);
   }
 });
 

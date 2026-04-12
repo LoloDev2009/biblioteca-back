@@ -1,6 +1,6 @@
-const fs = require("fs");
-const axios = require("axios");
-const sqlite3 = require("sqlite3").verbose();
+import axios from "axios";
+import sqlite3 from "sqlite3";
+import fs from "fs";
 
 // URL de tu backend remoto
 const REMOTE_URL = "https://biblioteca-back-315x.onrender.com/api/libros";
