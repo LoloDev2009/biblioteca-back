@@ -3,7 +3,7 @@ import { open } from "sqlite";
 import postgres from "postgres";
 
 
-const databasee = "postgresql://postgres.hjjbminlkjxolgzlibrb:laputamadrepassorddelorto@aws-1-us-east-2.pooler.supabase.com:6543/postgres";
+const databasee = process.env.DATABASE_URL;
 
 const connectionString = databasee;
 const sql = postgres(connectionString)
