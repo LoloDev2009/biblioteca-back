@@ -47,7 +47,20 @@ await sql`
   )
 `;
 
-console.log("Tabla 'libros' creada o verificada correctamente.");
+await sql`
+  CREATE TABLE IF NOT EXISTS detalles (
+    id SERIAL PRIMARY KEY,
+    libro_id INTEGER UNIQUE REFERENCES libros(id) ON DELETE CASCADE,
+
+    descripcion TEXT,
+    paginas INTEGER,
+    genero TEXT,
+    idioma TEXT,
+    saga TEXT,
+    reseña TEXT,
+    puntuacion FLOAT
+  );
+`;
 
 //Endpoints
 
@@ -142,6 +155,21 @@ app.get("/api/libros", async (req, res) => {
     res.status(500).json({ error: err.message });
   }
 });
+
+//Get all Books
+app.get("/api/libro/detalle", async (req, res) => {
+  const { isbn } = req.body;
+  console.log("Entró al endpoint: /api/libro/detalles");
+  try {
+    const rows = await sql`
+      SELECT * FROM detalles JOIN libros ON detalles.libro_id = libros.id WHERE libros.isbn = ${isbn}
+    `;
+    res.json(rows);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 
 //Save Book
 app.post("/api/libro/save", async (req, res) => {
