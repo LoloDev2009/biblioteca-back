@@ -156,7 +156,7 @@ app.get("/api/libros", async (req, res) => {
   }
 });
 
-//Get all Books
+//Get book details by ISBN
 app.get("/api/libro/detalle", async (req, res) => {
   const { isbn } = req.body;
   console.log("Entró al endpoint: /api/libro/detalles");
@@ -169,6 +169,31 @@ app.get("/api/libro/detalle", async (req, res) => {
     res.status(500).json({ error: err.message });
   }
 });
+
+//Post book details by ISBN
+app.post("/api/libro/detalle", async (req, res) => {
+  const { libro_id, descripcion, paginas, genero, idioma, saga, reseña, puntuacion} = req.body;
+
+  try {
+    await sql`
+      INSERT INTO libros (libro_id, descripcion, paginas, genero, idioma, saga, reseña, puntuacion)
+      VALUES (${libro_id}, ${descripcion || null}, ${paginas || null}, ${genero || null}, ${idioma || null}, ${saga || null}, ${reseña || null}, ${puntuacion || null})
+      ON CONFLICT (libro_id) DO UPDATE SET
+        descripcion = EXCLUDED.descripcion,
+        paginas = EXCLUDED.paginas,
+        genero = EXCLUDED.genero,
+        idioma = EXCLUDED.idioma,
+        portada_url = EXCLUDED.portada_url,
+        estado = EXCLUDED.estado
+    `;
+
+    res.json({ message: "Libro guardado", titulo });
+
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 
 
 //Save Book
