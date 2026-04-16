@@ -188,7 +188,7 @@ app.post("/api/libro/detalle", async (req, res) => {
         puntuacion = EXCLUDED.puntuacion
     `;
 
-    res.json({ message: "Libro guardado", titulo });
+    res.json({ message: "Libro guardado", libro_id });
 
   } catch (err) {
     res.status(500).json({ error: err.message });
