@@ -176,7 +176,7 @@ app.post("/api/libro/detalle", async (req, res) => {
 
   try {
     await sql`
-      INSERT INTO libros (libro_id, descripcion, paginas, genero, idioma, saga, reseña, puntuacion)
+      INSERT INTO detalles (libro_id, descripcion, paginas, genero, idioma, saga, reseña, puntuacion)
       VALUES (${libro_id}, ${descripcion || null}, ${paginas || null}, ${genero || null}, ${idioma || null}, ${saga || null}, ${reseña || null}, ${puntuacion || null})
       ON CONFLICT (libro_id) DO UPDATE SET
         descripcion = EXCLUDED.descripcion,
