@@ -110,6 +110,7 @@ app.post("/api/libro", async (req, res) => {
   } catch (err) {
     next(err)
   }
+});
 app.use((err, req, res, next) => {
   console.error("🔥 ERROR:", err);
 
@@ -120,7 +121,6 @@ app.use((err, req, res, next) => {
       details: err.details || null
     }
   });
-});
 });
 
 //Delete Book by ISBN from query
