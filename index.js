@@ -183,8 +183,9 @@ app.post("/api/libro/detalle", async (req, res) => {
         paginas = EXCLUDED.paginas,
         genero = EXCLUDED.genero,
         idioma = EXCLUDED.idioma,
-        portada_url = EXCLUDED.portada_url,
-        estado = EXCLUDED.estado
+        saga = EXCLUDED.saga,
+        reseña = EXCLUDED.reseña,
+        puntuacion = EXCLUDED.puntuacion
     `;
 
     res.json({ message: "Libro guardado", titulo });
