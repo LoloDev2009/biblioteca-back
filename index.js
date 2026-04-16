@@ -64,65 +64,54 @@ await sql`
 
 //Endpoints
 
-//Search Book by ISBN
-app.post("/api/libro", async (req, res) => {
-  
-  //Try to find book in Database
+app.post("/api/libro", async (req, res, next) => {
   try {
-    const { isbn } = req.body; //Get ISBN from request body
+    const { isbn } = req.body;
 
     if (!isbn) {
       throw new AppError("ISBN requerido", 400, "VALIDATION_ERROR");
     }
+
     const rows = await sql`
       SELECT * FROM libros WHERE isbn = ${isbn}
     `;
 
     if (rows.length > 0) {
       return res.json({ type: "edit", libro: rows[0] });
-    } else {
+    }
 
-        //If not found in DB, try Google Books API
-        let r;
-        try{
-          r = await axios.get(`https://www.googleapis.com/books/v1/volumes?q=isbn:${isbn}`);
-        } catch (err) {
-          throw new AppError("Error al consultar Google Books API", 502, "EXTERNAL_API_ERROR");}
+    // Google Books
+    let r;
+    try {
+      r = await axios.get(`https://www.googleapis.com/books/v1/volumes?q=isbn:${isbn}`);
+    } catch (err) {
+      throw new AppError("Error al consultar Google Books API", 502, "EXTERNAL_API_ERROR");
+    }
 
-        if (r.data.totalItems > 0) {
-          const vol = r.data.items[0].volumeInfo;
-          const info = {
-            isbn,
-            titulo: vol.title,
-            autor: vol.authors ? vol.authors.join(", ") : "Desconocido",
-            editorial: vol.publisher || "Desconocido",
-            año: vol.publishedDate || "Desconocido",
-            portada_url: vol.imageLinks ? vol.imageLinks.thumbnail : ""
-          };
-        }
-  //Send book info if found and type to frontend
-        if (info) {
-          res.json({ type: "API", libro: info });
-        } else {
-          res.json({ type: "manual" });
-        }
-      }
+    let info = null;
+
+    if (r.data.totalItems > 0) {
+      const vol = r.data.items[0].volumeInfo;
+      info = {
+        isbn,
+        titulo: vol.title,
+        autor: vol.authors ? vol.authors.join(", ") : "Desconocido",
+        editorial: vol.publisher || "Desconocido",
+        año: vol.publishedDate || "Desconocido",
+        portada_url: vol.imageLinks ? vol.imageLinks.thumbnail : ""
+      };
+    }
+
+    if (info) {
+      return res.json({ type: "API", libro: info });
+    }
+
+    return res.json({ type: "manual" });
+
   } catch (err) {
-    next(err)
+    next(err);
   }
 });
-app.use((err, req, res, next) => {
-  console.error("🔥 ERROR:", err);
-
-  res.status(err.statusCode || 500).json({
-    error: {
-      code: err.code || "INTERNAL_ERROR",
-      message: err.message || "Error interno",
-      details: err.details || null
-    }
-  });
-});
-
 //Delete Book by ISBN from query
 app.delete("/api/libro", async (req, res, next) => {
   try {
