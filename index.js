@@ -161,7 +161,7 @@ app.get("/api/libro/detalle", async (req, res) => {
 
 //Post book details by ISBN
 app.post("/api/libro/detalle", async (req, res) => {
-  const { libro_id, descripcion, paginas, genero, idioma, saga, reseña, puntuacion} = req.body;
+  const { libro_id, descripcion, paginas, genero, idioma, saga, reseña, puntuacion, estante} = req.body;
 
   try {
     await sql`
