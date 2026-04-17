@@ -15,6 +15,24 @@ const saga = "Escolomancia";
 const reseña = "Muy bueno :)";
 const puntuacion = 4.5;
 
+await sql`
+  DROP TABLE IF EXISTS detalles;
+`;
+
+await sql`
+  CREATE TABLE detalles (
+  libro_id INTEGER PRIMARY KEY REFERENCES libros(id),
+  descripcion TEXT,
+  paginas INTEGER,
+  genero TEXT,
+  idioma TEXT,
+  saga TEXT,
+  reseña TEXT,
+  puntuacion NUMERIC,
+  estante TEXT
+);
+`;
+
 /*await sql`
   INSERT INTO detalles (
     id,

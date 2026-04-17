@@ -165,8 +165,8 @@ app.post("/api/libro/detalle", async (req, res) => {
 
   try {
     await sql`
-      INSERT INTO detalles (libro_id, descripcion, paginas, genero, idioma, saga, reseña, puntuacion)
-      VALUES (${libro_id}, ${descripcion || null}, ${paginas || null}, ${genero || null}, ${idioma || null}, ${saga || null}, ${reseña || null}, ${puntuacion || null})
+      INSERT INTO detalles (libro_id, descripcion, paginas, genero, idioma, saga, reseña, puntuacion, estante)
+      VALUES (${libro_id}, ${descripcion || null}, ${paginas || null}, ${genero || null}, ${idioma || null}, ${saga || null}, ${reseña || null}, ${puntuacion || null}, ${estante || null})
       ON CONFLICT (libro_id) DO UPDATE SET
         descripcion = EXCLUDED.descripcion,
         paginas = EXCLUDED.paginas,
@@ -174,7 +174,8 @@ app.post("/api/libro/detalle", async (req, res) => {
         idioma = EXCLUDED.idioma,
         saga = EXCLUDED.saga,
         reseña = EXCLUDED.reseña,
-        puntuacion = EXCLUDED.puntuacion
+        puntuacion = EXCLUDED.puntuacion,
+        estante = EXCLUDED.estante
     `;
 
     res.json({ message: "Libro guardado", libro_id });
