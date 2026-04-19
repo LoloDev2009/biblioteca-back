@@ -147,7 +147,7 @@ app.get("/api/libros", async (req, res) => {
 
 //Get book details by ISBN
 app.get("/api/libro/detalle", async (req, res) => {
-  const { isbn } = req.body;
+  const { isbn } = req.query;
   console.log("Entró al endpoint: /api/libro/detalles");
   try {
     const rows = await sql`
