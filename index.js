@@ -173,7 +173,7 @@ app.post("/api/libro/detalle", async (req, res) => {
         genero = EXCLUDED.genero,
         idioma = EXCLUDED.idioma,
         saga = EXCLUDED.saga,
-        reseña = EXCLUDED.reseña,
+        resena = EXCLUDED.reseña,
         puntuacion = EXCLUDED.puntuacion,
         estante = EXCLUDED.estante
     `;

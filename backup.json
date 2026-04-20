@@ -5,7 +5,7 @@
     "titulo": "¡Feliz cumpleaños, Winnie!",
     "autor": "Valérie Thomas",
     "editorial": "Oceano Travesia",
-    "año": null,
+    "año": "Desconocido",
     "portada_url": "https://cdn.oceano.com.ar/titulos/9786077352341.jpg",
     "estado": "Disponible"
   },
@@ -355,9 +355,9 @@
     "titulo": "Canciones para mirar",
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
-    "año": null,
-    "portada_url": "",
-    "estado": "Disponible"
+    "año": "Desconocido",
+    "portada_url": null,
+    "estado": "Prestado"
   },
   {
     "id": 20,
@@ -385,9 +385,9 @@
     "titulo": "Chaucha Y Palito",
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
-    "año": null,
-    "portada_url": "",
-    "estado": "Disponible"
+    "año": "Desconocido",
+    "portada_url": null,
+    "estado": "Prestado"
   },
   {
     "id": 245,
@@ -995,9 +995,9 @@
     "titulo": "Doña disparate y Bambuco",
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
-    "año": null,
-    "portada_url": "",
-    "estado": "Disponible"
+    "año": "Desconocido",
+    "portada_url": null,
+    "estado": "Prestado"
   },
   {
     "id": 216,
@@ -1075,9 +1075,9 @@
     "titulo": "El diablo Inglés",
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
-    "año": null,
-    "portada_url": "",
-    "estado": "Disponible"
+    "año": "Desconocido",
+    "portada_url": null,
+    "estado": "Prestado"
   },
   {
     "id": 230,
@@ -1195,9 +1195,9 @@
     "titulo": "El Reino del revés",
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
-    "año": null,
-    "portada_url": "",
-    "estado": "Disponible"
+    "año": "Desconocido",
+    "portada_url": null,
+    "estado": "Prestado"
   },
   {
     "id": 253,
@@ -1675,9 +1675,9 @@
     "titulo": "La nube traicionera",
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
-    "año": null,
-    "portada_url": "",
-    "estado": "Disponible"
+    "año": "Desconocido",
+    "portada_url": null,
+    "estado": "Prestado"
   },
   {
     "id": 144,
@@ -2595,9 +2595,9 @@
     "titulo": "Tutú marambá",
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
-    "año": null,
-    "portada_url": "",
-    "estado": "Disponible"
+    "año": "Desconocido",
+    "portada_url": null,
+    "estado": "Prestado"
   },
   {
     "id": 268,
@@ -2615,7 +2615,7 @@
     "titulo": "Una Educacion Mortal",
     "autor": "Naomi Novik",
     "editorial": "Umbriel",
-    "año": null,
+    "año": "Desconocido",
     "portada_url": "https://contentv2.tap-commerce.com/cover/large/9789874777744_1.jpg?id_com=1156",
     "estado": "Disponible"
   },
@@ -2835,8 +2835,8 @@
     "titulo": "Zoo loco",
     "autor": "María Elena Walsh",
     "editorial": "Alfaguara",
-    "año": null,
-    "portada_url": "",
-    "estado": "Disponible"
+    "año": "Desconocido",
+    "portada_url": null,
+    "estado": "Prestado"
   }
 ]
