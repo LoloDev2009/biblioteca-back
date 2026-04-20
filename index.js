@@ -161,19 +161,19 @@ app.get("/api/libro/detalle", async (req, res) => {
 
 //Post book details by ISBN
 app.post("/api/libro/detalle", async (req, res) => {
-  const { libro_id, descripcion, paginas, genero, idioma, saga, reseña, puntuacion, estante} = req.body;
+  const { libro_id, descripcion, paginas, genero, idioma, saga, resena, puntuacion, estante} = req.body;
 
   try {
     await sql`
-      INSERT INTO detalles (libro_id, descripcion, paginas, genero, idioma, saga, reseña, puntuacion, estante)
-      VALUES (${libro_id}, ${descripcion || null}, ${paginas || null}, ${genero || null}, ${idioma || null}, ${saga || null}, ${reseña || null}, ${puntuacion || null}, ${estante || null})
+      INSERT INTO detalles (libro_id, descripcion, paginas, genero, idioma, saga, resena, puntuacion, estante)
+      VALUES (${libro_id}, ${descripcion || null}, ${paginas || null}, ${genero || null}, ${idioma || null}, ${saga || null}, ${resena || null}, ${puntuacion || null}, ${estante || null})
       ON CONFLICT (libro_id) DO UPDATE SET
         descripcion = EXCLUDED.descripcion,
         paginas = EXCLUDED.paginas,
         genero = EXCLUDED.genero,
         idioma = EXCLUDED.idioma,
         saga = EXCLUDED.saga,
-        resena = EXCLUDED.reseña,
+        resena = EXCLUDED.resena,
         puntuacion = EXCLUDED.puntuacion,
         estante = EXCLUDED.estante
     `;
