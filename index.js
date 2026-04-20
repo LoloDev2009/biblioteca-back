@@ -153,7 +153,7 @@ app.get("/api/libro/detalle", async (req, res) => {
     const rows = await sql`
       SELECT * FROM detalles JOIN libros ON detalles.libro_id = libros.id WHERE libros.isbn = ${isbn}
     `;
-    res.json(rows);
+    res.json(rows[0] || null);
   } catch (err) {
     res.status(500).json({ error: err.message });
   }

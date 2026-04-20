@@ -14,7 +14,9 @@ const idioma = "Español";
 const saga = "Escolomancia";
 const reseña = "Muy bueno :)";
 const puntuacion = 4.5;
-
+const estante = "A3";
+const isbn = "9789874777744";
+/*
 await sql`
   DROP TABLE IF EXISTS detalles;
 `;
@@ -27,25 +29,24 @@ await sql`
   genero TEXT,
   idioma TEXT,
   saga TEXT,
-  reseña TEXT,
-  puntuacion NUMERIC,
+  resena TEXT,
+  puntuacion FLOAT,
   estante TEXT
 );
 `;
 
-/*await sql`
+
+await sql`
   INSERT INTO detalles (
-    id,
     libro_id,
     descripcion,
     paginas,
     genero,
     idioma,
     saga,
-    reseña,
+    resena,
     puntuacion
   ) VALUES (
-    DEFAULT,
     ${libroId},
     ${descripcion},
     ${paginas},
@@ -56,9 +57,14 @@ await sql`
     ${puntuacion}
   )
 `;
-*/
+
 
 const libros = await sql`
     SELECT * FROM detalles
     `
+*/
+const libros = await sql`
+      SELECT * FROM detalles JOIN libros ON detalles.libro_id = libros.id WHERE libros.isbn = ${isbn}
+    `;
+
 console.log(libros)
