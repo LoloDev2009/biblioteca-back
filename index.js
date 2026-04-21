@@ -159,6 +159,23 @@ app.get("/api/libro/detalle", async (req, res) => {
   }
 });
 
+app.delete("/api/libro/detalle", async (req, res) => {
+  const { isbn } = req.query;
+  console.log("Entró al endpoint: /api/libro/detalles");
+  try {
+    const result = await sql`
+      DELETE FROM detalles USING libros WHERE detalles.libro_id = libros.id AND libros.isbn = ${isbn}
+    `;
+    
+    if (result.count === 0) {
+      return res.status(404).json({ error: "Detalles no encontrados" });
+    }
+    res.json({ message: "Detalles eliminados" });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 //Post book details by ISBN
 app.post("/api/libro/detalle", async (req, res) => {
   const { libro_id, descripcion, paginas, genero, idioma, saga, resena, puntuacion, estante} = req.body;
