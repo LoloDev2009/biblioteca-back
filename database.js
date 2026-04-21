@@ -58,13 +58,14 @@ await sql`
   )
 `;
 
-
+*/
 const libros = await sql`
     SELECT * FROM detalles
     `
-*/
+
+/*
 const libros = await sql`
       SELECT * FROM detalles JOIN libros ON detalles.libro_id = libros.id WHERE libros.isbn = ${isbn}
     `;
-
+*/
 console.log(libros)
