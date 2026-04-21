@@ -4,7 +4,6 @@ import cors from "cors";
 import postgres from "postgres";
 import axios from "axios";
 
-
 const app = express();
 const port = process.env.PORT || 3000;
 
@@ -13,19 +12,23 @@ app.use(cors());
 app.use(bodyParser.json());
 app.use(express.static("public"));
 
-const connectionString = process.env.DATABASE_URL
-const sql = postgres(connectionString)
+const connectionString = process.env.DATABASE_URL;
+const sql = postgres(connectionString);
 
 // Error handling class
 class AppError extends Error {
-  constructor(message, statusCode = 500, code = "INTERNAL_ERROR", details = null) {
+  constructor(
+    message,
+    statusCode = 500,
+    code = "INTERNAL_ERROR",
+    details = null,
+  ) {
     super(message);
     this.statusCode = statusCode;
     this.code = code;
     this.details = details;
   }
 }
-
 
 try {
   const result = await sql`SELECT NOW()`;
@@ -83,9 +86,15 @@ app.post("/api/libro", async (req, res, next) => {
     // Google Books
     let r;
     try {
-      r = await axios.get(`https://www.googleapis.com/books/v1/volumes?q=isbn:${isbn}`);
+      r = await axios.get(
+        `https://www.googleapis.com/books/v1/volumes?q=isbn:${isbn}`,
+      );
     } catch (err) {
-      throw new AppError("Error al consultar Google Books API", 502, "EXTERNAL_API_ERROR");
+      throw new AppError(
+        "Error al consultar Google Books API",
+        502,
+        "EXTERNAL_API_ERROR",
+      );
     }
 
     let info = null;
@@ -98,7 +107,7 @@ app.post("/api/libro", async (req, res, next) => {
         autor: vol.authors ? vol.authors.join(", ") : "Desconocido",
         editorial: vol.publisher || "Desconocido",
         año: vol.publishedDate || "Desconocido",
-        portada_url: vol.imageLinks ? vol.imageLinks.thumbnail : ""
+        portada_url: vol.imageLinks ? vol.imageLinks.thumbnail : "",
       };
     }
 
@@ -107,7 +116,6 @@ app.post("/api/libro", async (req, res, next) => {
     }
 
     return res.json({ type: "manual" });
-
   } catch (err) {
     next(err);
   }
@@ -166,7 +174,7 @@ app.delete("/api/libro/detalle", async (req, res) => {
     const result = await sql`
       DELETE FROM detalles USING libros WHERE detalles.libro_id = libros.id AND libros.isbn = ${isbn}
     `;
-    
+
     if (result.count === 0) {
       return res.status(404).json({ error: "Detalles no encontrados" });
     }
@@ -178,7 +186,17 @@ app.delete("/api/libro/detalle", async (req, res) => {
 
 //Post book details by ISBN
 app.post("/api/libro/detalle", async (req, res) => {
-  const { libro_id, descripcion, paginas, genero, idioma, saga, resena, puntuacion, estante} = req.body;
+  const {
+    libro_id,
+    descripcion,
+    paginas,
+    genero,
+    idioma,
+    saga,
+    resena,
+    puntuacion,
+    estante,
+  } = req.body;
 
   try {
     await sql`
@@ -196,13 +214,10 @@ app.post("/api/libro/detalle", async (req, res) => {
     `;
 
     res.json({ message: "Libro guardado", libro_id });
-
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
 });
-
-
 
 //Save Book
 app.post("/api/libro/save", async (req, res) => {
@@ -222,7 +237,6 @@ app.post("/api/libro/save", async (req, res) => {
     `;
 
     res.json({ message: "Libro guardado", titulo });
-
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
