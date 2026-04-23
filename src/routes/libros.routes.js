@@ -3,12 +3,12 @@ import { postLibro, deleteLibro, getLibros, getDetalle, deleteDetalle, postDetal
 
 const router = express.Router();
 
-router.delete("/api/libro", deleteLibro)
-router.post("/api/libro", postLibro);
-router.get("/api/libros", getLibros);
-router.get("/api/libro/detalle", getDetalle);
-router.delete("/api/libro/detalle", deleteDetalle);
-router.post("/api/libro/detalle", postDetalle);
-router.post("/api/libro/save", saveLibro);
+router.delete("/", deleteLibro)
+router.post("/", postLibro);
+router.get("/all", getLibros);
+router.get("/detalle", getDetalle);
+router.delete("/detalle", deleteDetalle);
+router.post("/detalle", postDetalle);
+router.post("/save", saveLibro);
 
 export default router;

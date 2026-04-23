@@ -12,9 +12,6 @@ app.use(cors());
 app.use(express.json());
 
 app.use("/api/libro", libroRoutes);
-app.use("/api/libros", libroRoutes);
-app.use("/api/libro/detalle", libroRoutes);
-app.use("/api/libro/save", libroRoutes);
 
 app.get("/", (req, res) => {
   res.send("API funcionando");

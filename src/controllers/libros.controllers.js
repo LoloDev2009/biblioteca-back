@@ -1,5 +1,5 @@
 import axios from "axios";
-    
+import sql from "../db/db.js";
 
 export async function postLibro(req, res, next){
   try {
@@ -75,7 +75,7 @@ export async function deleteLibro(req, res, next){
 };
 
 export async function getLibros(req, res){
-  console.log("Entró al endpoint: /api/libros");
+  console.log("Entró al endpoint: /api/libro/all");
   try {
     const rows = await sql`
       SELECT * FROM libros ORDER BY titulo
