@@ -1,73 +1,7 @@
-import express from "express";
-import bodyParser from "body-parser";
-import cors from "cors";
-import postgres from "postgres";
 import axios from "axios";
+    
 
-const app = express();
-const port = process.env.PORT || 3000;
-
-// Middlewares
-app.use(cors());
-app.use(bodyParser.json());
-app.use(express.static("public"));
-
-const connectionString = process.env.DATABASE_URL;
-const sql = postgres(connectionString);
-
-// Error handling class
-class AppError extends Error {
-  constructor(
-    message,
-    statusCode = 500,
-    code = "INTERNAL_ERROR",
-    details = null,
-  ) {
-    super(message);
-    this.statusCode = statusCode;
-    this.code = code;
-    this.details = details;
-  }
-}
-
-try {
-  const result = await sql`SELECT NOW()`;
-  console.log("Conectado:", result);
-} catch (err) {
-  console.error("Error DB:", err);
-}
-
-await sql`
-  CREATE TABLE IF NOT EXISTS libros (
-    id SERIAL PRIMARY KEY,
-    isbn TEXT UNIQUE,
-    titulo TEXT,
-    autor TEXT,
-    editorial TEXT,
-    año TEXT,
-    portada_url TEXT,
-    estado TEXT
-  )
-`;
-
-await sql`
-  CREATE TABLE IF NOT EXISTS detalles (
-    id SERIAL PRIMARY KEY,
-    libro_id INTEGER UNIQUE REFERENCES libros(id) ON DELETE CASCADE,
-
-    descripcion TEXT,
-    paginas INTEGER,
-    genero TEXT,
-    idioma TEXT,
-    saga TEXT,
-    reseña TEXT,
-    puntuacion FLOAT
-  );
-`;
-
-//Endpoints
-
-app.post("/api/libro", async (req, res, next) => {
+export async function postLibro(req, res, next){
   try {
     const { isbn } = req.body;
 
@@ -119,9 +53,9 @@ app.post("/api/libro", async (req, res, next) => {
   } catch (err) {
     next(err);
   }
-});
-//Delete Book by ISBN from query
-app.delete("/api/libro", async (req, res, next) => {
+};
+
+export async function deleteLibro(req, res, next){
   try {
     const { isbn } = req.query;
     if (!isbn) {
@@ -138,10 +72,9 @@ app.delete("/api/libro", async (req, res, next) => {
   } catch (err) {
     next(err);
   }
-});
+};
 
-//Get all Books
-app.get("/api/libros", async (req, res) => {
+export async function getLibros(req, res){
   console.log("Entró al endpoint: /api/libros");
   try {
     const rows = await sql`
@@ -151,10 +84,9 @@ app.get("/api/libros", async (req, res) => {
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
-});
+};
 
-//Get book details by ISBN
-app.get("/api/libro/detalle", async (req, res) => {
+export async function getDetalle(req, res){
   const { isbn } = req.query;
   console.log("Entró al endpoint: /api/libro/detalles");
   try {
@@ -165,9 +97,9 @@ app.get("/api/libro/detalle", async (req, res) => {
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
-});
+};
 
-app.delete("/api/libro/detalle", async (req, res) => {
+export async function deleteDetalle(req, res){
   const { isbn } = req.query;
   console.log("Entró al endpoint: /api/libro/detalles");
   try {
@@ -182,22 +114,21 @@ app.delete("/api/libro/detalle", async (req, res) => {
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
-});
+};
 
-//Post book details by ISBN
-app.post("/api/libro/detalle", async (req, res) => {
+export async function postDetalle(req, res){
   const {
     libro_id,
-    descripcion,
-    paginas,
+    sinopsis,
     genero,
+    paginas,
     idioma,
-    saga,
-    resena,
-    puntuacion,
-    estante,
+    formato,
+    ubicacion,
+    prestado_a,
+    fecha_prestamo,
   } = req.body;
-
+  
   try {
     await sql`
       INSERT INTO detalles (libro_id, descripcion, paginas, genero, idioma, saga, resena, puntuacion, estante)
@@ -217,10 +148,9 @@ app.post("/api/libro/detalle", async (req, res) => {
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
-});
+};
 
-//Save Book
-app.post("/api/libro/save", async (req, res) => {
+export async function saveLibro(req, res){
   const { isbn, titulo, autor, editorial, año, portada_url, estado } = req.body;
 
   try {
@@ -240,8 +170,4 @@ app.post("/api/libro/save", async (req, res) => {
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
-});
-
-app.listen(port, () => {
-  console.log(`Servidor corriendo en http://localhost:${port}`);
-});
+};
