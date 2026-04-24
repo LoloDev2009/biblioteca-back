@@ -119,14 +119,14 @@ export async function deleteDetalle(req, res){
 export async function postDetalle(req, res){
   const {
     libro_id,
-    sinopsis,
-    genero,
+    descripcion,
     paginas,
+    genero,
     idioma,
-    formato,
-    ubicacion,
-    prestado_a,
-    fecha_prestamo,
+    saga,
+    resena,
+    puntuacion,
+    estante
   } = req.body;
   
   try {
