@@ -37,8 +37,8 @@ await sql`
 
 */
 
-await sql`DELETE FROM detalles WHERE libro_id = ${libroId};`
-await sql`
+// await sql`DELETE FROM detalles WHERE libro_id = ${libroId};`
+/* await sql`
   INSERT INTO detalles (
     libro_id,
     descripcion,
@@ -62,7 +62,7 @@ await sql`
   )
 `;
 
-
+*/
 const libros = await sql`
     SELECT * FROM detalles
     `

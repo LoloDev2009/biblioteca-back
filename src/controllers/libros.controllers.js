@@ -120,7 +120,7 @@ export async function deleteDetalle(req, res){
 
 export async function postDetalle(req, res){
   console.log("Entró al endpoint: /api/libro/detalles (POST)");
-  const {
+  var {
     libro_id,
     descripcion,
     paginas,
@@ -131,7 +131,6 @@ export async function postDetalle(req, res){
     puntuacion,
     estante
   } = req.body;
-  
   try {
     await sql`
       INSERT INTO detalles (libro_id, descripcion, paginas, genero, idioma, saga, resena, puntuacion, estante)
