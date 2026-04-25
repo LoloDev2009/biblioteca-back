@@ -35,7 +35,9 @@ await sql`
 );
 `;
 
+*/
 
+await sql`DELETE FROM detalles WHERE libro_id = ${libroId};`
 await sql`
   INSERT INTO detalles (
     libro_id,
@@ -45,7 +47,8 @@ await sql`
     idioma,
     saga,
     resena,
-    puntuacion
+    puntuacion,
+    estante
   ) VALUES (
     ${libroId},
     ${descripcion},
@@ -54,11 +57,12 @@ await sql`
     ${idioma},
     ${saga},
     ${reseña},
-    ${puntuacion}
+    ${puntuacion},
+    ${estante}
   )
 `;
 
-*/
+
 const libros = await sql`
     SELECT * FROM detalles
     `

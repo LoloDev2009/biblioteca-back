@@ -91,7 +91,9 @@ export async function getDetalle(req, res){
   console.log("Entró al endpoint: /api/libro/detalles");
   try {
     const rows = await sql`
-      SELECT * FROM detalles JOIN libros ON detalles.libro_id = libros.id WHERE libros.isbn = ${isbn}
+      SELECT * FROM libros
+      LEFT JOIN detalles ON detalles.libro_id = libros.id
+      WHERE libros.isbn = ${isbn}
     `;
     res.json(rows[0] || null);
   } catch (err) {
