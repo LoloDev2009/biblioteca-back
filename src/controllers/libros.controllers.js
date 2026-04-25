@@ -119,6 +119,7 @@ export async function deleteDetalle(req, res){
 };
 
 export async function postDetalle(req, res){
+  console.log("Entró al endpoint: /api/libro/detalles (POST)");
   const {
     libro_id,
     descripcion,
