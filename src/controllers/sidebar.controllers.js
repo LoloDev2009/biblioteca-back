@@ -4,7 +4,7 @@ import sql from "../db/db.js";
 export async function getSidebar(req, res){
   try {
     const rows = await sql`
-      SELECT * FROM sidebar
+      SELECT * FROM sidebar ORDER BY id
     `;
     res.json(rows);
   } catch (err) {

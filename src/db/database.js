@@ -29,13 +29,17 @@ await sql`
   code TEXT NOT NULL
 );
 `;
-*/
+
 await sql`
   INSERT INTO sidebar (nombre, code) VALUES
   ('Libros', 'libros'),
   ('Estadisticas', 'estadisticas'),
   ('Data', 'data'),
   ('Personalizar', 'personalizar');
+`;
+*/
+await sql`
+  UPDATE sidebar SET code = 'books' WHERE nombre = 'Libros';
 `;
 // await sql`DELETE FROM detalles WHERE libro_id = ${libroId};`
 /* await sql`
