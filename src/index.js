@@ -2,6 +2,7 @@ import express from "express";
 import cors from "cors";
 import dotenv from "dotenv";
 import libroRoutes from "./routes/libros.routes.js";
+import sidebarRoutes from "./routes/sidebar.routes.js";
 import { errorHandler } from "./middlewares/errorHandler.js";
 
 dotenv.config();
@@ -12,6 +13,7 @@ app.use(cors());
 app.use(express.json());
 
 app.use("/api/libro", libroRoutes);
+app.use("/api/sidebar", sidebarRoutes);
 
 app.get("/", (req, res) => {
   res.send("API funcionando");
