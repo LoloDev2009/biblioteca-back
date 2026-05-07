@@ -3,7 +3,7 @@ import sqlite3 from "sqlite3";
 import fs from "fs";
 
 // URL de tu backend remoto
-const REMOTE_URL = "https://biblioteca-back-315x.onrender.com/api/libro/all";
+const REMOTE_URL = "https://biblioteca-back-315x.onrender.com/api/libro/backup";
 
 // Archivo de backup
 const BACKUP_FILE = "src/db/backup.json";
@@ -21,7 +21,15 @@ db.serialize(() => {
     editorial TEXT,
     año TEXT,
     portada_url TEXT,
-    edited BOOL
+    estado TEXT,
+    descripcion TEXT,
+    paginas INTEGER,
+    genero TEXT,
+    idioma TEXT,
+    saga TEXT,
+    resena TEXT,
+    puntuacion REAL,
+    estante TEXT
   )`);
 });
 
@@ -37,14 +45,10 @@ async function hacerBackup() {
 
     // Guardar en la base de datos local
     const stmt = db.prepare(`INSERT OR IGNORE INTO libros
-      (isbn, titulo, autor, editorial, año, portada_url, estado, edited)
-      VALUES (?, ?, ?, ?, ?, ?,?,?)`);
+      (isbn, titulo, autor, editorial, año, portada_url, estado, descripcion, paginas, genero, idioma, saga, resena, puntuacion, estante)
+      VALUES (?, ?, ?, ?, ?, ?,?,?,?,?,?,?,?,?,?)`);
 
     libros.forEach(libro => {
-      if (libro.edited == "True"){
-        db.run(`DELETE FROM libros WHERE isbn = ?`,(libro.isbn));
-        console.log(libro.titulo)
-      }
       stmt.run(
         libro.isbn,
         libro.titulo,
@@ -53,7 +57,14 @@ async function hacerBackup() {
         libro.año,
         libro.portada_url,
         libro.estado,
-        null
+        libro.descripcion ,
+        libro.paginas,
+        libro.genero ,
+        libro.idioma ,
+        libro.saga,
+        libro.resena,
+        libro.puntuacion,
+        libro.estante
       );
       
     });
