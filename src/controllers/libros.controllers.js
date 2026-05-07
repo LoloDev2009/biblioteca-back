@@ -173,3 +173,16 @@ export async function saveLibro(req, res){
     res.status(500).json({ error: err.message });
   }
 };
+
+export async function backupLibros(req, res){
+  console.log("Entró al endpoint: /api/libro/backup");
+  
+  const libros = await sql`
+    SELECT * FROM libros LEFT JOIN detalles ON detalles.libro_id = libros.id
+  `;
+  try {
+    res.json(libros);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+};

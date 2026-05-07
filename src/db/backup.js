@@ -3,13 +3,13 @@ import sqlite3 from "sqlite3";
 import fs from "fs";
 
 // URL de tu backend remoto
-const REMOTE_URL = "https://biblioteca-back-315x.onrender.com/api/libros";
+const REMOTE_URL = "https://biblioteca-back-315x.onrender.com/api/libro/all";
 
 // Archivo de backup
-const BACKUP_FILE = "backup.json";
+const BACKUP_FILE = "src/db/backup.json";
 
 // Base de datos local
-const db = new sqlite3.Database("biblioteca.db");
+const db = new sqlite3.Database("src/db/biblioteca.db");
 
 // 1️⃣ Crear tabla si no existe
 db.serialize(() => {

@@ -1,5 +1,5 @@
 import express from "express";
-import { postLibro, deleteLibro, getLibros, getDetalle, deleteDetalle, postDetalle, saveLibro } from "../controllers/libros.controllers.js";
+import { postLibro, deleteLibro, getLibros, getDetalle, deleteDetalle, postDetalle, saveLibro, backupLibros } from "../controllers/libros.controllers.js";
 
 const router = express.Router();
 
@@ -10,5 +10,6 @@ router.get("/detalle", getDetalle);
 router.delete("/detalle", deleteDetalle);
 router.post("/detalle", postDetalle);
 router.post("/save", saveLibro);
+router.get("/backup", backupLibros);
 
 export default router;
